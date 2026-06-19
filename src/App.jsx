@@ -116,7 +116,7 @@ function App() {
   const [gameMode, setGameMode] = useState('solo'); // 'solo', 'flashcard', 'exam'
   const [audioEnabled, setAudioEnabled] = useState(true);
   const [timerEnabled, setTimerEnabled] = useState(true);
-  const [transitionDelay, setTransitionDelay] = useState(3);
+  const [transitionDelay, setTransitionDelay] = useState('3');
 
   // Active quiz states
   const [questions, setQuestions] = useState([]);
@@ -331,7 +331,7 @@ function App() {
         playSynthSound('victory', audioEnabled);
         setScreen('results');
       }
-    }, transitionDelay * 1000);
+    }, (Math.max(0.5, parseFloat(transitionDelay) || 3)) * 1000);
   };
 
   const simulateBots = (userPoints) => {
@@ -558,7 +558,7 @@ function App() {
                   ))}
                 </div>
                 <div className="mode-description">
-                  {gameMode === 'solo' && `🔥 Đua top thời gian thực, có âm thanh vui nhộn & đáp án tự động chuyển câu sau ${transitionDelay}s!`}
+                  {gameMode === 'solo' && `🔥 Đua top thời gian thực, có âm thanh vui nhộn & đáp án tự động chuyển câu sau ${Math.max(0.5, parseFloat(transitionDelay) || 3)}s!`}
                   {gameMode === 'flashcard' && "📖 Học nhanh. Lật thẻ xem đáp án, phù hợp để ôn lại bài trước giờ thi."}
                   {gameMode === 'exam' && "📝 Làm bài thi thử 5 chương không giới hạn thời gian. Nộp bài để xem điểm số."}
                 </div>
@@ -595,7 +595,7 @@ function App() {
                   className="cyber-input" 
                   style={{width: '80px', padding: '6px', textAlign: 'center', border: '1px solid var(--border-glass)', borderRadius: '8px'}}
                   value={transitionDelay}
-                  onChange={(e) => setTransitionDelay(Math.max(0.5, parseFloat(e.target.value) || 0.5))}
+                  onChange={(e) => setTransitionDelay(e.target.value)}
                 />
               </div>
             </div>
