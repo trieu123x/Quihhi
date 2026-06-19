@@ -116,6 +116,7 @@ function App() {
   const [gameMode, setGameMode] = useState('solo'); // 'solo', 'flashcard', 'exam'
   const [audioEnabled, setAudioEnabled] = useState(true);
   const [timerEnabled, setTimerEnabled] = useState(true);
+  const [transitionDelay, setTransitionDelay] = useState(3);
 
   // Active quiz states
   const [questions, setQuestions] = useState([]);
@@ -330,7 +331,7 @@ function App() {
         playSynthSound('victory', audioEnabled);
         setScreen('results');
       }
-    }, 3000);
+    }, transitionDelay * 1000);
   };
 
   const simulateBots = (userPoints) => {
@@ -557,7 +558,7 @@ function App() {
                   ))}
                 </div>
                 <div className="mode-description">
-                  {gameMode === 'solo' && "🔥 Đua top thời gian thực, có âm thanh vui nhộn & đáp án tự động chuyển câu sau 3s!"}
+                  {gameMode === 'solo' && `🔥 Đua top thời gian thực, có âm thanh vui nhộn & đáp án tự động chuyển câu sau ${transitionDelay}s!`}
                   {gameMode === 'flashcard' && "📖 Học nhanh. Lật thẻ xem đáp án, phù hợp để ôn lại bài trước giờ thi."}
                   {gameMode === 'exam' && "📝 Làm bài thi thử 5 chương không giới hạn thời gian. Nộp bài để xem điểm số."}
                 </div>
@@ -565,7 +566,7 @@ function App() {
             </div>
             
             <div className="options-flex" style={{marginBottom: '15px'}}>
-              <div className="input-group" style={{gridColumn: 'span 2', display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '10px'}}>
+              <div className="input-group" style={{display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '10px'}}>
                 <input 
                   type="checkbox" 
                   id="timer-enable-chk" 
@@ -577,8 +578,25 @@ function App() {
                   style={{width: '20px', height: '20px', cursor: 'pointer'}}
                 />
                 <label htmlFor="timer-enable-chk" style={{cursor: 'pointer', fontWeight: 600, fontSize: '0.95rem'}}>
-                  Giới hạn thời gian (20 giây mỗi câu hỏi)
+                  Giới hạn thời gian (20s)
                 </label>
+              </div>
+
+              <div className="input-group" style={{display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '10px'}}>
+                <label htmlFor="delay-input" style={{fontWeight: 600, fontSize: '0.95rem', whiteSpace: 'nowrap'}}>
+                  Chuyển câu sau (giây):
+                </label>
+                <input 
+                  id="delay-input"
+                  type="number" 
+                  min="0.5"
+                  step="0.5"
+                  max="10" 
+                  className="cyber-input" 
+                  style={{width: '80px', padding: '6px', textAlign: 'center', border: '1px solid var(--border-glass)', borderRadius: '8px'}}
+                  value={transitionDelay}
+                  onChange={(e) => setTransitionDelay(Math.max(0.5, parseFloat(e.target.value) || 0.5))}
+                />
               </div>
             </div>
 
