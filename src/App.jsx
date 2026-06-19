@@ -151,6 +151,11 @@ function App() {
     localStorage.setItem('atbm_player_name', playerName);
   }, [playerName]);
 
+  // Scroll to top on screen change
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [screen]);
+
   // Clean flash classes on unmount
   useEffect(() => {
     return () => {
@@ -458,7 +463,6 @@ function App() {
       {screen === 'lobby' && (
         <div className="lobby-container">
           <div className="logo-section">
-            <div className="logo-subtitle">Học viện Công nghệ Bưu chính Viễn thông</div>
             <h1 className="logo-title">ATBM QUIZIZZ GAME</h1>
             <p style={{color: 'var(--text-gray)', fontSize: '1.1rem', marginTop: '10px'}}>
               Ôn thi trắc nghiệm Cơ sở An toàn thông tin (5 Chương học)
@@ -674,21 +678,6 @@ function App() {
             </div>
           </div>
 
-          {/* Bottom Bar Section */}
-          <div className="bottom-status-bar">
-            <div className="bottom-left-profile">
-              <div className="profile-avatar-img">👤</div>
-              <span className="profile-name-lbl">{playerName}</span>
-            </div>
-            
-            <div className="bottom-center-powerups">
-              <div className="powerup-btn orange-pw">🚀</div>
-              <div className="powerup-btn green-pw">⏳</div>
-              <div className="powerup-btn blue-pw">✨</div>
-            </div>
-            
-            <div style={{width: '100px'}}></div> {/* balance spacer */}
-          </div>
         </div>
       )}
 
