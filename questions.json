@@ -1,0 +1,6216 @@
+[
+  {
+    "number": 1,
+    "chapter": "Chương 1:",
+    "question": "Mô hình tổng quát đảm bảo an toàn thông tin và hệ thống thông tin thường gồm \ncác lớp:",
+    "options": [
+      {
+        "text": "An ninh tổ chức, An ninh mạng và Điều khiển truy cập",
+        "is_correct": false
+      },
+      {
+        "text": "An ninh tổ chức, Tưởng lửa và Điều khiển truy cập",
+        "is_correct": false
+      },
+      {
+        "text": "An ninh tổ chức, An ninh mạng và An toàn hệ điều hành và ứng dụng",
+        "is_correct": false
+      },
+      {
+        "text": "An ninh tổ chức, An ninh mạng và An ninh hệ thống",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "chapter": "Chương 1:",
+    "question": "An toàn thông tin gồm hai lĩnh vực chính là:",
+    "options": [
+      {
+        "text": "An ninh mạng và An toàn hệ thống",
+        "is_correct": false
+      },
+      {
+        "text": "An toàn máy tính và An toàn Internet",
+        "is_correct": false
+      },
+      {
+        "text": "An toàn máy tính và An ninh mạng",
+        "is_correct": false
+      },
+      {
+        "text": "An toàn công nghệ thông tin và Đảm bảo thông tin",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "chapter": "Chương 1:",
+    "question": "Tại sao cần phải đảm bảo an toàn cho thông tin?",
+    "options": [
+      {
+        "text": "Do có nhiều thiết bị kết nối mạng Internet với nhiều nguy cơ và đe dọa",
+        "is_correct": true
+      },
+      {
+        "text": "Do có quá nhiều phần mềm độc hại",
+        "is_correct": false
+      },
+      {
+        "text": "Do có quá nhiều nguy cơ tấn công mạng",
+        "is_correct": false
+      },
+      {
+        "text": "Do có nhiều thiết bị kết nối mạng Internet",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "chapter": "Chương 1:",
+    "question": "An toàn hệ thống thông tin là:",
+    "options": [
+      {
+        "text": "Việc đảm bảo thông tin trong hệ thống không bị đánh cắp",
+        "is_correct": false
+      },
+      {
+        "text": "Việc đảm bảo cho hệ thống thông tin hoạt động trơn tru, ổn định",
+        "is_correct": false
+      },
+      {
+        "text": "Việc đảm bảo cho hệ thống thông tin không bị tấn công",
+        "is_correct": false
+      },
+      {
+        "text": "Việc đảm bảo các thuộc tính an ninh, an toàn của hệ thống thông tin",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "chapter": "Chương 1:",
+    "question": "Người sử dụng hệ thống thông tin quản lý trong mô hình 4 loại hệ thống thông tin \nlà:",
+    "options": [
+      {
+        "text": "Quản lý cao cấp",
+        "is_correct": false
+      },
+      {
+        "text": "Giám đốc điều hành",
+        "is_correct": false
+      },
+      {
+        "text": "Nhân viên",
+        "is_correct": false
+      },
+      {
+        "text": "Quản lý bộ phận",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "chapter": "Chương 1:",
+    "question": "Nguyên tắc cơ bản cho đảm bảo an toàn thông tin, hệ thống và mạng là:",
+    "options": [
+      {
+        "text": "Phòng vệ nhiều lớp có chiều sâu",
+        "is_correct": true
+      },
+      {
+        "text": "Cần đầu tư trang thiết bị và chuyên gia đảm bảo an toàn",
+        "is_correct": false
+      },
+      {
+        "text": "Cần mua sắm và lắp đặt nhiều thiết bị an ninh chuyên dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Cân bằng giữa tính hữu dụng, chi phí và tính năng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "chapter": "Chương 1:",
+    "question": "Một trong các nội dung rất quan trọng của quản lý an toàn thông tin là:",
+    "options": [
+      {
+        "text": "Quản lý các ứng dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Quản lý hệ thống",
+        "is_correct": false
+      },
+      {
+        "text": "Quản lý hệ điều hành",
+        "is_correct": false
+      },
+      {
+        "text": "Quản lý rủi ro",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "chapter": "Chương 1:",
+    "question": "Một thông điệp có nội dung nhạy cảm truyền trên mạng bị sửa đổi. Các thuộc tính \nan toàn thông tin nào bị vi phạm?",
+    "options": [
+      {
+        "text": "Bí mật, Toàn vẹn và sẵn dùng",
+        "is_correct": false
+      },
+      {
+        "text": "Bí mật và Toàn vẹn",
+        "is_correct": true
+      },
+      {
+        "text": "Bí mật",
+        "is_correct": false
+      },
+      {
+        "text": "Toàn vẹn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "chapter": "Chương 1:",
+    "question": "Nguy cơ bị tấn công từ chối dịch vụ (DoS) và từ chối dịch vụ phân tán (DDoS) \nthường gặp ở vùng nào trong 7 vùng cơ sở hạ tầng CNTT?",
+    "options": [
+      {
+        "text": "Vùng máy trạm",
+        "is_correct": false
+      },
+      {
+        "text": "Vùng mạng WAN",
+        "is_correct": false
+      },
+      {
+        "text": "Vùng mạng LAN-to-WAN",
+        "is_correct": false
+      },
+      {
+        "text": "Vùng mạng LAN",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "chapter": "Chương 1:",
+    "question": "An toàn thông tin (Information Security) là gì?",
+    "options": [
+      {
+        "text": "Là việc phòng chống đánh cắp thông tin",
+        "is_correct": false
+      },
+      {
+        "text": "Là việc bảo vệ chống truy nhập, sử dụng, tiết lộ, sửa đổi, hoặc phá hủy thông tin một\ncách trái phép",
+        "is_correct": true
+      },
+      {
+        "text": "Là việc bảo vệ chống sử dụng, tiết lộ, sửa đổi, vận chuyển hoặc phá hủy thông tin \nmột cách trái phép",
+        "is_correct": false
+      },
+      {
+        "text": "Là việc phòng chống tấn công mạng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "chapter": "Chương 1:",
+    "question": "Một trong các biện pháp cụ thể cho quản lý, khắc phục các lỗ hổng bảo mật và \ntăng cường khả năng đề kháng cho hệ thống là:",
+    "options": [
+      {
+        "text": "Định kỳ cập nhật thông tin về các lỗ hổng từ các trang web chính thức",
+        "is_correct": false
+      },
+      {
+        "text": "Định kỳ cập nhật các bản vá và nâng cấp hệ điều hành",
+        "is_correct": true
+      },
+      {
+        "text": "Định kỳ nâng cấp hệ thống phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Định kỳ nâng cấp hệ thống phần cứng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "chapter": "Chương 1:",
+    "question": "Các mật khẩu nào sau đây là khó phá nhất đối với một hacker ?",
+    "options": [
+      {
+        "text": "password83",
+        "is_correct": false
+      },
+      {
+        "text": "reception",
+        "is_correct": false
+      },
+      {
+        "text": "!$aLtNb83",
+        "is_correct": true
+      },
+      {
+        "text": "LaT3r",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "chapter": "Chương 1:",
+    "question": "Trong tấn công khai thác lỗi tràn bộ đệm, tin tặc thường sử dụng một số lệnh \nNOP (No Operation) ở phần đầu của mã tấn công. Mục đích của việc này là để:",
+    "options": [
+      {
+        "text": "Tăng khả năng phá hoại của mã tấn công",
+        "is_correct": false
+      },
+      {
+        "text": "Tăng khả năng gây tràn bộ đệm",
+        "is_correct": false
+      },
+      {
+        "text": "Tăng khả năng mã tấn công được thực hiện",
+        "is_correct": true
+      },
+      {
+        "text": "Tăng khả năng gây lỗi chương trình",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "chapter": "Chương 1:",
+    "question": "Tìm phát biểu đúng trong các phát biểu sau:",
+    "options": [
+      {
+        "text": "Điểm yếu hệ thống chỉ xuất hiện trong các mô đun phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Điểm yếu chỉ xuất hiện khi hệ thống bị tấn công",
+        "is_correct": false
+      },
+      {
+        "text": "Điểm yếu hệ thống có thể xuất hiện trong cả các mô đun phần cứng và phần mềm",
+        "is_correct": true
+      },
+      {
+        "text": "Điểm yếu hệ thống chỉ xuất hiện trong các mô đun phần cứng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "chapter": "Chương 1:",
+    "question": "Người sử dụng hệ thống trợ giúp ra quyết định trong mô hình 4 loại hệ thống \nthông tin là:",
+    "options": [
+      {
+        "text": "Quản lý cao cấp",
+        "is_correct": true
+      },
+      {
+        "text": "Giám đốc điều hành",
+        "is_correct": false
+      },
+      {
+        "text": "Nhân viên",
+        "is_correct": false
+      },
+      {
+        "text": "Quản lý bộ phận",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "chapter": "Chương 1:",
+    "question": "Các thành phần chính của hệ thống máy tính gồm:",
+    "options": [
+      {
+        "text": "CPU, Bộ nhớ, HDD, hệ điều hành và các ứng dụng",
+        "is_correct": false
+      },
+      {
+        "text": "CPU, hệ điều hành và các ứng dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Hệ thống phần cứng và Hệ thống phần mềm",
+        "is_correct": true
+      },
+      {
+        "text": "CPU, Bộ nhớ, HDD và Hệ thống bus truyền dẫn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "chapter": "Chương 1:",
+    "question": "Nguyên nhân của sự tồn tại các điểm yếu trong hệ thống có thể do:",
+    "options": [
+      {
+        "text": "Lỗi thiết kế, lỗi cài đặt và lập trình",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả các khâu trong quá trình phát triển và vận hành",
+        "is_correct": true
+      },
+      {
+        "text": "Lỗi quản trị",
+        "is_correct": false
+      },
+      {
+        "text": "Lỗi cấu hình hoạt động",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "chapter": "Chương 1:",
+    "question": "Trên thực tế, có thể giảm khả năng bị tấn công nếu có thể...",
+    "options": [
+      {
+        "text": "Triệt tiêu được hết các nguy cơ",
+        "is_correct": false
+      },
+      {
+        "text": "Triệt tiêu được hết các mối đe dọa",
+        "is_correct": false
+      },
+      {
+        "text": "Giảm thiểu các lỗ hổng bảo mật",
+        "is_correct": true
+      },
+      {
+        "text": "Kiểm soát chặt chẽ người dùng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "chapter": "Chương 1:",
+    "question": "Sâu SQL Slammer tấn công khai thác lỗi tràn bộ đệm trong hệ quản trị cơ sở dữ \nliệu:",
+    "options": [
+      {
+        "text": "SQL Server 2012",
+        "is_correct": false
+      },
+      {
+        "text": "SQL Server 2000",
+        "is_correct": true
+      },
+      {
+        "text": "SQL Server 2008",
+        "is_correct": false
+      },
+      {
+        "text": "SQL Server 2003",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "chapter": "Chương 1:",
+    "question": "Trong suốt quá trình kiểm định một bản ghi hệ thống máy chủ, các mục nào sau \nđây có thể được xem như là một khả năng đe dọa bảo mật ?",
+    "options": [
+      {
+        "text": "Năm lần nổ lực login thất bại trên tài khoản “jsmith”",
+        "is_correct": true
+      },
+      {
+        "text": "Hai lần login thành công với tài khoản Administrator",
+        "is_correct": false
+      },
+      {
+        "text": "Năm trăm ngàn công việc in được gởi đến một máy in",
+        "is_correct": false
+      },
+      {
+        "text": "Ba tập tin mới được lưu trong tài khoản thư mục bởi người sử dụng là “finance”",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "chapter": "Chương 1:",
+    "question": "Các kỹ thuật và công cụ thường được sử dụng trong an ninh mạng bao gồm:",
+    "options": [
+      {
+        "text": "VPN, SSL/TLS, PGP",
+        "is_correct": false
+      },
+      {
+        "text": "Điều khiển truy nhập",
+        "is_correct": false
+      },
+      {
+        "text": "Điều khiển truy nhập, tường lửa, proxy và các giao thức bảo mật, ứng dụng dựa trên \nmật mã",
+        "is_correct": true
+      },
+      {
+        "text": "Tường lửa, proxy",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "chapter": "Chương 1:",
+    "question": "Các thành phần của an toàn thông tin gồm:",
+    "options": [
+      {
+        "text": "An toàn máy tính, An ninh mạng, Quản lý ATTT và Chính sách ATTT",
+        "is_correct": false
+      },
+      {
+        "text": "An toàn máy tính và dữ liệu, An ninh mạng, Quản lý ATTT và Chính sách ATTT",
+        "is_correct": true
+      },
+      {
+        "text": "An toàn máy tính, An ninh mạng, Quản lý rủi ro ATTT và Chính sách ATTT",
+        "is_correct": false
+      },
+      {
+        "text": "An toàn máy tính, An toàn dữ liệu, An ninh mạng, Quản lý ATTT",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "chapter": "Chương 1:",
+    "question": "Các yêu cầu cơ bản trong đảm bảo an toàn thông tin và an toàn hệ thống thông tin\ngồm:",
+    "options": [
+      {
+        "text": "Bảo mật, Toàn vẹn và Khả dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Bảo mật, Toàn vẹn và Sẵn dùng",
+        "is_correct": false
+      },
+      {
+        "text": "Bí mật, Toàn vẹn và Sẵn dùng",
+        "is_correct": true
+      },
+      {
+        "text": "Bí mật, Toàn vẹn và không chối bỏ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "chapter": "Chương 1:",
+    "question": "Việc thực thi quản lý ATTT cần được thực hiện theo chu trình lặp lại là do",
+    "options": [
+      {
+        "text": "Các điều kiện bên trong và bên ngoài hệ thống thay đổi theo thời gian",
+        "is_correct": true
+      },
+      {
+        "text": "Trình độ cao của tin tặc và công cụ tấn công ngày càng phổ biến",
+        "is_correct": false
+      },
+      {
+        "text": "Số lượng và khả năng phá hoại của các phần mềm độc hại ngày càng tăng",
+        "is_correct": false
+      },
+      {
+        "text": "Máy tính, hệ điều hành và các phần mềm được nâng cấp nhanh chóng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "chapter": "Chương 1:",
+    "question": "Hệ thống thông tin là:",
+    "options": [
+      {
+        "text": "Một hệ thống tích hợp các thành phần nhằm phục vụ việc thu thập, lưu trữ, xử lý \nthông tin, chuyển giao thông tin, tri thức và các sản phẩm số",
+        "is_correct": true
+      },
+      {
+        "text": "Một hệ thống gồm các thành phần phần cứng và phần mềm nhằm phục vụ việc thu \nthập, lưu trữ, xử lý thông tin, chuyển giao thông tin",
+        "is_correct": false
+      },
+      {
+        "text": "Một hệ thống gồm các thành phần phần cứng nhằm phục vụ việc thu thập, lưu trữ, \nxử lý thông tin, chuyển giao thông tin, tri thức và các sản phẩm số",
+        "is_correct": false
+      },
+      {
+        "text": "Một hệ thống gồm các thành phần phần mềm nhằm phục vụ việc thu thập, lưu trữ, \nxử lý thông tin, chuyển giao thông tin, tri thức và các sản phẩm số",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "chapter": "Chương 1:",
+    "question": "Tính bí mật của thông tin có thể được đảm bảo bằng:",
+    "options": [
+      {
+        "text": "Bảo vệ vật lý",
+        "is_correct": false
+      },
+      {
+        "text": "Các kỹ thuật mã hóa",
+        "is_correct": false
+      },
+      {
+        "text": "sử dụng VPN",
+        "is_correct": false
+      },
+      {
+        "text": "Bảo vệ vật lý, VPN, hoặc mã hóa",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "chapter": "Chương 1:",
+    "question": "Đảm bảo thông tin (Information assurance) thường được thực hiện bằng cách:",
+    "options": [
+      {
+        "text": "Sử dụng kỹ thuật tạo dự phòng ra đĩa cứng",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng kỹ thuật tạo dự phòng ra băng từ",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng kỹ thuật tạo dự phòng ngoại vi",
+        "is_correct": true
+      },
+      {
+        "text": "Sử dụng kỹ thuật tạo dự phòng cục bộ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "chapter": "Chương 1:",
+    "question": "Lỗi tràn bộ đệm là lỗi trong khâu:",
+    "options": [
+      {
+        "text": "Kiểm thử phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Thiết kế phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Lập trình phần mềm",
+        "is_correct": true
+      },
+      {
+        "text": "Quản trị phần mềm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "chapter": "Chương 1:",
+    "question": "Đâu là dạng lỗ hổng bảo mật thường gặp trong hệ điều hành và các phần mềm \nứng dụng?",
+    "options": [
+      {
+        "text": "Lỗi tràn bộ đệm",
+        "is_correct": true
+      },
+      {
+        "text": "Lỗi quản trị",
+        "is_correct": false
+      },
+      {
+        "text": "Lỗi cấu hình",
+        "is_correct": false
+      },
+      {
+        "text": "Lỗi thiết kế",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "chapter": "Chương 1:",
+    "question": "Quản lý các bản vá và cập nhật phần mềm là phần việc thuộc lớp bảo vệ nào \ntrong mô hình tổng thể đảm bảo an toàn hệ thống thông tin?",
+    "options": [
+      {
+        "text": "Lớp an ninh mạng",
+        "is_correct": false
+      },
+      {
+        "text": "Lớp an ninh hệ thống",
+        "is_correct": true
+      },
+      {
+        "text": "Lớp an ninh cơ quan/tổ chức",
+        "is_correct": false
+      },
+      {
+        "text": "Lớp an ninh hệ điều hành và phần mềm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "chapter": "Chương 1:",
+    "question": "Khi khai thác lỗi tràn bộ đệm, tin tặc thường chèn mã độc, gây tràn và ghi đè để \nsửa đổi thành phần nào sau đây của bộ nhớ Ngăn xếp để chuyển hướng nhằm thực \nhiện mã độc của mình:",
+    "options": [
+      {
+        "text": "Các biển đầu vào của hàm",
+        "is_correct": false
+      },
+      {
+        "text": "Bộ đệm hoặc biển cục bộ của hàm",
+        "is_correct": false
+      },
+      {
+        "text": "Con trỏ khung ngăn xếp (sfp)",
+        "is_correct": false
+      },
+      {
+        "text": "Địa chỉ trở về của hàm",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "chapter": "Chương 1:",
+    "question": "Một trong các mối đe dọa an toàn thông tin thường gặp là:",
+    "options": [
+      {
+        "text": "Phần mềm nghe lén",
+        "is_correct": false
+      },
+      {
+        "text": "Phần mềm quảng cáo",
+        "is_correct": false
+      },
+      {
+        "text": "Phần mềm phá mã",
+        "is_correct": false
+      },
+      {
+        "text": "Phần mềm độc hại",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "chapter": "Chương 1:",
+    "question": "Trong các vùng hạ tầng CNTT, vùng nào có nhiều mối đe dọa nguy cơ nhất?",
+    "options": [
+      {
+        "text": "vùng người dùng",
+        "is_correct": true
+      },
+      {
+        "text": "vùng máy trạm",
+        "is_correct": false
+      },
+      {
+        "text": "vùng mạng LAN",
+        "is_correct": false
+      },
+      {
+        "text": "vùng mạng LAN-to-WAN",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "chapter": "Chương 1:",
+    "question": "Trong các vùng hạ tầng CNTT, vùng nào có các lỗ hổng trong quản lý phần mềm \nứng dụng của máy chủ?",
+    "options": [
+      {
+        "text": "vùng máy trạm",
+        "is_correct": false
+      },
+      {
+        "text": "vùng mạng LAN-to-WAN",
+        "is_correct": false
+      },
+      {
+        "text": "vùng truy nhập từ xa",
+        "is_correct": false
+      },
+      {
+        "text": "vùng hệ thống và ứng dụng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "chapter": "Chương 1:",
+    "question": "Trong các vùng hạ tầng CNTT, vùng nào dễ bị tấn công DoS, DDoS nhất?",
+    "options": [
+      {
+        "text": "vùng người dùng",
+        "is_correct": false
+      },
+      {
+        "text": "vùng mạng LAN",
+        "is_correct": false
+      },
+      {
+        "text": "vùng mạng WAN",
+        "is_correct": true
+      },
+      {
+        "text": "vùng mạng LAN-to-WAN",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "chapter": "Chương 1:",
+    "question": "Việc quản lý, khắc phục các lỗ hổng bảo mật và tăng cường khả năng đề kháng \ncho hệ thống cần được thực hiện theo nguyên tắc chung là:",
+    "options": [
+      {
+        "text": "Cân bằng giữa An toàn, Hữu dụng và Tin cậy",
+        "is_correct": false
+      },
+      {
+        "text": "Cân bằng giữa An toàn, Rẻ tiền và Chất lượng",
+        "is_correct": false
+      },
+      {
+        "text": "Cân bằng giữa An toàn, Hữu dụng và Rẻ tiền",
+        "is_correct": true
+      },
+      {
+        "text": "Cân bằng giữa An toàn, Tin cậy và Rẻ tiền",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "chapter": "Chương 1:",
+    "question": "Các mối nguy cơ đe dọa thường trực là:",
+    "options": [
+      {
+        "text": "Tin tặc và các phần mềm độc hại",
+        "is_correct": true
+      },
+      {
+        "text": "Mất thông tin và các phầm mềm nghe lén.",
+        "is_correct": false
+      },
+      {
+        "text": "Phần cứng và phần mềm độc hại.",
+        "is_correct": false
+      },
+      {
+        "text": "Các phần mềm độc hại.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "chapter": "Chương 1:",
+    "question": "Người sử dụng hệ thống thông tin điều hành trong mô hình 4 loại hệ thống thông \ntin là:",
+    "options": [
+      {
+        "text": "Quản lý cao cấp",
+        "is_correct": false
+      },
+      {
+        "text": "Giám đốc điều hành",
+        "is_correct": true
+      },
+      {
+        "text": "Nhân viên",
+        "is_correct": false
+      },
+      {
+        "text": "Quản lý bộ phận",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "chapter": "Chương 1:",
+    "question": "Các phần của hệ thống thông tin dựa trên máy tính là:",
+    "options": [
+      {
+        "text": "Phần cứng (Hardware), phần mềm (Software), cơ sở dữ liệu (Databases), hệ \nthống mạng (Networks), tập các lệnh kết hợp (Procedures).",
+        "is_correct": true
+      },
+      {
+        "text": "Phần cứng (Hardware), phần mềm (Software), người dùng (Actor), hệ thống \nmạng (Networks), tập các lệnh kết hợp (Procedures).",
+        "is_correct": false
+      },
+      {
+        "text": "Phần cứng (Hardware), phần mềm (Software), dữ liệu (Data), bảo vê \n(Security), hệ thống mạng (Networks), tập các lệnh kết hợp (Procedures).",
+        "is_correct": false
+      },
+      {
+        "text": "Phần cứng (Hardware), phần mềm (Software), cơ sở dữ liệu (Databases), \nmạng riêng ảo (VPN), tập các lệnh kết hợp (Procedures).",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "chapter": "Chương 1:",
+    "question": "Công thức tính tỉ lệ tính sẵn dùng:",
+    "options": [
+      {
+        "text": "A = (Uptime)/(Uptime + Downtime).",
+        "is_correct": true
+      },
+      {
+        "text": "A = (Uptime)/(Loadtime + Downtime).",
+        "is_correct": false
+      },
+      {
+        "text": "A = (Uptime)/(Uptime + Downtime + Loadtime).",
+        "is_correct": false
+      },
+      {
+        "text": "A = (Uptime)/(Uptime + Loadtime).",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "chapter": "Chương 1:",
+    "question": "Các bước thực thi quản lí ATTT:",
+    "options": [
+      {
+        "text": "Lập kế hoạch (Plan), Thực thi kế hoạch (Do), Giám sát kết quả thực hiện \n(Monitor), Thực hiện các kiểm soát (Control).",
+        "is_correct": true
+      },
+      {
+        "text": "Lập kế hoạch (Plan), Thực thi kế hoạch (Do), Thực hiện kiểm tra (Check), \nHành động (Act).",
+        "is_correct": false
+      },
+      {
+        "text": "Lập kế hoạch (Plan), Thực thi kế hoạch (Do), Giám sát kết quả thực hiện \n(Monitor), Thực hiện kiểm tra (Check).",
+        "is_correct": false
+      },
+      {
+        "text": "Lập kế hoạch (Plan), Thực thi kế hoạch (Do), Thực hiện kiểm tra (Check), \nThực hiện các kiểm soát (Control).",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "chapter": "Chương 1:",
+    "question": "Chính sách an toàn thông tin không bao gồm:",
+    "options": [
+      {
+        "text": "Chính sách an toàn ở mức người dùng (User security policy).",
+        "is_correct": true
+      },
+      {
+        "text": "Chính sách an toàn ở mức vật lý (Physical security policy)",
+        "is_correct": false
+      },
+      {
+        "text": "Chính sách an toàn ở mức tổ chức (Organizational security policy)",
+        "is_correct": false
+      },
+      {
+        "text": "Chính sách an toàn ở mức logic (Logical security policy)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "chapter": "Chương 1:",
+    "question": "Tính toàn vẹn liên quan đến … và … của dữ liệu.",
+    "options": [
+      {
+        "text": "tính hợp lệ (validity) … sự chính xác (accuracy).",
+        "is_correct": true
+      },
+      {
+        "text": "tính hợp lệ (validity) … sự chính xác (rigorous).",
+        "is_correct": false
+      },
+      {
+        "text": "sự hợp pháp (legalization) … sự chính xác (accuracy).",
+        "is_correct": false
+      },
+      {
+        "text": "sự hợp pháp (legalization) … sự chính xác (rigorous).",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "chapter": "Chương 1:",
+    "question": "Các lớp phòng vệ điển hình để đàm bảo ATTT và an toàn HTTT:",
+    "options": [
+      {
+        "text": "Lớp an ninh cơ quan/tổ chức (Plant Security), Lớp an ninh mạng (Network Security),\nLớp an ninh hệ thống (System Integrity).",
+        "is_correct": true
+      },
+      {
+        "text": "Lớp bảo vệ vật lý (Physical Security), Lớp an ninh mạng (Network Security), Lớp an\nninh hệ thống (System Integrity).",
+        "is_correct": false
+      },
+      {
+        "text": "Lớp an ninh cơ quan/tổ chức (Plant Security), Lớp mạng riêng ảo (Virtual Private \nNetwork), Lớp an ninh hệ thống (System Integrity).",
+        "is_correct": false
+      },
+      {
+        "text": "Lớp an ninh cơ quan/tổ chức (Plant Security), Lớp an ninh mạng (Network Security),\nLớp an ninh hệ thống (System Security).",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "chapter": "Chương 1:",
+    "question": "Các đe dọa với tầng người dùng bao gồm:",
+    "options": [
+      {
+        "text": "Coi nhẹ hoặc vi phạm các chính sách an ninh an toàn; đưa CD/DVD/USB với \ncác files cá nhân vào hệ thống; thiếu ý thức về vấn đề an ninh an toàn.",
+        "is_correct": true
+      },
+      {
+        "text": "Đưa CD/DVD/USB với các files cá nhân vào hệ thống; người dùng tải ảnh, \nâm nhạc, video; truy nhập trái phép vào máy trạm.",
+        "is_correct": false
+      },
+      {
+        "text": "Coi nhẹ hoặc vi phạm các chính sách an ninh an toàn; thăm dò và rà quét trái \nphép các cổng dịch vụ; thiếu ý thức về vấn đề an ninh an toàn.",
+        "is_correct": false
+      },
+      {
+        "text": "Đưa CD/DVD/USB với các files cá nhân vào hệ thống; người dùng tải ảnh, \nâm nhạc, video; nguy cơ từ người dùng giả mạo trong mạng WLAN.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "chapter": "Chương 1:",
+    "question": "Trong các vùng hạ tầng CNTT, vùng nào dễ bị tấn công kiểu vét cạn (brute force) \nnhất?",
+    "options": [
+      {
+        "text": "vùng người dùng",
+        "is_correct": false
+      },
+      {
+        "text": "vùng hệ thống/ứng dụng",
+        "is_correct": false
+      },
+      {
+        "text": "vùng truy cập từ xa",
+        "is_correct": true
+      },
+      {
+        "text": "vùng mạng LAN-to-WAN.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "chapter": "Chương 1:",
+    "question": "Các đe dọa với vùng máy trạm bao gồm:",
+    "options": [
+      {
+        "text": "Coi nhẹ hoặc vi phạm các chính sách an ninh an toàn; đưa CD/DVD/USB với \ncác files cá nhân vào hệ thống; thiếu ý thức về vấn đề an ninh an toàn.",
+        "is_correct": false
+      },
+      {
+        "text": "Đưa CD/DVD/USB với các files cá nhân vào hệ thống; người dùng tải ảnh, \nâm nhạc, video; truy nhập trái phép vào máy trạm.",
+        "is_correct": true
+      },
+      {
+        "text": "Coi nhẹ hoặc vi phạm các chính sách an ninh an toàn; thăm dò và rà quét trái \nphép các cổng dịch vụ; thiếu ý thức về vấn đề an ninh an toàn.",
+        "is_correct": false
+      },
+      {
+        "text": "Đưa CD/DVD/USB với các files cá nhân vào hệ thống; người dùng tải ảnh, \nâm nhạc, video; nguy cơ từ người dùng giả mạo trong mạng WLAN.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "chapter": "Chương 1:",
+    "question": "Người sử dụng Hệ thống xử lý giao dịch trong mô hình 4 loại hệ thống thông tin \nlà:",
+    "options": [
+      {
+        "text": "Quản lý cao cấp",
+        "is_correct": false
+      },
+      {
+        "text": "Giám đốc điều hành",
+        "is_correct": false
+      },
+      {
+        "text": "Nhân viên",
+        "is_correct": true
+      },
+      {
+        "text": "Quản lý bộ phận",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "chapter": "Chương 1:",
+    "question": "Đâu là 1 lớp phòng vệ an ninh mạng:",
+    "options": [
+      {
+        "text": "Tường lửa, mạng riêng ảo (VPN).",
+        "is_correct": true
+      },
+      {
+        "text": "Lớp chính sách & thủ tục đảm bảo ATTT.",
+        "is_correct": false
+      },
+      {
+        "text": "Lớp quản trị tài khoản và phân quyền người dùng.",
+        "is_correct": false
+      },
+      {
+        "text": "Lớp phát hiện và ngăn chặn phần mềm độc hại.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "chapter": "Chương 1:",
+    "question": "Các biện pháp được sử dụng để đảm bảo an toàn máy tính và dữ liệu là:",
+    "options": [
+      {
+        "text": "Đảm bảo an toàn hđh, máy tính, dịch vụ; sử dụng tường lửa, proxy.",
+        "is_correct": false
+      },
+      {
+        "text": "Các kỹ thuật và hệ thống pháp hiện, ngăn chặn tấn công, xâm nhập.",
+        "is_correct": false
+      },
+      {
+        "text": "Vấn đề về phòng chống phần mềm độc hại, giám sát mạng.",
+        "is_correct": false
+      },
+      {
+        "text": "Việc sao lưu tạo dự phòng dữ liệu, đảm bảo dữ liệu không bị mất mát khi xảy \nra sự cố.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "chapter": "Chương 2:",
+    "question": "Đây là một trong các biện pháp phòng chống tấn công khai thác lỗi tràn bộ đệm?",
+    "options": [
+      {
+        "text": "Sử dụng tường lửa",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng công nghệ xác thực mạnh",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng các kỹ thuật mật mã",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng cơ chế cẩm thực hiện mã trong dữ liệu",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "chapter": "Chương 2:",
+    "question": "Trong tấn công khai thác lỗi tràn bộ đệm, tin tặc thường sử dụng một số lệnh NOP \n(No Operation) ở phần đầu của mã tấn công. Mục đích của việc này là để:",
+    "options": [
+      {
+        "text": "Tăng khả năng phá hoại của mã tấn công",
+        "is_correct": false
+      },
+      {
+        "text": "Tăng khả năng gây tràn bộ đệm",
+        "is_correct": false
+      },
+      {
+        "text": "Tăng khả năng mã tấn công được thực hiện",
+        "is_correct": true
+      },
+      {
+        "text": "Tăng khả năng gây lỗi chương trình",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "chapter": "Chương 2:",
+    "question": "Tìm phát biểu đúng trong các phát biểu sau:",
+    "options": [
+      {
+        "text": "Điểm yếu hệ thống chỉ xuất hiện trong các mô đun phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Điểm yếu chỉ xuất hiện khi hệ thống bị tấn công",
+        "is_correct": false
+      },
+      {
+        "text": "Điểm yếu hệ thống có thể xuất hiện trong cả các mô đun phần cứng và phần mềm",
+        "is_correct": true
+      },
+      {
+        "text": "Điểm yếu hệ thống chỉ xuất hiện trong các mô đun phần cứng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "chapter": "Chương 2:",
+    "question": "Các vùng bộ nhớ thường bị tràn gồm:",
+    "options": [
+      {
+        "text": "Ngăn xếp (Stack) và vùng nhớ cấp phát động (Heap)",
+        "is_correct": true
+      },
+      {
+        "text": "Ngăn xếp (Stack) và Bộ nhớ đệm (Cache)",
+        "is_correct": false
+      },
+      {
+        "text": "Hàng đợi (Queue) và vùng nhớ cấp phát động (Heap)",
+        "is_correct": false
+      },
+      {
+        "text": "Hàng đợi (Queue) và Ngăn xếp (Stack)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "chapter": "Chương 2:",
+    "question": "Lỗ hổng an ninh trong một hệ thống là:",
+    "options": [
+      {
+        "text": "Bất kỳ điểm yếu nào trong hệ thống cho phép mối đe dọa có thể gây tác hại",
+        "is_correct": true
+      },
+      {
+        "text": "Các điểm yếu trong hệ điều hành",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả điểm yếu hoặc khiếm khuyết trong hệ thống",
+        "is_correct": false
+      },
+      {
+        "text": "Các điểm yếu trong các phần mềm ứng dụng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "chapter": "Chương 2:",
+    "question": "Nguyên nhân của sự tồn tại các điểm yếu trong hệ thống có thể do:",
+    "options": [
+      {
+        "text": "Lỗi thiết kế, lỗi cài đặt và lập trình",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả các khâu trong quá trình phát triển và vận hành",
+        "is_correct": true
+      },
+      {
+        "text": "Lỗi quản trị",
+        "is_correct": false
+      },
+      {
+        "text": "Lỗi cấu hình hoạt động",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "chapter": "Chương 2:",
+    "question": "Trên thực tế, có thể giảm khả năng bị tấn công nếu có thể...",
+    "options": [
+      {
+        "text": "Triệt tiêu được hết các nguy cơ",
+        "is_correct": false
+      },
+      {
+        "text": "Triệt tiêu được hết các mối đe dọa",
+        "is_correct": false
+      },
+      {
+        "text": "Giảm thiểu các lỗ hổng bảo mật",
+        "is_correct": true
+      },
+      {
+        "text": "Kiểm soát chặt chẽ người dùng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "chapter": "Chương 2:",
+    "question": "Đâu là biện pháp được sử dụng để phòng chống lỗi không kiểm tra đầu vào:",
+    "options": [
+      {
+        "text": "Kiểm tra tất cả các dữ liệu đầu vào, đặc biệt dữ liệu nhập từ người dùng và từ \ncác nguồn không tin cậy.",
+        "is_correct": false
+      },
+      {
+        "text": "Tạo các bộ lọc để lọc bỏ 1 số ký tự đặc biệt của các ngôn ngữ trong các trường \nhợp cần thiết mà kẻ tấn công có thể sử dụng.",
+        "is_correct": true
+      },
+      {
+        "text": "Luôn chạy các chương trình ứng dụng với quyền tối thiểu – vừa đủ để thực thi các tác\nvụ",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng giải thuật mã hóa/giải mã, hàm băm yếu, lạc hậu, hoặc có lỗ hổng \n(DES, MD4, MD5, ...)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "chapter": "Chương 2:",
+    "question": "Các lỗ hổng bảo mật thường tồn tại nhiều nhất trong thành phần nào của hệ thống:",
+    "options": [
+      {
+        "text": "Hệ điều hành",
+        "is_correct": false
+      },
+      {
+        "text": "Các dịch vụ mạng",
+        "is_correct": false
+      },
+      {
+        "text": "Các ứng dụng",
+        "is_correct": true
+      },
+      {
+        "text": "Các thành phần phần cứng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "chapter": "Chương 2:",
+    "question": "Trong tấn công khai thác lỗi tràn bộ đệm, tin tặc thường sử dụng shellcode. \nShellcode đó là dạng:",
+    "options": [
+      {
+        "text": "Mã Java",
+        "is_correct": false
+      },
+      {
+        "text": "Mã C/C++",
+        "is_correct": false
+      },
+      {
+        "text": "Mã máy",
+        "is_correct": true
+      },
+      {
+        "text": "Mã Hợp ngữ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "chapter": "Chương 2:",
+    "question": "Lỗ hổng bảo mật (Security vulnerability) là một điểm yếu tồn tại trong một hệ \nthống cho phép tin tặc:",
+    "options": [
+      {
+        "text": "Khai thác nhằm đánh cắp các thông tin trong hệ thống",
+        "is_correct": false
+      },
+      {
+        "text": "Khai thác gây tổn hại đến các thuộc tính an ninh của hệ thống đó",
+        "is_correct": true
+      },
+      {
+        "text": "Khai thác, tấn công phá hoại và gây tê liệt hệ thống",
+        "is_correct": false
+      },
+      {
+        "text": "Khai thác nhằm chiếm quyền điều khiển hệ thống",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "chapter": "Chương 2:",
+    "question": "Lỗi tràn bộ đệm là lỗi trong khâu:",
+    "options": [
+      {
+        "text": "Kiểm thử phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Thiết kế phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Lập trình phần mềm",
+        "is_correct": true
+      },
+      {
+        "text": "Quản trị phần mềm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "chapter": "Chương 2:",
+    "question": "Đâu là dạng lỗ hổng bảo mật thường gặp trong hệ điều hành và các phần mềm \nứng dụng?",
+    "options": [
+      {
+        "text": "Lỗi tràn bộ đệm",
+        "is_correct": true
+      },
+      {
+        "text": "Lỗi quản trị",
+        "is_correct": false
+      },
+      {
+        "text": "Lỗi cấu hình",
+        "is_correct": false
+      },
+      {
+        "text": "Lỗi thiết kế",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "chapter": "Chương 2:",
+    "question": "Loại tấn công nào sau đây chiếm quyền truy nhập đến tài nguyên lợi dụng cơ chế \nđiều khiển truy nhập DAC?",
+    "options": [
+      {
+        "text": "Spoofing",
+        "is_correct": false
+      },
+      {
+        "text": "Trojan horse",
+        "is_correct": true
+      },
+      {
+        "text": "Man in the middle",
+        "is_correct": false
+      },
+      {
+        "text": "Phishing",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "chapter": "Chương 2:",
+    "question": "Đâu là tên viết đúng của Hệ thống phát hiện đột nhập/xâm nhập?",
+    "options": [
+      {
+        "text": "Intrusion Detector System",
+        "is_correct": false
+      },
+      {
+        "text": "Intrusion Detecting System",
+        "is_correct": false
+      },
+      {
+        "text": "Intrusion Detection System",
+        "is_correct": true
+      },
+      {
+        "text": "Instruction Detection System",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "chapter": "Chương 2:",
+    "question": "Mức độ nghiêm trọng chia Microsoft là",
+    "options": [
+      {
+        "text": "Nguy hiểm, Quan trọng, Trung bình, Thấp",
+        "is_correct": true
+      },
+      {
+        "text": "Nguy hiểm, Cao, Trung bình, Thấp",
+        "is_correct": false
+      },
+      {
+        "text": "Cao, Quan trọng, Trung bình, Không quan trọng",
+        "is_correct": false
+      },
+      {
+        "text": "Cao, Trung bình, Thấp, Yếu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "chapter": "Chương 2:",
+    "question": "Tác hại của lỗi tràn bộ đệm là:",
+    "options": [
+      {
+        "text": "Gây mất dữ liệu của người dùng",
+        "is_correct": false
+      },
+      {
+        "text": "Có thể khiến cho ứng dụng ngừng hoạt động, gây mất dữ liệu hoặc thậm chí giúp kẻ \ntấn công kiểm soát hệ thống",
+        "is_correct": true
+      },
+      {
+        "text": "Khiến chương trình ngừng hoạt động",
+        "is_correct": false
+      },
+      {
+        "text": "Chiếm quền kiểm soát và phá hỏng hệ thống",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "chapter": "Chương 2:",
+    "question": "Đâu không phải là một trong các biện pháp phòng chống lỗi không kiểm tra đầu \nvào",
+    "options": [
+      {
+        "text": "Kiểm tra tất cả các dữ liệu đầu vào, đặc biệt dữ liệu nhập từ người dùng và từ các \nnguồn không tin cậy",
+        "is_correct": false
+      },
+      {
+        "text": "Không dùng user quản trị (root hoặc admin) để chạy các chương trình ứng dụng",
+        "is_correct": true
+      },
+      {
+        "text": "Tạo các bộ lọc để lọc bỏ các ký tự đặc biệt và các từ khóa của các ngôn ngữ trong \ncác trường hợp cần thiết mà kẻ tấn công có thể sử dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Kiểm tra sự hợp lý của nội dung dữ liệu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "chapter": "Chương 2:",
+    "question": "Các dạng dữ liệu không cần kiểm tra là",
+    "options": [
+      {
+        "text": "Các trường dữ liệu text",
+        "is_correct": false
+      },
+      {
+        "text": "Các file âm thanh, hình ảnh, hoặc đồ họa do người dùng hoặc các tiến trình khác \ncung cấp",
+        "is_correct": false
+      },
+      {
+        "text": "Các dữ liệu từ mạng hoặc các nguồn không tin cậy",
+        "is_correct": false
+      },
+      {
+        "text": "Các dữ liệu được đưa ra bởi hệ thống",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "chapter": "Chương 2:",
+    "question": "Kẻ tấn công có thể kiểm tra tất cả các … đầu vào và thử tất cả các … có thể khai \nthác được",
+    "options": [
+      {
+        "text": "Bước / Phương thức",
+        "is_correct": false
+      },
+      {
+        "text": "Dữ liệu / Phương thức",
+        "is_correct": true
+      },
+      {
+        "text": "Dữ liệu / Khả năng",
+        "is_correct": true
+      },
+      {
+        "text": "Bước / Khả năng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "chapter": "Chương 2:",
+    "question": "Khi kiểm soát truy cập bị lỗi, một người dùng bình có thể … của người quản trị \nvà có toàn quyền truy nhập vào hệ thống",
+    "options": [
+      {
+        "text": "Mượn quyền",
+        "is_correct": false
+      },
+      {
+        "text": "Xin quyền",
+        "is_correct": false
+      },
+      {
+        "text": "Đoạt quyền",
+        "is_correct": true
+      },
+      {
+        "text": "Đưa quyền",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "chapter": "Chương 2:",
+    "question": "Đâu không phải là phương pháp phòng chống lỗ hổng điều khiển truy cập",
+    "options": [
+      {
+        "text": "Không dùng user quản trị (root hoặc admin) để chạy các chương trình ứng \ndụng",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng các công cụ phân tích mã tự động tìm các điểm có khả năng xảy ra lỗi",
+        "is_correct": true
+      },
+      {
+        "text": "Luôn chạy các chương trình ứng dụng với quyền tối thiểu – vừa đủ để thực thi các \ntác vụ",
+        "is_correct": false
+      },
+      {
+        "text": "Kiểm soát chặt chẽ người dùng, xóa bỏ hoặc cấm truy nhập với những người dùng \nngầm định kiểu everyone",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "chapter": "Chương 2:",
+    "question": "Đâu không phải là 1 vấn đề xảy với cơ chế xác thực",
+    "options": [
+      {
+        "text": "Mật khẩu được lưu dưới dạng rõ (plain text)",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng mật khẩu đơn giản, dễ đoán, hoặc dùng mật khẩu trong thời gian dài",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng cơ chế xác thực không đủ mạnh",
+        "is_correct": false
+      },
+      {
+        "text": "Chọn mật khẩu đủ mạnh để sử dụng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "chapter": "Chương 2:",
+    "question": "Đâu là một thao tác an toàn đối với file",
+    "options": [
+      {
+        "text": "Sử dụng mật khẩu và quyền phù hợp để truy cập",
+        "is_correct": true
+      },
+      {
+        "text": "Thực hiện đọc/ghi file lưu ở những nơi mà các người dùng khác cũng có thể ghi file \nđó",
+        "is_correct": false
+      },
+      {
+        "text": "Không kiểm tra chính xác loại file, định danh thiết bị, các links hoặc các thuộc tính \nkhác của file trước khi sử dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Không kiểm tra mã trả về sau mỗi thao tác với file",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "chapter": "Chương 2:",
+    "question": "Đâu không phải là 1 biện pháp khắc phục và tăng cường khả năng để kháng cho \nhệ thống",
+    "options": [
+      {
+        "text": "Thường xuyên cập nhật thông tin về các điểm yếu, lỗ hổng bảo mật từ các trang web \nchính thức",
+        "is_correct": false
+      },
+      {
+        "text": "Người dùng được quyền truy nhập vào mọi tác vụ của hệ thống",
+        "is_correct": true
+      },
+      {
+        "text": "Cần có chính sách quản trị người dùng, mật khẩu và quyền truy nhập chặt chẽ ở mức\nhệ điều hành và mức ứng dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng các biện pháp phòng vệ ở lớp ngoài như tường lửa, proxies",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "chapter": "Chương 2:",
+    "question": "Một điều kiện đua tranh tồn tại khi có sự thay đổi … của 2 hay một số sự kiện gây\nra sự thay đổi … của hệ thống",
+    "options": [
+      {
+        "text": "Vị trí / Quá trình",
+        "is_correct": false
+      },
+      {
+        "text": "Vị trí / Hành vi",
+        "is_correct": false
+      },
+      {
+        "text": "Trật tự / Quá trình",
+        "is_correct": false
+      },
+      {
+        "text": "Trật tự / Hành vi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "chapter": "Chương 2:",
+    "question": "Các loại điểm yếu của hệ thống là",
+    "options": [
+      {
+        "text": "Có điểm yếu đã biết và đã được khắc phục",
+        "is_correct": false
+      },
+      {
+        "text": "Có điểm yếu đã biết và chưa được khắc phục",
+        "is_correct": false
+      },
+      {
+        "text": "Có điểm yếu chưa biết/chưa được phát hiện",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả các đáp",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "chapter": "Chương 2:",
+    "question": "Một trong các dạng lỗ hổng thường gặp trong hệ điều hành và các phần mềm ứng \ndụng là",
+    "options": [
+      {
+        "text": "SYN floods",
+        "is_correct": false
+      },
+      {
+        "text": "DDos",
+        "is_correct": false
+      },
+      {
+        "text": "Buffer Overflows",
+        "is_correct": true
+      },
+      {
+        "text": "Worms",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "chapter": "Chương 2:",
+    "question": "Trong điểm yếu bảo mật do các điều kiện tranh đua, Kẻ tấn công có thể lợi dụng \n… giữa 2 sự kiện để …, đổi tên file hoặc can thiệp vào quá trình hoạt động bình \nthường của hệ thống",
+    "options": [
+      {
+        "text": "Khoảng thời gian / Chèn mã độc",
+        "is_correct": true
+      },
+      {
+        "text": "Khoảng cách / Thay đổi biến",
+        "is_correct": false
+      },
+      {
+        "text": "Khoảng thời gian / Thay đổi biến",
+        "is_correct": false
+      },
+      {
+        "text": "Khoảng cách / Chèn mã độc",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "chapter": "Chương 2:",
+    "question": "Các lỗ hổng bảo mật trên hệ thống là do",
+    "options": [
+      {
+        "text": "Dịch vụ cung cấp",
+        "is_correct": false
+      },
+      {
+        "text": "Bản thân hệ điều hành",
+        "is_correct": false
+      },
+      {
+        "text": "Con người tạo ra",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả đều đúng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "chapter": "Chương 3:",
+    "question": "Tìm phát biểu đúng trong các phát biểu sau:",
+    "options": [
+      {
+        "text": "Mối đe dọa là bất kỳ một hành động tấn công nào vào hệ thống mạng.",
+        "is_correct": false
+      },
+      {
+        "text": "Mối đe dọa là bất kỳ một hành động nào có thể gây hư hại đến các tài nguyên hệ \nthống.",
+        "is_correct": true
+      },
+      {
+        "text": "Mối đe dọa là bất kỳ một hành động tấn công nào vào hệ thống máy tính.",
+        "is_correct": false
+      },
+      {
+        "text": "Mối đe dọa là bất kỳ một hành động tấn công nào vào hệ thống máy tính và mạng.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "chapter": "Chương 3:",
+    "question": "Khác biệt cơ bản của vi rút và sâu là:",
+    "options": [
+      {
+        "text": "Vi rút có khả năng tự lây lan mà không cần tương tác của người dùng",
+        "is_correct": false
+      },
+      {
+        "text": "Sâu có khả năng tự lây lan mà không cần tương tác của người dùng",
+        "is_correct": true
+      },
+      {
+        "text": "Sâu Có khả năng phá hoại lớn lơn",
+        "is_correct": false
+      },
+      {
+        "text": "Vi rút có khả năng phá hoại lớn lớn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "chapter": "Chương 3:",
+    "question": "Dạng tấn công gây ngắt quãng dịch vụ hoặc kênh truyền thông cho người dùng \nbình thường là:",
+    "options": [
+      {
+        "text": "Interceptions",
+        "is_correct": false
+      },
+      {
+        "text": "Fabrications",
+        "is_correct": false
+      },
+      {
+        "text": "Interruptions",
+        "is_correct": true
+      },
+      {
+        "text": "Modifications",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "chapter": "Chương 3:",
+    "question": "Tấn công nghe lén là kiểu tấn công:",
+    "options": [
+      {
+        "text": "Thụ động",
+        "is_correct": true
+      },
+      {
+        "text": "Chủ động",
+        "is_correct": false
+      },
+      {
+        "text": "Chiếm quyền điều khiển",
+        "is_correct": false
+      },
+      {
+        "text": "Chủ động và bị động",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "chapter": "Chương 3:",
+    "question": "Dạng tấn công chặn bắt thông tin truyền trên mạng để sửa đổi hoặc lạm dụng là:",
+    "options": [
+      {
+        "text": "Fabrications",
+        "is_correct": false
+      },
+      {
+        "text": "Modifications",
+        "is_correct": false
+      },
+      {
+        "text": "Interruptions",
+        "is_correct": false
+      },
+      {
+        "text": "Interceptions",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "chapter": "Chương 3:",
+    "question": "Có thể phòng chống tấn công Smurf bằng cách cấu hình các máy và router không \ntrả lời...",
+    "options": [
+      {
+        "text": "Các yêu cầu ICMP hoặc các yêu cầu phát quảng bá",
+        "is_correct": true
+      },
+      {
+        "text": "Các yêu cầu TCP hoặc các yêu cầu phát quảng bá",
+        "is_correct": false
+      },
+      {
+        "text": "Các yêu cầu UPD hoặc các yêu cầu phát quảng bá",
+        "is_correct": false
+      },
+      {
+        "text": "Các yêu cầu HTTP hoặc các yêu cầu phát quảng bá",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "chapter": "Chương 3:",
+    "question": "Đâu là một kỹ thuật tấn công Dos?",
+    "options": [
+      {
+        "text": "UDP Ping",
+        "is_correct": false
+      },
+      {
+        "text": "DNS Cache Poisoning",
+        "is_correct": false
+      },
+      {
+        "text": "Smurf",
+        "is_correct": true
+      },
+      {
+        "text": "DNS spoofing",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "chapter": "Chương 3:",
+    "question": "Dạng tấn công giả mạo thông tin thường để đánh lừa người dùng thông thường là:",
+    "options": [
+      {
+        "text": "Modifications",
+        "is_correct": false
+      },
+      {
+        "text": "Fabrications",
+        "is_correct": true
+      },
+      {
+        "text": "Interruptions",
+        "is_correct": false
+      },
+      {
+        "text": "Interceptions",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "chapter": "Chương 3:",
+    "question": "Kỹ thuật tấn công Smurf sử dụng giao thức ICMP và Cơ chế gửi…",
+    "options": [
+      {
+        "text": "Unicast",
+        "is_correct": false
+      },
+      {
+        "text": "Multicast",
+        "is_correct": false
+      },
+      {
+        "text": "Anycast",
+        "is_correct": false
+      },
+      {
+        "text": "Broadcast",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "chapter": "Chương 3:",
+    "question": "Pharming là kiểu tấn công vào…",
+    "options": [
+      {
+        "text": "Máy chủ web",
+        "is_correct": false
+      },
+      {
+        "text": "Máy chủ cơ sở dữ liệu của trang web",
+        "is_correct": false
+      },
+      {
+        "text": "Máy chủ và máy khách web",
+        "is_correct": false
+      },
+      {
+        "text": "Máy khách/trình duyệt web",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "chapter": "Chương 3:",
+    "question": "Đây là một công cụ kiểm tra lỗ hổng tấn công chèn mã SQL trên các website:",
+    "options": [
+      {
+        "text": "SQLCheck",
+        "is_correct": false
+      },
+      {
+        "text": "SQL Server",
+        "is_correct": false
+      },
+      {
+        "text": "SQLmap",
+        "is_correct": true
+      },
+      {
+        "text": "SQLite",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "chapter": "Chương 3:",
+    "question": "Khác biệt cơ bản giữa tấn công DoS và DDoS là:",
+    "options": [
+      {
+        "text": "Phạm vi tấn công",
+        "is_correct": true
+      },
+      {
+        "text": "Mức độ gây hại",
+        "is_correct": false
+      },
+      {
+        "text": "Kỹ thuật tấn công",
+        "is_correct": false
+      },
+      {
+        "text": "Tần suất tấn công",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "chapter": "Chương 3:",
+    "question": "Các máy tính ma/máy tính bị chiếm quyền điều khiển thường được tin tặc sử \ndụng để...",
+    "options": [
+      {
+        "text": "Gửi các yêu cầu tấn công chèn mã",
+        "is_correct": false
+      },
+      {
+        "text": "Đánh cắp dữ liệu từ máy chủ cơ sở dữ liệu",
+        "is_correct": false
+      },
+      {
+        "text": "Gửi thư rác, thư quảng cáo",
+        "is_correct": true
+      },
+      {
+        "text": "Thực hiện tấn công tràn bộ đệm.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "chapter": "Chương 3:",
+    "question": "Trong dạng tấn công vào mật khẩu dựa trên từ điển, tin tặc đánh cắp mật khẩu của\nngười dùng bằng cách:",
+    "options": [
+      {
+        "text": "Tìm mật khẩu trong từ điển các mật khẩu",
+        "is_correct": false
+      },
+      {
+        "text": "Thử các từ có tần suất sử dụng cao làm mật khẩu trong từ điển",
+        "is_correct": true
+      },
+      {
+        "text": "Vét cận các mật khẩu có thể có",
+        "is_correct": false
+      },
+      {
+        "text": "Lắng nghe trên đường truyền để đánh cắp mật khẩu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "chapter": "Chương 3:",
+    "question": "Một trong các phương thức lây lan thường gặp của sâu mạng là:",
+    "options": [
+      {
+        "text": "Lây lan thông qua sao chép các file",
+        "is_correct": false
+      },
+      {
+        "text": "Lây lan thông qua dịch vụ POP",
+        "is_correct": false
+      },
+      {
+        "text": "Lây lan thông qua khả năng thực thi từ xa",
+        "is_correct": true
+      },
+      {
+        "text": "Lây lan thông qua Microsoft Office",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "chapter": "Chương 3:",
+    "question": "Đây là một kỹ thuật tấn công Dos?",
+    "options": [
+      {
+        "text": "SYN requests",
+        "is_correct": false
+      },
+      {
+        "text": "DNS spoofing",
+        "is_correct": false
+      },
+      {
+        "text": "IP spoofing",
+        "is_correct": false
+      },
+      {
+        "text": "Ping of death",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "chapter": "Chương 3:",
+    "question": "Tấn công từ chối dịch vụ (Dos - Denial of Service Attacks) là dạng tấn công có \nkhả năng...",
+    "options": [
+      {
+        "text": "Gây hư hỏng phần cứng máy chủ",
+        "is_correct": false
+      },
+      {
+        "text": "Cản trở người dùng hợp pháp truy nhập các tài nguyên hệ thống",
+        "is_correct": true
+      },
+      {
+        "text": "Đánh cắp dữ liệu trong hệ thống",
+        "is_correct": false
+      },
+      {
+        "text": "Cản trở người dùng hợp pháp truy nhập các file dữ liệu của hệ thống",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "chapter": "Chương 3:",
+    "question": "Mật khẩu an toàn trong thời điểm hiện tại là mật khẩu có:",
+    "options": [
+      {
+        "text": "Chứa các ký tự từ nhiều dạng ký tự",
+        "is_correct": false
+      },
+      {
+        "text": "Khả năng chống tấn công phát lại và chứa các ký tự từ nhiều dạng ký tự",
+        "is_correct": false
+      },
+      {
+        "text": "Độ dài từ 8 ký tự trở lên, gồm chữ cái hoa, thường, chữ số và ký tự đặc biệt",
+        "is_correct": true
+      },
+      {
+        "text": "Độ dài lớn hơn hoặc bằng 8 ký tự",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "chapter": "Chương 3:",
+    "question": "Nguy cơ cao nhất mà một cuộc tấn công chèn mã SQL có thể gây ra cho một hệ \nthống là:",
+    "options": [
+      {
+        "text": "Đánh cắp các thông tin trong cơ sở dữ liệu",
+        "is_correct": false
+      },
+      {
+        "text": "Chèn, xóa hoặc sửa đổi dữ liệu",
+        "is_correct": false
+      },
+      {
+        "text": "Vượt qua các khâu xác thực người dùng",
+        "is_correct": false
+      },
+      {
+        "text": "Chiếm quyền điều khiển hệ thống",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "chapter": "Chương 3:",
+    "question": "Một trong các biện pháp có thể sử dụng để phòng chống tấn công kiểu người \nđứng giữa là:",
+    "options": [
+      {
+        "text": "Sử dụng các hệ thống IPS/IDS",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng chứng chỉ số để xác thực thông tin nhận dạng các bên",
+        "is_correct": true
+      },
+      {
+        "text": "Sử dụng mã hóa để đảm bảo tính bí mật các thông điệp truyền",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng tường lửa để ngăn chặn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "chapter": "Chương 3:",
+    "question": "Macro viruses là loại viruses thường lây nhiễm vào…",
+    "options": [
+      {
+        "text": "Các file tài liệu của bộ phần mềm Open Office",
+        "is_correct": false
+      },
+      {
+        "text": "Các file tài liệu của bộ phần mềm Microsoft Exchange",
+        "is_correct": false
+      },
+      {
+        "text": "Các file tài liệu của bộ phần mềm Microsoft SQL",
+        "is_correct": false
+      },
+      {
+        "text": "Các file tài liệu của bộ phần mềm Microsoft Office",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "chapter": "Chương 3:",
+    "question": "Tấn công kiểu Social Engineering là dạng tấn công khai thác yếu tố nào sau đây \ntrong hệ thống?",
+    "options": [
+      {
+        "text": "Máy trạm",
+        "is_correct": false
+      },
+      {
+        "text": "Người dùng",
+        "is_correct": true
+      },
+      {
+        "text": "Máy chủ",
+        "is_correct": false
+      },
+      {
+        "text": "Hệ điều hành & ứng dụng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "chapter": "Chương 3:",
+    "question": "Câu lệnh SQL nào tin tặc thường sử dụng trong tấn công chèn mã SQL để đánh \ncắp các thông tin trong cơ sở dữ liệu?",
+    "options": [
+      {
+        "text": "UNION INSERT",
+        "is_correct": false
+      },
+      {
+        "text": "UNION SELECT",
+        "is_correct": true
+      },
+      {
+        "text": "SELECT UNION",
+        "is_correct": false
+      },
+      {
+        "text": "INSERT SELECT",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "chapter": "Chương 3:",
+    "question": "Phishing là một dạng của loại tấn công sử dụng...",
+    "options": [
+      {
+        "text": "Kỹ thuật chèn mã",
+        "is_correct": false
+      },
+      {
+        "text": "Kỹ thuật giả mạo địa chỉ IP",
+        "is_correct": false
+      },
+      {
+        "text": "Kỹ thuật gây tràn bộ đệm",
+        "is_correct": false
+      },
+      {
+        "text": "Kỹ thuật xã hội",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "chapter": "Chương 3:",
+    "question": "Các dạng phần mềm độc hại (malware) có khả năng tự nhân bản gồm:",
+    "options": [
+      {
+        "text": "Virus, zombie, spyware",
+        "is_correct": false
+      },
+      {
+        "text": "Virus, trojan, zombie",
+        "is_correct": false
+      },
+      {
+        "text": "Virus, worm, trojan",
+        "is_correct": false
+      },
+      {
+        "text": "Virus, worm, zombie",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "chapter": "Chương 3:",
+    "question": "Một trong các cách virus thường sử dụng để lây nhiễm vào các chương trình khác\nlà:",
+    "options": [
+      {
+        "text": "Ẩn mã của virus",
+        "is_correct": false
+      },
+      {
+        "text": "Thay thế các chương trình",
+        "is_correct": false
+      },
+      {
+        "text": "Xáo trộn mã của virus",
+        "is_correct": false
+      },
+      {
+        "text": "Sửa đổi các chương trình",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "chapter": "Chương 3:",
+    "question": "Trong tấn công DDoS phản chiếu hay gián tiếp, có sự tham gia của một số lượng \nlớn máy chủ trên mạng Internet không bị tin tặc chiếm quyền điều khiển. Các máy \nchủ này được gọi là...",
+    "options": [
+      {
+        "text": "Reflectors",
+        "is_correct": true
+      },
+      {
+        "text": "Requesters",
+        "is_correct": false
+      },
+      {
+        "text": "Forwarders",
+        "is_correct": false
+      },
+      {
+        "text": "Injectors",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "chapter": "Chương 3:",
+    "question": "Mục đích chính của tấn công giả mạo địa chỉ IP là:",
+    "options": [
+      {
+        "text": "Để vượt qua các hệ thống IPS và IDS",
+        "is_correct": true
+      },
+      {
+        "text": "Để vượt qua các hàng rào kiểm soát an ninh",
+        "is_correct": false
+      },
+      {
+        "text": "Để đánh cắp các dữ liệu nhạy cảm trên máy trạm",
+        "is_correct": false
+      },
+      {
+        "text": "Để đánh cắp các dữ liệu nhạy cảm trên máy chủ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "chapter": "Chương 3:",
+    "question": "Trojan horses là dạng phần mềm độc hại thường giành quyền truy nhập vào các \nfile của người dùng khai thác cơ chế điều khiển truy nhập...",
+    "options": [
+      {
+        "text": "МАС",
+        "is_correct": false
+      },
+      {
+        "text": "Role-Based",
+        "is_correct": false
+      },
+      {
+        "text": "Rule-Based",
+        "is_correct": false
+      },
+      {
+        "text": "DAC",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "chapter": "Chương 3:",
+    "question": "Một trong các biện pháp hiệu quả để phòng chống Macro virus :",
+    "options": [
+      {
+        "text": "Cấm tự động thực hiện macro trong Microsoft Exchange",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng tường lửa",
+        "is_correct": false
+      },
+      {
+        "text": "Cấm tự động thực hiện macro trong Microsoft Office",
+        "is_correct": true
+      },
+      {
+        "text": "Sử dụng IPS/IDS",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "chapter": "Chương 3:",
+    "question": "Đâu là một biện pháp phòng chống SYN Floods:",
+    "options": [
+      {
+        "text": "SYN Firewalls",
+        "is_correct": false
+      },
+      {
+        "text": "SYN IDS",
+        "is_correct": false
+      },
+      {
+        "text": "SYN Proxy",
+        "is_correct": false
+      },
+      {
+        "text": "SYN Cache",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "chapter": "Chương 3:",
+    "question": "Các zombie thường được tin tặc sử dụng để:",
+    "options": [
+      {
+        "text": "Đánh cắp dữ liệu từ máy chủ CSDL",
+        "is_correct": false
+      },
+      {
+        "text": "Thực hiện tấn công DoS",
+        "is_correct": false
+      },
+      {
+        "text": "Thực hiện tấn công tràn bộ đệm",
+        "is_correct": false
+      },
+      {
+        "text": "Thực hiện tấn công DDoS",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "chapter": "Chương 3:",
+    "question": "Tấn công kiểu Social Engineering có thể cho phép tin tặc:",
+    "options": [
+      {
+        "text": "Đánh cắp toàn bộ dữ liệu trên máy chủ",
+        "is_correct": false
+      },
+      {
+        "text": "Phá hỏng máy chủ",
+        "is_correct": false
+      },
+      {
+        "text": "Đánh cắp thông tin nhạy cảm trong cơ sở dữ liệu máy chủ",
+        "is_correct": false
+      },
+      {
+        "text": "Đánh cắp thông tin nhạy cảm của người dùng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "chapter": "Chương 3:",
+    "question": "Tấn công bằng mã độc có thể gồm:",
+    "options": [
+      {
+        "text": "Chèn mã XSS, CSRF",
+        "is_correct": false
+      },
+      {
+        "text": "Chèn mã SQL",
+        "is_correct": false
+      },
+      {
+        "text": "Tràn bộ đệm",
+        "is_correct": false
+      },
+      {
+        "text": "SQLi, XSS, CSRF và Buffer overflow",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "chapter": "Chương 3:",
+    "question": "Tại sao việc sử dụng thủ tục cơ sở dữ liệu (Stored procedure) là một trong các \nbiện pháp hiệu quả để ngăn chặn triệt để tấn công chèn mã SQL ?",
+    "options": [
+      {
+        "text": "Thủ tục cơ sở dữ liệu có khả năng cẩm chèn mã",
+        "is_correct": false
+      },
+      {
+        "text": "Thủ tục cơ sở dữ liệu độc lập với các ứng dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Thủ tục cơ sở dữ liệu cho phép tách mã lệnh SQL khỏi dữ liệu người dùng",
+        "is_correct": true
+      },
+      {
+        "text": "Thủ tục cơ sở dữ liệu lưu trong cơ sở dữ liệu và chạy nhanh hơn câu lệnh",
+        "is_correct": false
+      },
+      {
+        "text": "trực tiếp",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "chapter": "Chương 3:",
+    "question": "Dạng tấn công chèn mã được tin tặc sử dụng phổ biến trên các trang web nhắm \nđến các cơ sở dữ liệu là:",
+    "options": [
+      {
+        "text": "Tấn công chèn mã SQL",
+        "is_correct": true
+      },
+      {
+        "text": "Tấn công chèn mã XSS",
+        "is_correct": false
+      },
+      {
+        "text": "Tấn công chèn mã CSRF",
+        "is_correct": false
+      },
+      {
+        "text": "Tấn công chèn mã HTML",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "chapter": "Chương 3:",
+    "question": "Đâu là một trong các biện pháp phòng chống tấn công khai thác lỗi tràn bộ đệm?",
+    "options": [
+      {
+        "text": "Sử dụng các thư viện lập trình an toàn //or sử dụng cơ chế cấm thực hiện mã trong \ndữ liệu (DEP)",
+        "is_correct": true
+      },
+      {
+        "text": "Sử dụng tường lửa",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng các kỹ thuật mật mã",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng công nghệ xác thực mạnh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "chapter": "Chương 3:",
+    "question": "Để thực hiện tấn công Smurf, tin tặc phải giả mạo địa chỉ gói tin ICMP trong yêu \ncầu tấn công. Tin tặc sử dụng…",
+    "options": [
+      {
+        "text": "Địa chỉ máy nạn nhân làm địa đích của gói tin",
+        "is_correct": false
+      },
+      {
+        "text": "Địa chỉ router làm địa đích của gói tin",
+        "is_correct": false
+      },
+      {
+        "text": "Địa chỉ máy nạn nhân làm địa chỉ nguồn của gói tin",
+        "is_correct": true
+      },
+      {
+        "text": "Địa chỉ router làm địa chỉ nguồn của gói tin",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "chapter": "Chương 3:",
+    "question": "Để thực hiện tấn công DDOS, tin tặc trước hết cần chiếm quyền điều khiển của \nmột lượng lớn máy tính. Các máy tính bị chiếm quyền điều khiển thường được gọi là:",
+    "options": [
+      {
+        "text": "Worms",
+        "is_correct": false
+      },
+      {
+        "text": "Viruses",
+        "is_correct": false
+      },
+      {
+        "text": "Zombies",
+        "is_correct": true
+      },
+      {
+        "text": "Trojans",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "chapter": "Chương 3:",
+    "question": "Điểm yếu là",
+    "options": [
+      {
+        "text": "Một lỗi hoặc một khiếm khuyết tồn tại trong hệ thống",
+        "is_correct": true
+      },
+      {
+        "text": "Một lỗi khi xây dựng phần cứng máy tính",
+        "is_correct": false
+      },
+      {
+        "text": "Một lỗi hoặc một khiếm khuyết tồn tại trong kết nối mạng",
+        "is_correct": false
+      },
+      {
+        "text": "Là 1 khiếm khuyết của phần mềm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "chapter": "Chương 3:",
+    "question": "Tìm phát biểu đúng",
+    "options": [
+      {
+        "text": "Lỗ hổng là bất kỳ điểm yếu nào trong hệ thống cho phép hacker có thể gây tác hại",
+        "is_correct": false
+      },
+      {
+        "text": "Lỗ hổng là bất kỳ điểm yếu nào trong hệ thống cho phép mối đe dọa có thể gây tác \nhại",
+        "is_correct": true
+      },
+      {
+        "text": "Lỗ hổng là bất kỳ điểm yếu nào trong mạng cho phép mối đe dọa có thể gây tác hại",
+        "is_correct": false
+      },
+      {
+        "text": "Lỗ hổng là bất kỳ điều gì trong hệ thống cho phép mối đe dọa có thể gây tác hại",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "chapter": "Chương 3:",
+    "question": "Đâu không phải là mối quan hệ giữa mối đe dọa và lỗ hổng",
+    "options": [
+      {
+        "text": "Các mối đe dọa thường khai thác một hoặc một số lỗ hổng đã biết để thực hiện các \ncuộc tấn công phá hoại",
+        "is_correct": false
+      },
+      {
+        "text": "Không thể triệt tiêu được hết các lỗ hỏng, nhưng có thể giảm thiểu các mối đe dọa, \nqua đó giảm thiểu khả năng bị tận dụng để tấn công",
+        "is_correct": false
+      },
+      {
+        "text": "Nếu tồn tại một lỗ hổng trong hệ thống, sẽ có khả năng một mối đe dọa trở thành \nhiện thực",
+        "is_correct": false
+      },
+      {
+        "text": "Không thể triệt tiêu được hết các mối đe dọa, nhưng có thể giảm thiểu các lỗ hổng, \nqua đó giảm thiểu khả năng bị tận dụng để tấn công",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "chapter": "Chương 3:",
+    "question": "Dạng tấn công liên quan đến việc nghe trôm trên đường truyền và chuyển hướng \nthông tin để sử dụng trái phép là",
+    "options": [
+      {
+        "text": "Interceptions",
+        "is_correct": true
+      },
+      {
+        "text": "Fabrications",
+        "is_correct": false
+      },
+      {
+        "text": "Interruptions",
+        "is_correct": false
+      },
+      {
+        "text": "Modifications",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "chapter": "Chương 3:",
+    "question": "Đâu không phải là 1 kiểu tấn công thụ động",
+    "options": [
+      {
+        "text": "Không gây ra thay đổi trên hệ thống",
+        "is_correct": false
+      },
+      {
+        "text": "Sửa đổi dữ liệu trong file",
+        "is_correct": true
+      },
+      {
+        "text": "Nghe lén",
+        "is_correct": false
+      },
+      {
+        "text": "Giám sát lưu lượng trên đường truyền",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "chapter": "Chương 3:",
+    "question": "Đâu không phải là 1 dạng tấn công",
+    "options": [
+      {
+        "text": "Tấn công từ chối dịch vụ",
+        "is_correct": false
+      },
+      {
+        "text": "Tràn bộ đệm",
+        "is_correct": true
+      },
+      {
+        "text": "Tấn công kiểu Social Engineering",
+        "is_correct": false
+      },
+      {
+        "text": "Tấn công giả mạo địa chỉ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "chapter": "Chương 3:",
+    "question": "Đâu là một nguyên nhân dẫn dến bị tấn công bằng mã độc",
+    "options": [
+      {
+        "text": "Xậm phạm vào bộ nhớ riêng cảu ứng dụng",
+        "is_correct": true
+      },
+      {
+        "text": "Để mật khẩu ở dạng bản rõ",
+        "is_correct": false
+      },
+      {
+        "text": "Dữ liệu đầu vào từ người dùng hoặc từ các nguồn khác không được kiểm tra hoặc \nkiểm tra không kỹ lưỡng",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng thủ tục bắt tay ba bước",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "chapter": "Chương 3:",
+    "question": "Đâu không phải là một biện pháp phòng chống dựa trên thiết lập quyền truy nhập \nngười dùng phù hợp",
+    "options": [
+      {
+        "text": "Không sử dụng người dùng có quyền system admin hoặc database owner làm người \ndùng truy cập dữ liệu",
+        "is_correct": false
+      },
+      {
+        "text": "Người dùng được quyền truy nhập vào mọi tác vụ của hệ thống",
+        "is_correct": true
+      },
+      {
+        "text": "Chia nhóm người dùng, chỉ cấp quyền vừa đủ để truy cập các bảng biểu, thực hiện \ncâu truy vấn và chạy các thủ tục",
+        "is_correct": false
+      },
+      {
+        "text": "Tốt nhất, không cấp quyền thực hiện các câu truy vấn, cập nhật, sửa, xóa trực tiếp dữ\nliệu; Thủ tục hóa tất cả các câu lệnh và chỉ cấp quyền thực hiện thủ tục",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "chapter": "Chương 3:",
+    "question": "Trong tấn công DoS, việc gửi một lượng lớn yêu cầu gây cạn kiệt tài nguyên hệ \nthống hoặc băng thông đường truyền là loại tấn công nào",
+    "options": [
+      {
+        "text": "Flooding attacks",
+        "is_correct": true
+      },
+      {
+        "text": "Logic attacks",
+        "is_correct": false
+      },
+      {
+        "text": "SYN cache",
+        "is_correct": false
+      },
+      {
+        "text": "Sniffing",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "chapter": "Chương 3:",
+    "question": "SYN floods là kỹ thuật gây … các gói tin mở kết nối TCP",
+    "options": [
+      {
+        "text": "Hỏng hóc",
+        "is_correct": false
+      },
+      {
+        "text": "Dừng",
+        "is_correct": false
+      },
+      {
+        "text": "Ngập lụt",
+        "is_correct": true
+      },
+      {
+        "text": "Giả mạo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "chapter": "Chương 3:",
+    "question": "Đâu không phải là cách phòng chống SYN floods",
+    "options": [
+      {
+        "text": "Sử dụng kỹ thuật lọc",
+        "is_correct": false
+      },
+      {
+        "text": "Giảm thời gian chờ",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng Firewall và proxy",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng mật khẩu mạnh",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "chapter": "Chương 3:",
+    "question": "Điểm khác biệt của Reflective DDoS so với DDoS là gì",
+    "options": [
+      {
+        "text": "Các máy tính do kẻ tấn công điều khiển (Slaves/Zombies) trực tiếp tấn công máy nạn\nnhân",
+        "is_correct": true
+      },
+      {
+        "text": "Một lượng lớn yêu cầu giả mạo với địa chỉ nguồn là địa chỉ máy nạn nhân đến một \nsố lớn các máy khác được gửi đi",
+        "is_correct": false
+      },
+      {
+        "text": "Phạm vi tấn công lớn",
+        "is_correct": false
+      },
+      {
+        "text": "Tạo một lượng lớn yêu cầu kết nối giả mạo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "chapter": "Chương 3:",
+    "question": "Đâu không phải là 1 các tấn công kiểu Social Engineering",
+    "options": [
+      {
+        "text": "Kẻ tấn công bắt buộc người dùng truy cập vào đường dẫn giả mạo",
+        "is_correct": true
+      },
+      {
+        "text": "Kẻ tấn công có thể giả danh làm người có vị trí cao hơn so với nạn nhân để có được \nsự tin tưởng",
+        "is_correct": false
+      },
+      {
+        "text": "Kẻ tấn công có thể mạo nhận là người được ủy quyền của người có thẩm quyền để \nyêu cầu các nhân viên tiết lộ thông tin về cá nhân/tổ chức",
+        "is_correct": false
+      },
+      {
+        "text": "Kẻ tấn công có thể lập trang web giả để đánh lừa người dùng cung cấp các thông tin \ncá nhân và thông tin tài khoản, thẻ tín dụng, …",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "chapter": "Chương 3:",
+    "question": "Tìm phương án sai, Tấn công bằng bomb thư có thể thực hiện bằng",
+    "options": [
+      {
+        "text": "Có thể thực hiện được bằng kỹ thuật Social Engineering",
+        "is_correct": false
+      },
+      {
+        "text": "Hoặc khai thác lỗi trong hệ thống gửi nhận email SMTP",
+        "is_correct": false
+      },
+      {
+        "text": "Kẻ tấn công có thể lợi dụng các máy chủ email không được cấu hình tốt để gửi email\ncho chúng",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng phương pháp truyền tin TCP",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "chapter": "Chương 3:",
+    "question": "Chọn phát biểu đúng về logic bomb",
+    "options": [
+      {
+        "text": "Thường được “nhúng” vào các chương trình đặt trưng và thường tự động “phát nổ” \ntrong một số điều kiện cụ thể",
+        "is_correct": false
+      },
+      {
+        "text": "Thường “có sẵn” trong các chương trình bình thường và thường tự động “phát nổ” \ntrong một số điều kiện cụ thể",
+        "is_correct": false
+      },
+      {
+        "text": "Thường được “nhúng” vào các chương trình bình thường",
+        "is_correct": false
+      },
+      {
+        "text": "Thường được “nhúng” vào các chương trình bình thường và thường hẹn giờ để “phát\nnổ” trong một số điều kiện cụ thể",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "chapter": "Chương 3:",
+    "question": "Trojan horse là chương trình chứa …, thường giả danh những chương trình …, \nnhằm lừa người dùng kích hoạt chúng",
+    "options": [
+      {
+        "text": "Mã máy / Có ích",
+        "is_correct": false
+      },
+      {
+        "text": "Mã độc / Có ích",
+        "is_correct": true
+      },
+      {
+        "text": "Mã máy / Thông dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Mã độc / Thông dụng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "chapter": "Chương 3:",
+    "question": "Trojan horse thường được sử dụng để",
+    "options": [
+      {
+        "text": "Thực thi gián tiếp các tác vụ, mà tác giả của chúng không thể thực hiện trực tiếp do \nkhông có quyền truy nhập",
+        "is_correct": true
+      },
+      {
+        "text": "Thực thi gián tiếp các tác vụ, mà tác giả của chúng không thể thực hiện được do \nkhông thể truy nhập",
+        "is_correct": false
+      },
+      {
+        "text": "Thực thi trực tiếp các tác vụ, mà tác giả của chúng không thể thực hiện gián tiếp dù \nđã được cấp quyền truy nhập",
+        "is_correct": false
+      },
+      {
+        "text": "Thực thi trực tiếp các tác vụ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "chapter": "Chương 3:",
+    "question": "Zombie là một chương trình được thiết kế để giành quyền … một máy tính có kết \nnối Internet, và sử dụng máy tính bị kiểm soát để … các hệ thống khác",
+    "options": [
+      {
+        "text": "Xâm nhập / Nghe lén",
+        "is_correct": false
+      },
+      {
+        "text": "Xâm nhập / Tấn công",
+        "is_correct": false
+      },
+      {
+        "text": "Kiểm soát / Tấn công",
+        "is_correct": true
+      },
+      {
+        "text": "Kiểm soát / Nghe lén",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "chapter": "Chương 3:",
+    "question": "Tìm phát biểu sai trong các phát biểu sau về vòng đời của virus",
+    "options": [
+      {
+        "text": "Giai đoạn “nằm im”: Virus trong giai đoạn không được kích hoạt và có thể được kích\nhoạt nhờ một sự kiện nào đó",
+        "is_correct": false
+      },
+      {
+        "text": "Giai đoạn phát tán: Virus kiểm soát những chương trình mà nó đã tiếp xúc",
+        "is_correct": true
+      },
+      {
+        "text": "Giai đoạn kích hoạt: virus được kích hoạt để thực thi các tác vụ đã thiết được định \nsẵn. Virus cũng thường được kích hoạt dựa trên một sự kiện nào đó",
+        "is_correct": false
+      },
+      {
+        "text": "Giai đoạn thực hiện: thực thi các tác vụ. Một số virus có thể vô hại, nhưng một số \nkhác có thể xoá dữ liệu, chương trình...",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "chapter": "Chương 3:",
+    "question": "Đâu không phải một phương pháp lây lan của Worms",
+    "options": [
+      {
+        "text": "Lây lan qua thư điện tử: sử dụng email để gửi bản copy của sâu đến các máy khác",
+        "is_correct": false
+      },
+      {
+        "text": "Lây lan thông qua khả năng thực thi từ xa",
+        "is_correct": false
+      },
+      {
+        "text": "Lây lan thông qua khả năng log-in (đăng nhập) từ xa",
+        "is_correct": false
+      },
+      {
+        "text": "Cần sự đồng ý từ người dùng để lây lan từ máy này sang máy khác",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "chapter": "Chương 3:",
+    "question": "Loại mã nguồn độc hại nào có thể được cài đặt song không gây tác hại cho đến \nkhi một hoạt động nào đó được kích hoạt?",
+    "options": [
+      {
+        "text": "Sâu",
+        "is_correct": false
+      },
+      {
+        "text": "Ngựa trojan",
+        "is_correct": true
+      },
+      {
+        "text": "Logic bomb",
+        "is_correct": false
+      },
+      {
+        "text": "Stealth virus",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "chapter": "Chương 4:",
+    "question": "PGP đảm bảo tính bí mật thông điệp bằng cách sử dụng:",
+    "options": [
+      {
+        "text": "Mã hóa khóa bất đối xứng sử dụng khóa phiên",
+        "is_correct": true
+      },
+      {
+        "text": "Mã hóa khóa đối xứng sử dụng khóa phiên",
+        "is_correct": false
+      },
+      {
+        "text": "Mã hóa khóa bất đối xứng sử dụng khóa công khai",
+        "is_correct": false
+      },
+      {
+        "text": "Mã hóa khóa đối xứng sử dụng khóa công khai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "chapter": "Chương 4:",
+    "question": "Số lượng thao tác trong mỗi vòng xử lý của hàm băm MD5 là:",
+    "options": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "chapter": "Chương 4:",
+    "question": "Trong các cặp khoá sau đây của hệ mật RSA với p=5 ; q=7 , cặp khóa nào có khả \nnăng đúng nhất :",
+    "options": [
+      {
+        "text": "(e = 12 , d =11)",
+        "is_correct": false
+      },
+      {
+        "text": "(e = 4 , d =11)",
+        "is_correct": false
+      },
+      {
+        "text": "( e = 7 , d =23)",
+        "is_correct": true
+      },
+      {
+        "text": "( e = 3 , d =18)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "chapter": "Chương 4:",
+    "question": "Thuật giải SHA-1 dùng để :",
+    "options": [
+      {
+        "text": "Tạo khoá đối xứng",
+        "is_correct": false
+      },
+      {
+        "text": "Tạo chữ ký số",
+        "is_correct": false
+      },
+      {
+        "text": "Tạo một giá trị băm có độ dài cố định 160 bit",
+        "is_correct": true
+      },
+      {
+        "text": "Tạo một giá trị băm có độ dài cố định 256 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "chapter": "Chương 4:",
+    "question": "Một hệ mã hóa (cryptosystem) được cấu thành từ hai thành phần chính gồm:",
+    "options": [
+      {
+        "text": "Phương pháp mã hóa và chia khối",
+        "is_correct": false
+      },
+      {
+        "text": "Giải thuật mã hóa và ký số",
+        "is_correct": false
+      },
+      {
+        "text": "Phương pháp mã hóa và không gian khóa",
+        "is_correct": true
+      },
+      {
+        "text": "Giải thuật mã hóa và giải mã",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "chapter": "Chương 4:",
+    "question": "Đâu là một phương pháp mã hóa",
+    "options": [
+      {
+        "text": "OR",
+        "is_correct": false
+      },
+      {
+        "text": "AND",
+        "is_correct": false
+      },
+      {
+        "text": "NOT",
+        "is_correct": false
+      },
+      {
+        "text": "XOR",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "chapter": "Chương 4:",
+    "question": "Kích thước khối dữ liệu xử lý của giải thuật mã hóa AES là:",
+    "options": [
+      {
+        "text": "160 bit",
+        "is_correct": false
+      },
+      {
+        "text": "64 bit",
+        "is_correct": false
+      },
+      {
+        "text": "192 bit",
+        "is_correct": false
+      },
+      {
+        "text": "128 bit",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "chapter": "Chương 4:",
+    "question": "Điểm khác nhau chính giữa hai loại hàm băm MDC và MAC là:",
+    "options": [
+      {
+        "text": "MDC là loại hàm băm không khóa, còn MAC là loại hàm băm có khóa",
+        "is_correct": true
+      },
+      {
+        "text": "MDC có khả năng chống đụng độ cao hơn MAC",
+        "is_correct": false
+      },
+      {
+        "text": "MDC an toàn hơn MAC",
+        "is_correct": false
+      },
+      {
+        "text": "MAC an toàn hơn MDC",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "chapter": "Chương 4:",
+    "question": "Một trong các điểm yếu của các hệ mã hóa khóa công khai là:",
+    "options": [
+      {
+        "text": "Khó cài đặt trên thực tế",
+        "is_correct": false
+      },
+      {
+        "text": "Khó khăn trong quản lý và phân phối khóa",
+        "is_correct": false
+      },
+      {
+        "text": "Tốc độ chậm",
+        "is_correct": true
+      },
+      {
+        "text": "Độ an toàn thấp",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "chapter": "Chương 4:",
+    "question": "Hai thuộc tính cơ bản quan trọng nhất của một hàm băm là:",
+    "options": [
+      {
+        "text": "Nén và một chiều",
+        "is_correct": false
+      },
+      {
+        "text": "Dễ tính toán và có đầu ra cố định",
+        "is_correct": false
+      },
+      {
+        "text": "Một chiều và đầu ra cố định",
+        "is_correct": false
+      },
+      {
+        "text": "Nén và dễ tính toán",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "chapter": "Chương 4:",
+    "question": "Độ an toàn của hệ mật mã RSA dựa trên...",
+    "options": [
+      {
+        "text": "Độ phức tạp cao của giải thuật RSA",
+        "is_correct": false
+      },
+      {
+        "text": "Chi phí tính toán lớn",
+        "is_correct": false
+      },
+      {
+        "text": "Tính khó của việc phân tích số nguyên rất lớn",
+        "is_correct": true
+      },
+      {
+        "text": "Khóa có kích thước lớn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "chapter": "Chương 4:",
+    "question": "Khi sinh cặp khóa RSA, các số nguyên tố p và q nên được chọn với kích thước…",
+    "options": [
+      {
+        "text": "p càng lớn càng tốt",
+        "is_correct": false
+      },
+      {
+        "text": "Bằng khoảng một nửa kích thước của modulo n",
+        "is_correct": true
+      },
+      {
+        "text": "Không có yêu cầu về kích thước của p và q",
+        "is_correct": false
+      },
+      {
+        "text": "q càng lớn càng tốt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "chapter": "Chương 4:",
+    "question": "Tìm phát biểu đúng về mã hóa khóa bất đối xứng (Asymmetric key \ncryptography):",
+    "options": [
+      {
+        "text": "An toàn hơn mã hóa khóa bí mật",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng một khóa quá trình mã hóa và một khóa khác cho giải mã",
+        "is_correct": true
+      },
+      {
+        "text": "Chỉ sử dụng kỹ thuật mã hóa khối",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng một khóa chung cho cả quá trình mã hóa và giải mã",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "chapter": "Chương 4:",
+    "question": "Tìm phát biểu đúng về mã hóa khóa đối xứng (Symmetric key cryptography):",
+    "options": [
+      {
+        "text": "Sử dụng một khóa chung cho cả quá trình mã hóa và giải mã",
+        "is_correct": true
+      },
+      {
+        "text": "Sử dụng một khóa quá trình mã hóa và một khóa khác cho giải mã",
+        "is_correct": false
+      },
+      {
+        "text": "An toàn hơn mã hóa khóa công khai",
+        "is_correct": false
+      },
+      {
+        "text": "Chỉ sử dụng kỹ thuật mã hóa khối",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "chapter": "Chương 4:",
+    "question": "Số lượng vòng lặp chính thực hiện xáo trộn dữ liệu theo hàm Feistel (F) trong giải\nthuật DES là:",
+    "options": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "chapter": "Chương 4:",
+    "question": "Các hộp thay thế s-box trong giải thuật DES có số bit đầu vào và đầu ra tương \nứng là:",
+    "options": [
+      {
+        "text": "Vào 4 bit và ra 4 bit",
+        "is_correct": false
+      },
+      {
+        "text": "Vào 6 bit và ra 6 bit",
+        "is_correct": false
+      },
+      {
+        "text": "Vào 8 bit và ra 6 bit",
+        "is_correct": false
+      },
+      {
+        "text": "Vào 6 bit và ra 4 bit",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "chapter": "Chương 4:",
+    "question": "Một trong các ứng dụng phổ biến của các hàm băm là để tạo chuỗi...",
+    "options": [
+      {
+        "text": "CheckError",
+        "is_correct": false
+      },
+      {
+        "text": "CheckTotal",
+        "is_correct": false
+      },
+      {
+        "text": "CheckNum",
+        "is_correct": false
+      },
+      {
+        "text": "Checksum",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "chapter": "Chương 4:",
+    "question": "Trong quá trình xử lý thông điệp đầu vào tạo chuỗi băm, số lượng vòng xử lý của \nhàm băm SHA1 là:",
+    "options": [
+      {
+        "text": "80",
+        "is_correct": true
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "chapter": "Chương 4:",
+    "question": "Giải thuật mã hóa AES được thiết kế dựa trên…",
+    "options": [
+      {
+        "text": "mạng hoán vị-vernam",
+        "is_correct": false
+      },
+      {
+        "text": "mạng xor-thay thế",
+        "is_correct": false
+      },
+      {
+        "text": "mạng hoán vị-thay thế",
+        "is_correct": true
+      },
+      {
+        "text": "mạng hoán vị-xor",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "chapter": "Chương 4:",
+    "question": "Một trong các điểm yếu của các hệ mã hóa khóa đối xứng là:",
+    "options": [
+      {
+        "text": "Chi phí tính toán lớn",
+        "is_correct": false
+      },
+      {
+        "text": "Khó khăn trong quản lý và phân phối khóa",
+        "is_correct": true
+      },
+      {
+        "text": "Độ an toàn thấp",
+        "is_correct": false
+      },
+      {
+        "text": "Khó khăn trong cài đặt và triển khai hệ thống",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "chapter": "Chương 4:",
+    "question": "Số vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã của giải \nthuật mã hóa AES với khóa 192 bit là:",
+    "options": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "chapter": "Chương 4:",
+    "question": "Một trong các ứng dụng phổ biến của các hàm băm một chiều là để...",
+    "options": [
+      {
+        "text": "Mã hóa thẻ tín dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Mã hóa địa chỉ",
+        "is_correct": false
+      },
+      {
+        "text": "Mã hóa mật khẩu",
+        "is_correct": true
+      },
+      {
+        "text": "Mã hóa tên tài khoản",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "chapter": "Chương 4:",
+    "question": "PGP đảm bảo tính xác thực thông điệp bằng cách:",
+    "options": [
+      {
+        "text": "Mã hóa/giải mã thông điệp",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng hàm băm có khóa MAC",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng hàm băm không khóa MDC",
+        "is_correct": false
+      },
+      {
+        "text": "Tạo và kiểm tra chữ ký số",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "chapter": "Chương 4:",
+    "question": "Kích thước khóa hiệu dụng của hệ mã hóa DES là:",
+    "options": [
+      {
+        "text": "64 bit",
+        "is_correct": false
+      },
+      {
+        "text": "128 bit",
+        "is_correct": false
+      },
+      {
+        "text": "56 bit",
+        "is_correct": true
+      },
+      {
+        "text": "48 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "chapter": "Chương 4:",
+    "question": "Trong mã hóa dòng (stream cipher), dữ liệu được xử lý theo…",
+    "options": [
+      {
+        "text": "Từng bit hoặc từng byte/ký tự",
+        "is_correct": true
+      },
+      {
+        "text": "Từng bit",
+        "is_correct": false
+      },
+      {
+        "text": "Từng byte",
+        "is_correct": false
+      },
+      {
+        "text": "Từng chuỗi ký tự",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "chapter": "Chương 4:",
+    "question": "Trong hệ mật mã RSA, quan hệ toán học giữa khóa công khai e và số Phi(n) là:",
+    "options": [
+      {
+        "text": "Phi(n) là modulo của e",
+        "is_correct": false
+      },
+      {
+        "text": "e và Phi(n) không có quan hệ với nhau",
+        "is_correct": false
+      },
+      {
+        "text": "e và Phi(n) là 2 số nguyên tố cùng nhau",
+        "is_correct": true
+      },
+      {
+        "text": "Phi(n) là modulo nghịch đảo của e",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "chapter": "Chương 4:",
+    "question": "Các giải thuật mã hóa khóa đối xứng thông dụng gồm:",
+    "options": [
+      {
+        "text": "DES, RSA, RC4",
+        "is_correct": false
+      },
+      {
+        "text": "DES, AES, PGP",
+        "is_correct": false
+      },
+      {
+        "text": "DES, 3-DES, RSA",
+        "is_correct": true
+      },
+      {
+        "text": "DES, 3-DES, AES",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "chapter": "Chương 4:",
+    "question": "Trong hệ mật mã RSA, quan hệ toán học giữa khóa riêng d và khóa công khai e \nlà:",
+    "options": [
+      {
+        "text": "d và e là 2 số nguyên tố cùng nhau",
+        "is_correct": false
+      },
+      {
+        "text": "d và e không có quan hệ với nhau",
+        "is_correct": false
+      },
+      {
+        "text": "d là modulo nghịch đảo của e",
+        "is_correct": true
+      },
+      {
+        "text": "d là modulo của e",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "chapter": "Chương 4:",
+    "question": "Giải thuật mã hóa AES vận hành dựa trên một ma trận 4x4, được gọi là...",
+    "options": [
+      {
+        "text": "State",
+        "is_correct": true
+      },
+      {
+        "text": "States",
+        "is_correct": false
+      },
+      {
+        "text": "Status",
+        "is_correct": false
+      },
+      {
+        "text": "Stock",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "chapter": "Chương 4:",
+    "question": "Đâu là một ứng dụng của mã hóa?",
+    "options": [
+      {
+        "text": "PGG",
+        "is_correct": false
+      },
+      {
+        "text": "GPP",
+        "is_correct": false
+      },
+      {
+        "text": "PPG",
+        "is_correct": false
+      },
+      {
+        "text": "PGP",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "chapter": "Chương 4:",
+    "question": "Phần xử lý chính của SHA1 làm việc trên một chuỗi được gọi là state. Kích thước\ncủa state là:",
+    "options": [
+      {
+        "text": "160 bit",
+        "is_correct": true
+      },
+      {
+        "text": "170 bit",
+        "is_correct": false
+      },
+      {
+        "text": "150 bit",
+        "is_correct": false
+      },
+      {
+        "text": "180 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "chapter": "Chương 4:",
+    "question": "Trật tự các khâu xử lý trong các vòng lặp chính của giải thuật mã hóa AES là:",
+    "options": [
+      {
+        "text": "AddRoundKey, MixColumns, ShiftRows, SubBytes",
+        "is_correct": false
+      },
+      {
+        "text": "SubBytes, ShiftRows, MixColumns, AddRoundKey",
+        "is_correct": true
+      },
+      {
+        "text": "SubBytes, MixColumns, ShiftRows, AddRoundKey",
+        "is_correct": false
+      },
+      {
+        "text": "AddRoundKey, MixColumns, SubBytes, ShiftRows",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "chapter": "Chương 4:",
+    "question": "Văn bản sau khi được mã hóa gọi là gì?",
+    "options": [
+      {
+        "text": "Chứng chỉ.",
+        "is_correct": false
+      },
+      {
+        "text": "Mật mã đối xứng.",
+        "is_correct": false
+      },
+      {
+        "text": "Khóa công khai.",
+        "is_correct": false
+      },
+      {
+        "text": "Văn bản mã.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "chapter": "Chương 4:",
+    "question": "Đặc tính nào sau đây không thuộc chức năng bảo mật thông tin trong các hệ \nthống mật mã?",
+    "options": [
+      {
+        "text": "Hiệu quả.",
+        "is_correct": true
+      },
+      {
+        "text": "Bảo mật.",
+        "is_correct": false
+      },
+      {
+        "text": "Toàn vẹn.",
+        "is_correct": false
+      },
+      {
+        "text": "Không chối từ.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "chapter": "Chương 4:",
+    "question": "Ở hệ mật mã nào người gửi và người nhận thông diệp sử dụng cùng một khóa mã \nkhi mã hóa công khai và giải mã?",
+    "options": [
+      {
+        "text": "Không đối xứng.",
+        "is_correct": false
+      },
+      {
+        "text": "Đối xứng.",
+        "is_correct": true
+      },
+      {
+        "text": "RS",
+        "is_correct": false
+      },
+      {
+        "text": "Difie-Hellman.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "chapter": "Chương 4:",
+    "question": "Chuẩn nào sau đây được chính phủ Mỹ sử dụng thay thế cho DES như là một \nchuẩn mã hóa dữ liệu?",
+    "options": [
+      {
+        "text": "DSA",
+        "is_correct": false
+      },
+      {
+        "text": "ECC",
+        "is_correct": false
+      },
+      {
+        "text": "3DES",
+        "is_correct": false
+      },
+      {
+        "text": "AES",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "chapter": "Chương 4:",
+    "question": ". Ở hệ mật mã nào người gửi và người nhận thông điệp sử dụng các khóa khác \nnhau khi mã hóa và giải mã ?",
+    "options": [
+      {
+        "text": "Skipjack",
+        "is_correct": false
+      },
+      {
+        "text": "Blowfish",
+        "is_correct": false
+      },
+      {
+        "text": "Không đối xứng",
+        "is_correct": true
+      },
+      {
+        "text": "Đối xứng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "chapter": "Chương 4:",
+    "question": "Khi giá trị hàm băm của hai thông điệp khác nhau có giá trị tương tự nhau, ta gọi \nhiện tượng này là gì ?",
+    "options": [
+      {
+        "text": "Tấn công vào ngày sinh",
+        "is_correct": false
+      },
+      {
+        "text": "Xung đột",
+        "is_correct": true
+      },
+      {
+        "text": "Chữ ký số",
+        "is_correct": false
+      },
+      {
+        "text": "Khóa công khai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "chapter": "Chương 4:",
+    "question": "Nếu muốn xem một tài liệu “bảo mật”được mã hóa trên hệ mật bất đối xứng do \nngười khác gởi đến , bạn phải sử dụng khóa nào để giải mật tài liệu?",
+    "options": [
+      {
+        "text": "Khoá công khai của bạn",
+        "is_correct": false
+      },
+      {
+        "text": "Khoá công khai của bên gửi",
+        "is_correct": false
+      },
+      {
+        "text": "Khoá cá nhân của bên gửi",
+        "is_correct": true
+      },
+      {
+        "text": "Khoá cá nhân của bạn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "chapter": "Chương 4:",
+    "question": "Đâu là một phương pháp mã hóa:",
+    "options": [
+      {
+        "text": "Thay thế",
+        "is_correct": false
+      },
+      {
+        "text": "Đổi chỗ/ hoán vị",
+        "is_correct": false
+      },
+      {
+        "text": "Vernam",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả các phương án trên",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "chapter": "Chương 4:",
+    "question": "Thuật giải MD5 cho ta một giá trị băm có độ dài :",
+    "options": [
+      {
+        "text": "156 bit",
+        "is_correct": false
+      },
+      {
+        "text": "256 bit",
+        "is_correct": false
+      },
+      {
+        "text": "128 bit",
+        "is_correct": true
+      },
+      {
+        "text": "512 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "chapter": "Chương 4:",
+    "question": "Các hệ mã hóa khóa công khai sử dụng một cặp khóa: public key và private key. \nCác yêu cầu đối với public key và private key là:",
+    "options": [
+      {
+        "text": "Cả public key và private key đều cần giữ bí mật",
+        "is_correct": false
+      },
+      {
+        "text": "Có thể công khai public key và cần giữ bí mật private key",
+        "is_correct": true
+      },
+      {
+        "text": "Có thể công khai private key và cần giữ bí mật public key",
+        "is_correct": false
+      },
+      {
+        "text": "Có thể công khai public key nhưng phải đảm bảo tính xác thực và cần giữ bí mật \nprivate key",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "chapter": "Chương 4:",
+    "question": "Kích thức khóa có thể của hệ mã hóa AES là:",
+    "options": [
+      {
+        "text": "128, 192 và 256 bit",
+        "is_correct": true
+      },
+      {
+        "text": "64, 128 và 192 bit",
+        "is_correct": false
+      },
+      {
+        "text": "128, 256 và 512 bit",
+        "is_correct": false
+      },
+      {
+        "text": "128, 256 và 384 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "chapter": "Chương 4:",
+    "question": "Kích thước khóa hiệu dụng của hệ mã hóa DES là:",
+    "options": [
+      {
+        "text": "64 bit",
+        "is_correct": false
+      },
+      {
+        "text": "48 bit",
+        "is_correct": false
+      },
+      {
+        "text": "56 bit",
+        "is_correct": true
+      },
+      {
+        "text": "128 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "chapter": "Chương 4:",
+    "question": "Số lượng vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã trong\nhệ mã hóa AES khóa 128 bit là:",
+    "options": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "chapter": "Chương 4:",
+    "question": "Bước MixColumns (trộn cột) trong vòng lặp chuyển đổi trong hệ mã hóa AES \nthực hiện việc:",
+    "options": [
+      {
+        "text": "Trộn hai cột kề nhau của ma trận state",
+        "is_correct": false
+      },
+      {
+        "text": "Mỗi cột của ma trận state được nhân với một đa thức",
+        "is_correct": true
+      },
+      {
+        "text": "Trộn các cột tương ứng của ma trận state với khóa",
+        "is_correct": false
+      },
+      {
+        "text": "Trộn các dòng tương ứng của ma trận state với khóa",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "chapter": "Chương 4:",
+    "question": "Phát biểu nào sau đây đúng với kỹ thuật mã hóa khóa bí mật",
+    "options": [
+      {
+        "text": "Mã hóa khóa bí mật an toàn hơn mã hóa khóa công khai",
+        "is_correct": false
+      },
+      {
+        "text": "Mã hóa khóa bí mật chỉ hoạt động theo chế độ mã hóa khối",
+        "is_correct": false
+      },
+      {
+        "text": "Mã hóa khóa bí mật sử dụng một mã (key) cho cả quá trình mã hóa và giải mã",
+        "is_correct": true
+      },
+      {
+        "text": "Mã hóa khóa bí mật có thuật toán đơn giản hơn mã hóa khóa công khai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "chapter": "Chương 4:",
+    "question": "Ưu điểm của kỹ thuật mã hóa khóa công khai so với mã hóa khóa bí mật là:",
+    "options": [
+      {
+        "text": "Có độ an toàn cao hơn",
+        "is_correct": false
+      },
+      {
+        "text": "Trao đổi khóa dễ dàng hơn",
+        "is_correct": true
+      },
+      {
+        "text": "Chi phí tính toán thấp hơn",
+        "is_correct": false
+      },
+      {
+        "text": "Quản lý dễ dàng hơn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "chapter": "Chương 4:",
+    "question": "Yêu cầu để đảm bảo sử dụng mã hóa đối xứng là",
+    "options": [
+      {
+        "text": "Có thuật toán encryption tốt,có một khóa bí mật được biết bởi người nhận/gửi và \nkênh truyền bí mật để phân phát key",
+        "is_correct": true
+      },
+      {
+        "text": "Có một kênh truyền phù hợp và một khóa bí mật được biết bởi người nhận/gửi",
+        "is_correct": false
+      },
+      {
+        "text": "Có thuật toán encryption tốt và có một khóa bí mật được biết bởi người nhận/gửi",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả đều đúng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "chapter": "Chương 4:",
+    "question": "Các thuật toán nào sau đây không phải là thuật toán mã hóa đối xứng",
+    "options": [
+      {
+        "text": "Triple–DES, RC4, RC5, Blowfish",
+        "is_correct": false
+      },
+      {
+        "text": "Triple–DES, RC4, RC5, IDEA",
+        "is_correct": false
+      },
+      {
+        "text": "RC4, RC5, IDEA, Blowfish",
+        "is_correct": false
+      },
+      {
+        "text": "IDEA, Blowfish, AES, Elliptic Curve",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "chapter": "Chương 4:",
+    "question": "Các phát biểu sau đây phát biểu nào đúng",
+    "options": [
+      {
+        "text": "Hầu hết các thuật tóan mã hóa đối xứng đều dựa trên cấu trúc thuật toán Feistel",
+        "is_correct": false
+      },
+      {
+        "text": "Tấn công thông điệp thì thời gian giải mã tỷ lệ với kích thước khóa",
+        "is_correct": false
+      },
+      {
+        "text": "Hầu hết các thuật tóan mã hóa khối đều đối xứng",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả đều đúng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "chapter": "Chương 4:",
+    "question": "Mã hóa nào sau đây là một tiêu chuẩn dùng để phát triển cho việc tạo ra thông \nđiệp an toàn?",
+    "options": [
+      {
+        "text": "Data Encryption Standard",
+        "is_correct": true
+      },
+      {
+        "text": "Digital Signature Standard",
+        "is_correct": false
+      },
+      {
+        "text": "Secure Hash Algorithm",
+        "is_correct": false
+      },
+      {
+        "text": "Chữ kí dữ liệu tiêu chuẩn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "chapter": "Chương 4:",
+    "question": "Các yếu tố ảnh hưởng đến quá trình mã hóa",
+    "options": [
+      {
+        "text": "Thuật toán mã hóa, giải mã, và tính an toàn của kênh truyền",
+        "is_correct": false
+      },
+      {
+        "text": "Thời gian thực hiện mã hóa và giải mã",
+        "is_correct": false
+      },
+      {
+        "text": "Thực hiện mã hóa khối, mở rộng số bit xử lý",
+        "is_correct": true
+      },
+      {
+        "text": "Tất cả đều sai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "chapter": "Chương 4:",
+    "question": "MAC là một từ cấu tạo bằng những chữ đầu của một nhóm nào liên quan đến mật\nmã ?",
+    "options": [
+      {
+        "text": "Kiểm soát truy cập phương tiện (Media access control)",
+        "is_correct": false
+      },
+      {
+        "text": "Kiểm soát truy cập bắt buộc (Mandatory access control)",
+        "is_correct": true
+      },
+      {
+        "text": "Mã xác thực thông điệp (Message authentication code)",
+        "is_correct": false
+      },
+      {
+        "text": "Các ủy ban đa tư vấn (Multiple advisory committees)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "chapter": "Chương 4:",
+    "question": "Nội dung nào sau đây không cần sử dụng mật mã ?",
+    "options": [
+      {
+        "text": "Bảo mật",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực",
+        "is_correct": false
+      },
+      {
+        "text": "Toàn vẹn",
+        "is_correct": false
+      },
+      {
+        "text": "Truy cập",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "chapter": "Chương 4:",
+    "question": "Thuật giải MD5 dùng để :",
+    "options": [
+      {
+        "text": "Bảo mật một thông điệp",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực một thông điệp",
+        "is_correct": false
+      },
+      {
+        "text": "Phân phối khoá mật mã",
+        "is_correct": false
+      },
+      {
+        "text": "Kiểm tra tính toàn vẹn dữ liệu",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "chapter": "Chương 4:",
+    "question": "Trong DES mỗi hàm chọn Si được dùng để :",
+    "options": [
+      {
+        "text": "Biến đổi khối dữ liệu mã 48 bit thành 32 bit",
+        "is_correct": false
+      },
+      {
+        "text": "Biến đổi khối dữ liệu mã 6 bit thành 4 bit",
+        "is_correct": true
+      },
+      {
+        "text": "Biến đổi khối dữ liệu mã 16 bit thành 4 bit",
+        "is_correct": false
+      },
+      {
+        "text": "Biến đổi khối dữ liệu mã 32 bit thành 4 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "chapter": "Chương 4:",
+    "question": "Hệ mật DES sử dụng khối khoá được tạo bởi :",
+    "options": [
+      {
+        "text": "56 bit ngẫu nhiên",
+        "is_correct": false
+      },
+      {
+        "text": "64 bit ngẫu nhiên",
+        "is_correct": false
+      },
+      {
+        "text": "128 bit ngẫu nhiên",
+        "is_correct": false
+      },
+      {
+        "text": "56 bit ngẫu nhiên và 8 bit kiểm tra “Parity”",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "chapter": "Chương 4:",
+    "question": "Hệ mật DES xử lý từng khối “ plain text ” có độ dài :",
+    "options": [
+      {
+        "text": "56 bit",
+        "is_correct": false
+      },
+      {
+        "text": "32 bit",
+        "is_correct": false
+      },
+      {
+        "text": "64 bit",
+        "is_correct": true
+      },
+      {
+        "text": "48 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "chapter": "Chương 4:",
+    "question": "Số lượng các khóa phụ (subkey) cần được tạo ra từ khóa chính trong giải thuật \nDES là:",
+    "options": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "chapter": "Chương 4:",
+    "question": "Sử dụng nhiêu bit với DES để có hiệu quả?",
+    "options": [
+      {
+        "text": "56",
+        "is_correct": false
+      },
+      {
+        "text": "64",
+        "is_correct": true
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "chapter": "Chương 4:",
+    "question": "Thuật giải SHA là :",
+    "options": [
+      {
+        "text": "Hàm băm một chiều",
+        "is_correct": false
+      },
+      {
+        "text": "Dùng trong thuật giải tạo chữ ký số",
+        "is_correct": false
+      },
+      {
+        "text": "Cho giá trị băm 160 bit",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả đều đúng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "chapter": "Chương 4:",
+    "question": "Quản trị văn phòng của bạn đang được huấn luyện để thực hiện sao lưu máy chủ. \nPhương pháp xác thực nào là lý tưởng đối với tình huống này ?",
+    "options": [
+      {
+        "text": "MAC",
+        "is_correct": false
+      },
+      {
+        "text": "DAC",
+        "is_correct": false
+      },
+      {
+        "text": "RBAC",
+        "is_correct": true
+      },
+      {
+        "text": "Các mã thông báo bảo mật.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "chapter": "Chương 4:",
+    "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập MAC:",
+    "options": [
+      {
+        "text": "MAC cấp quyền truy cập dựa trên tính nhạy cảm của những thông tin và chính sách \nquản trị",
+        "is_correct": true
+      },
+      {
+        "text": "MAC là cơ chế điều khiển truy cập được sử dụng rộng rãi nhất",
+        "is_correct": false
+      },
+      {
+        "text": "MAC cho phép người tạo ra đối tượng có thể cấp quyền truy cập cho người dùng \nkhác",
+        "is_correct": false
+      },
+      {
+        "text": "MAC quản lý truyền quy cập chặt chẽ hơn các cơ chế khác",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "chapter": "Chương 4:",
+    "question": "Các loại khoá mật mã nào sau đây dễ bị crack nhất ?",
+    "options": [
+      {
+        "text": "128 bit",
+        "is_correct": false
+      },
+      {
+        "text": "40 bit",
+        "is_correct": true
+      },
+      {
+        "text": "256 bit",
+        "is_correct": false
+      },
+      {
+        "text": "56 bit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "chapter": "Chương 5:",
+    "question": "Nguyên tắc bảo mật tài nguyên của mô hình Bell-La Padula là:",
+    "options": [
+      {
+        "text": "Đọc lên và ghi lên",
+        "is_correct": false
+      },
+      {
+        "text": "Đọc xuống và ghi xuống",
+        "is_correct": false
+      },
+      {
+        "text": "Đọc xuống và ghi lên",
+        "is_correct": true
+      },
+      {
+        "text": "Đọc lên và ghi xuống",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "chapter": "Chương 5:",
+    "question": "Tính bảo mật của kỹ thuật điều khiển truy nhập sử dụng mật khẩu dựa trên:",
+    "options": [
+      {
+        "text": "Tần suất sử dụng mật khẩu",
+        "is_correct": false
+      },
+      {
+        "text": "Kích thước của mật khẩu",
+        "is_correct": false
+      },
+      {
+        "text": "Độ khó đoán và tuổi thọ của mật khẩu",
+        "is_correct": true
+      },
+      {
+        "text": "Số loại ký tự dùng trong mật khẩu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "chapter": "Chương 5:",
+    "question": "Phát hiện tấn công, xâm nhập dựa trên bất thường có tiềm năng phát hiện các loại \ntấn công, xâm nhập mới là do:",
+    "options": [
+      {
+        "text": "Không yêu cầu biết trước thông tin về chúng",
+        "is_correct": true
+      },
+      {
+        "text": "Đã có chữ ký của các tấn công, xâm nhập mới",
+        "is_correct": false
+      },
+      {
+        "text": "Các tấn công, xâm nhập mới thường dễ nhận biết",
+        "is_correct": false
+      },
+      {
+        "text": "Không yêu cầu xây dựng cơ sở dữ liệu các chữ ký",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "chapter": "Chương 5:",
+    "question": "Một trong các điểm yếu làm giảm hiệu quả của phát hiện tấn công, xâm nhập dựa \ntrên bất thường là:",
+    "options": [
+      {
+        "text": "Không có khả năng ngăn chặn tấn công, đột nhập",
+        "is_correct": false
+      },
+      {
+        "text": "Không có khả năng phát hiện các cuộc tấn công Dos",
+        "is_correct": false
+      },
+      {
+        "text": "Tỷ lệ cảnh báo sai cao",
+        "is_correct": true
+      },
+      {
+        "text": "Không có khả năng phát hiện tấn công, xâm nhập mới",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "chapter": "Chương 5:",
+    "question": "Phát hiện tấn công, xâm nhập dựa trên bất thường dựa trên giá thiết:",
+    "options": [
+      {
+        "text": "Các hành vi tấn công, xâm nhập thường có quan hệ chặt chẽ với các hành vi bất \nthường",
+        "is_correct": true
+      },
+      {
+        "text": "Các hành vi tấn công, xâm nhập gây ngắt quãng dịch vụ cung cấp cho người dùng",
+        "is_correct": false
+      },
+      {
+        "text": "Các hành vi tấn công, xâm nhập có quan hệ chặt chẽ với các dịch vụ được cung cấp",
+        "is_correct": false
+      },
+      {
+        "text": "Các hành vi tấn công, xâm nhập gây tổn hại nghiêm trọng cho hệ thống",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "chapter": "Chương 5:",
+    "question": "Ưu điểm của điều khiển truy nhập dựa trên các đặc điểm sinh trắc học là:",
+    "options": [
+      {
+        "text": "Bảo mật cao và độ ổn định cao",
+        "is_correct": false
+      },
+      {
+        "text": "Bảo mật cao và chi phí thấp",
+        "is_correct": false
+      },
+      {
+        "text": "Bảo mật cao và luôn đi cùng với chủ thể",
+        "is_correct": true
+      },
+      {
+        "text": "Bảo mật cao và được hỗ trợ rộng rãi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "chapter": "Chương 5:",
+    "question": "Một ưu điểm của tường lửa có trạng thái so với tường lửa không trạng thái là:",
+    "options": [
+      {
+        "text": "Lọc nội dung gói tốt hơn",
+        "is_correct": false
+      },
+      {
+        "text": "Nhận dạng được các dạng tấn công và các phần mềm độc hại",
+        "is_correct": false
+      },
+      {
+        "text": "Chạy nhanh hơn",
+        "is_correct": false
+      },
+      {
+        "text": "Phân biệt được các gói tin thuộc về các kết nối mạng khác nhau",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "chapter": "Chương 5:",
+    "question": "Các phương pháp xử lý, phân tích dữ liệu và mô hình hoá trong phát hiện tấn công,\nxâm nhập dựa trên bất thường, gồm:",
+    "options": [
+      {
+        "text": "Thống kê, học máy, khai phá dữ liệu",
+        "is_correct": true
+      },
+      {
+        "text": "Học máy, khai phá dữ liệu, agents",
+        "is_correct": false
+      },
+      {
+        "text": "Thống kê, học máy, đồ thị",
+        "is_correct": false
+      },
+      {
+        "text": "Thống kê, đối sánh chuỗi, đồ thị",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "chapter": "Chương 5:",
+    "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy nhập dựa trên vai trò - \nRBAC:",
+    "options": [
+      {
+        "text": "RBAC cho phép người tạo ra đối tượng có thể cấp quyền truy nhập cho người dùng \nkhác",
+        "is_correct": false
+      },
+      {
+        "text": "RBAC là cơ chế điều khiển truy nhập được sử dụng rộng rãi nhất",
+        "is_correct": false
+      },
+      {
+        "text": "RBAC cấp quyền truy nhập dựa trên vai trò của người dùng trong tổ chức",
+        "is_correct": true
+      },
+      {
+        "text": "RBAC cấp quyền truy nhập dựa trên tính nhạy cảm của thông tin và chính sách quản\ntrị",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "chapter": "Chương 5:",
+    "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy nhập DAC:",
+    "options": [
+      {
+        "text": "DAC cho phép người tạo ra đối tượng có thể cấp quyền truy nhập cho người dùng \nkhác",
+        "is_correct": true
+      },
+      {
+        "text": "DAC cấp quyền truy nhập dựa trên tính nhạy cảm của thông tin và chính sách quản \ntrị",
+        "is_correct": false
+      },
+      {
+        "text": "DAC là cơ chế điều khiển truy nhập được sử dụng rộng rãi nhất",
+        "is_correct": false
+      },
+      {
+        "text": "DAC quản lý quyền truy nhập chặt chẽ hơn các cơ chế khác",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "chapter": "Chương 5:",
+    "question": "Đâu là một công cụ có khả năng rà quét các lỗ hổng chèn mã SQL cho các trang \nweb?",
+    "options": [
+      {
+        "text": "nmap",
+        "is_correct": false
+      },
+      {
+        "text": "Microsoft Baseline Security Analyzer",
+        "is_correct": false
+      },
+      {
+        "text": "Nessus vulnerability scanner",
+        "is_correct": false
+      },
+      {
+        "text": "Acunetix Web Vulnerability Scanner",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "chapter": "Chương 5:",
+    "question": "Danh sách điều khiển truy nhập ACL thực hiện việc quản lý quyền truy nhập đến \ncác đối tượng cho người dùng bằng cách:",
+    "options": [
+      {
+        "text": "Các quyền truy nhập vào đối tượng cho mỗi người dùng được quản lý trong một ma \ntrận",
+        "is_correct": false
+      },
+      {
+        "text": "Các quyền truy nhập vào đối tượng cho mỗi người dùng được quản lý riêng rẽ",
+        "is_correct": false
+      },
+      {
+        "text": "Mỗi người dùng được gán một danh sách các đối tượng kèm theo quyền truy nhập",
+        "is_correct": false
+      },
+      {
+        "text": "Mỗi đối tượng được gán một danh sách người dùng kèm theo quyền truy nhập",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "chapter": "Chương 5:",
+    "question": "Tường lửa không thể chống lại...",
+    "options": [
+      {
+        "text": "Các hiểm họa từ bên trong",
+        "is_correct": true
+      },
+      {
+        "text": "Các hiểm họa từ bên ngoài",
+        "is_correct": false
+      },
+      {
+        "text": "Tấn công giả mạo địa chỉ",
+        "is_correct": false
+      },
+      {
+        "text": "Tấn công từ mạng Internet",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "chapter": "Chương 5:",
+    "question": "Sự khác biệt chính giữa hệ thống ngăn chặn xâm nhập (IPS) và hệ thống phát hiện\nxâm nhập (IDS) là:",
+    "options": [
+      {
+        "text": "IPS phát hiện xâm nhập hiệu quả hơn",
+        "is_correct": false
+      },
+      {
+        "text": "IPS có khả năng chủ động ngăn chặn xâm nhập",
+        "is_correct": true
+      },
+      {
+        "text": "IDS phát hiện xâm nhập hiệu quả hơn",
+        "is_correct": false
+      },
+      {
+        "text": "IDS có khả năng chủ động ngăn chặn xâm nhập",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "chapter": "Chương 5:",
+    "question": "Tường lửa lọc gói có thể lọc các thông tin nào trong gói tin?",
+    "options": [
+      {
+        "text": "Chỉ các thông tin trong header của gói tin",
+        "is_correct": true
+      },
+      {
+        "text": "Chỉ các thông tin trong payload của gói tin",
+        "is_correct": false
+      },
+      {
+        "text": "Chỉ lọc địa chỉ IP trong gói tin",
+        "is_correct": false
+      },
+      {
+        "text": "Cả thông tin trong header và payload của gói tin",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "chapter": "Chương 5:",
+    "question": "Không nên sử dụng nhiều hơn 1 phần mềm quét virus chạy ở chế độ quét theo \nthời gian thực trên một máy tính vì:",
+    "options": [
+      {
+        "text": "Các phần mềm quét virus xung đột với nhau",
+        "is_correct": true
+      },
+      {
+        "text": "Các phần mềm quét virus không thể hoạt động",
+        "is_correct": false
+      },
+      {
+        "text": "Các phần mềm quét virus chiếm nhiều tài nguyên",
+        "is_correct": false
+      },
+      {
+        "text": "Các phần mềm quét virus tấn công lẫn nhau",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "chapter": "Chương 5:",
+    "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy nhập bắt buộc MAC:",
+    "options": [
+      {
+        "text": "MAC cho phép người tạo ra đối tượng có thể cấp quyền truy nhập cho người dùng \nkhác",
+        "is_correct": false
+      },
+      {
+        "text": "MAC quản lý quyền truy nhập chặt chẽ hơn các cơ chế khác",
+        "is_correct": false
+      },
+      {
+        "text": "MAC cấp quyền truy nhập dựa trên tính nhạy cảm của thông tin và chính sách quản \ntrị",
+        "is_correct": true
+      },
+      {
+        "text": "MAC là cơ chế điều khiển truy nhập được sử dụng rộng rãi nhất",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "chapter": "Chương 5:",
+    "question": "Đâu là một loại tường lửa?",
+    "options": [
+      {
+        "text": "Server gateway",
+        "is_correct": false
+      },
+      {
+        "text": "Application server",
+        "is_correct": false
+      },
+      {
+        "text": "Application-level gateway",
+        "is_correct": true
+      },
+      {
+        "text": "Gateway server",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "chapter": "Chương 5:",
+    "question": "Ví điện tử Paypal là một dạng...",
+    "options": [
+      {
+        "text": "Khóa mã (encrypted key)",
+        "is_correct": false
+      },
+      {
+        "text": "The ATM",
+        "is_correct": false
+      },
+      {
+        "text": "Thẻ bài (token)",
+        "is_correct": true
+      },
+      {
+        "text": "Thẻ thông minh (smart card)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "chapter": "Chương 5:",
+    "question": "Dạng xác thực sử dụng các thông tin nào dưới đây đảm bảo độ an toàn cao hơn?",
+    "options": [
+      {
+        "text": "Thẻ ATM và tên truy nhập",
+        "is_correct": false
+      },
+      {
+        "text": "Tên truy nhập và số PIN",
+        "is_correct": false
+      },
+      {
+        "text": "Thẻ ATM và số PIN",
+        "is_correct": true
+      },
+      {
+        "text": "Tên truy nhập và mật khẩu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "chapter": "Chương 5:",
+    "question": "Một trong các dạng khóa mã (encrypted keys) được sử dụng rộng rãi trong điều \nkhiển truy nhập là:",
+    "options": [
+      {
+        "text": "E-token",
+        "is_correct": false
+      },
+      {
+        "text": "Chứng chỉ số khóa công khai",
+        "is_correct": true
+      },
+      {
+        "text": "The ATM",
+        "is_correct": false
+      },
+      {
+        "text": "Mobile-token",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "chapter": "Chương 5:",
+    "question": "Tại sao một hệ thống phát hiện xâm nhập dựa trên chữ ký không thể phát hiện các\ntấn công, xâm nhập mới?",
+    "options": [
+      {
+        "text": "Do chữ ký của chúng chưa tồn tại trong hệ thống",
+        "is_correct": true
+      },
+      {
+        "text": "Do các tấn công, xâm nhập mới không có chữ ký",
+        "is_correct": false
+      },
+      {
+        "text": "Do các tấn công, xâm nhập mới không gây ra bất thường",
+        "is_correct": false
+      },
+      {
+        "text": "Do các tấn công, xâm nhập mới chỉ gây thiệt hại nhỏ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "chapter": "Chương 5:",
+    "question": "Ưu điểm của thẻ bài (token) so với thẻ thông minh (smart card) trong điều khiển \ntruy nhập là:",
+    "options": [
+      {
+        "text": "Có cơ chế xác thực mạnh hơn",
+        "is_correct": true
+      },
+      {
+        "text": "Có cơ chế xác thực đa dạng hơn",
+        "is_correct": false
+      },
+      {
+        "text": "Được sử dụng rộng rãi hơn",
+        "is_correct": false
+      },
+      {
+        "text": "Có chi phí rẻ hơn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "chapter": "Chương 5:",
+    "question": "Phương pháp xác thực nào dưới đây có thể cung cấp khả năng xác thực có độ an \ntoàn cao nhất?",
+    "options": [
+      {
+        "text": "Sử dụng Smartcard",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng vân tay",
+        "is_correct": true
+      },
+      {
+        "text": "Sử dụng chứng chỉ số",
+        "is_correct": false
+      },
+      {
+        "text": "Sử dụng mật khẩu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "chapter": "Chương 5:",
+    "question": "Đâu là các tính năng của kiểm soát truy nhập sử dụng tường lửa?",
+    "options": [
+      {
+        "text": "Kiểm soát dịch vụ và các phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Kiểm soát người dùng và tin tặc",
+        "is_correct": false
+      },
+      {
+        "text": "Kiểm soát dịch vụ và hướng",
+        "is_correct": true
+      },
+      {
+        "text": "Kiểm soát virus và các malware khác",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "chapter": "Chương 5:",
+    "question": "Ba cơ chế điều khiển truy nhập thông dụng gồm:",
+    "options": [
+      {
+        "text": "DAC, MAC và RRAC",
+        "is_correct": false
+      },
+      {
+        "text": "DAC, BAC và RBAC",
+        "is_correct": false
+      },
+      {
+        "text": "DAC, MAC và BAC",
+        "is_correct": false
+      },
+      {
+        "text": "DAC, MAC và RBAC",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "chapter": "Chương 5:",
+    "question": "Mục đích chính của điều khiển truy nhập là để đảm bảo các thuộc tính an ninh \ncủa thông tin, hệ thống và các tài nguyên, gồm:",
+    "options": [
+      {
+        "text": "Tính bảo mật, tính toàn vẹn và tính xác thực",
+        "is_correct": false
+      },
+      {
+        "text": "Tính bí mật, tính toàn vẹn và tính xác thực",
+        "is_correct": false
+      },
+      {
+        "text": "Tính bảo mật, tính toàn vẹn và tính sẵn dùng",
+        "is_correct": false
+      },
+      {
+        "text": "Tính bí mật, tính toàn vẹn và tính sẵn dùng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "chapter": "Chương 5:",
+    "question": "Số lượng nhân tố (factor) xác thực sử dụng trong điều khiển truy nhập dựa trên \nthẻ thông minh là:",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "chapter": "Chương 5:",
+    "question": "Một nhiệm vụ chính của các hệ thống IDS/IPS là:",
+    "options": [
+      {
+        "text": "Truy tìm và tấn công ngược lại hệ thống của tin tặc",
+        "is_correct": false
+      },
+      {
+        "text": "Giám sát lưu lượng mạng hoặc các hành vi trên một hệ thống để nhận dạng các dấu \nhiệu của tấn công, xâm nhập",
+        "is_correct": true
+      },
+      {
+        "text": "Giám sát lưu lượng mạng nhận dạng các dấu hiệu của tấn công, xâm nhập",
+        "is_correct": false
+      },
+      {
+        "text": "Giám sát các hành vi trên một hệ thống để nhận dạng các dấu hiệu của tấn công, xâm\nnhập",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "chapter": "Chương 5:",
+    "question": "Hai dịch vụ quan trọng nhất của một hệ thống điều khiển truy nhập là:",
+    "options": [
+      {
+        "text": "Authentication và Authorization",
+        "is_correct": true
+      },
+      {
+        "text": "Authenticator và Administrator",
+        "is_correct": false
+      },
+      {
+        "text": "Administrator và Authorization",
+        "is_correct": false
+      },
+      {
+        "text": "Authentication và Administrator",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "chapter": "Chương 5:",
+    "question": "Tìm phát biểu đúng về phát hiện xâm nhập dựa trên chữ ký và phát hiện xâm \nnhập dựa trên bất thường:",
+    "options": [
+      {
+        "text": "Phát hiện xâm nhập dựa trên chữ ký thường có tỷ lệ phát hiện đúng cao hơn",
+        "is_correct": true
+      },
+      {
+        "text": "Phát hiện xâm nhập dựa trên chữ ký thường có tỷ lệ phát hiện đúng thấp hơn",
+        "is_correct": false
+      },
+      {
+        "text": "Phát hiện nhập nhập dựa trên bất thường có tỷ lệ phát hiện đúng cao hơn",
+        "is_correct": false
+      },
+      {
+        "text": "2 cách phát hiện có tỉ lệ tương đương nhau",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "chapter": "Chương 5:",
+    "question": "Tìm phát biểu đúng về dịch vụ xác thực trong điều khiển truy nhập:",
+    "options": [
+      {
+        "text": "Là quá trình xác minh tính chân thực của thông tin nhận dạng người dùng cung cấp",
+        "is_correct": true
+      },
+      {
+        "text": "Là quá trình xác minh nhận dạng của chủ thể",
+        "is_correct": false
+      },
+      {
+        "text": "Là quá trình xác minh các thông tin nhận dạng của chủ thể yêu cầu truy nhập đối \ntượng",
+        "is_correct": false
+      },
+      {
+        "text": "Là quá trình xác minh nhận dạng của người dùng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "chapter": "Chương 5:",
+    "question": "Yếu tố nào cần được sử dụng kết hợp với một thẻ thông minh để xác thực?",
+    "options": [
+      {
+        "text": "PIN",
+        "is_correct": true
+      },
+      {
+        "text": "Quét võng mạc",
+        "is_correct": false
+      },
+      {
+        "text": "Mã hóa khóa",
+        "is_correct": false
+      },
+      {
+        "text": "Thẻ nhớ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "chapter": "Chương 5:",
+    "question": "Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để login?",
+    "options": [
+      {
+        "text": "Đa yếu tố ( multi-factor)",
+        "is_correct": true
+      },
+      {
+        "text": "Sinh trắc học",
+        "is_correct": false
+      },
+      {
+        "text": "Thẻ thông minh",
+        "is_correct": false
+      },
+      {
+        "text": "Keberos",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "chapter": "Chương 5:",
+    "question": "Một trong các nhược điểm chính của điều khiển truy nhập dựa trên các đặc điểm \nsinh trắc học là:",
+    "options": [
+      {
+        "text": "Không được hỗ trợ rộng rãi",
+        "is_correct": false
+      },
+      {
+        "text": "Chi phí đắt",
+        "is_correct": true
+      },
+      {
+        "text": "Khó sử dụng",
+        "is_correct": false
+      },
+      {
+        "text": "Công nghệ phức tạp",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "chapter": "Chương 5:",
+    "question": "Ưu điểm của mật khẩu một lần (OTP-One Time Password) so với mật khẩu \ntruyền thống là:",
+    "options": [
+      {
+        "text": "Chống được tấn công từ điển",
+        "is_correct": false
+      },
+      {
+        "text": "Chống được tấn công vét cạn",
+        "is_correct": false
+      },
+      {
+        "text": "Chống được tấn công phá mã",
+        "is_correct": false
+      },
+      {
+        "text": "Chống được tấn công phát lại",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "chapter": "Chương 5:",
+    "question": "Kỹ thuật tấn công SYN Floods khai thác điểm yếu trong khâu nào trong bộ giao \nthức TCP/IP?",
+    "options": [
+      {
+        "text": "Bắt tay 3 bước",
+        "is_correct": true
+      },
+      {
+        "text": "Bắt tay 2 bước",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực người dùng",
+        "is_correct": false
+      },
+      {
+        "text": "Truyền dữ liệu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "chapter": "Chương 5:",
+    "question": "Một điểm yếu điển hình trong hệ thống điều khiển truy cập là việc sử dụng mật \nkhẩu dễ đoán hoặc mật khẩu được lưu ở dạng rõ. Đây là điểm yếu thuộc khâu:",
+    "options": [
+      {
+        "text": "Quản trị",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực",
+        "is_correct": true
+      },
+      {
+        "text": "Trao quyền",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực và Trao quyền",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "chapter": "Chương 5:",
+    "question": "Để đảm bảo an toàn cho hệ thống điều khiển truy cập, một trong các biện pháp \nphòng chống hiệu quả là:",
+    "options": [
+      {
+        "text": "Không mở các email của người lạ hoặc email quảng cáo",
+        "is_correct": false
+      },
+      {
+        "text": "Không cho phép chạy các chương trình điều khiển từ xa",
+        "is_correct": false
+      },
+      {
+        "text": "Không cài đặt và chạy các chương trình tải từ các nguồn không tin cậy",
+        "is_correct": false
+      },
+      {
+        "text": "Không dùng tài khoản có quyền quản trị để chạy các chương trình ứng dụng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "chapter": "Chương 5:",
+    "question": "Điều khiển truy nhập dựa trên luật (Rule-based access control) được sử dụng phổ \nbiến trong:",
+    "options": [
+      {
+        "text": "VPN",
+        "is_correct": false
+      },
+      {
+        "text": "Firewall",
+        "is_correct": true
+      },
+      {
+        "text": "SSL/TLS",
+        "is_correct": false
+      },
+      {
+        "text": "Kerberos",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "chapter": "Chương 5:",
+    "question": "Phát hiện tấn công, xâm nhập dựa trên bất thường dựa trên giả thiết:",
+    "options": [
+      {
+        "text": "Các hành vi tấn công, xâm nhập gây tổn hại nghiêm trọng cho hệ thống",
+        "is_correct": false
+      },
+      {
+        "text": "Các hành vi tấn công, xâm nhập thường có quan hệ chặt chẽ với các hành vi bất \nthường",
+        "is_correct": true
+      },
+      {
+        "text": "Các hành vi tấn công, xâm nhập có quan hệ chặt chẽ với các dịch vụ được cung cấp",
+        "is_correct": false
+      },
+      {
+        "text": "Các hành vi tấn công, xâm nhập gây ngắt quãng dịch vụ cung cấp cho người dùng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "chapter": "Chương 5:",
+    "question": "Các hệ thống phát hiện xâm nhập có thể thu thập dữ liệu đầu vào từ…",
+    "options": [
+      {
+        "text": "Các host",
+        "is_correct": false
+      },
+      {
+        "text": "Mạng và các host",
+        "is_correct": true
+      },
+      {
+        "text": "Mạng",
+        "is_correct": false
+      },
+      {
+        "text": "Các router",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "chapter": "Chương 5:",
+    "question": "Một hệ thống điều khiển truy nhập có thể được cấu thành từ các dịch vụ nào sau \nđây:",
+    "options": [
+      {
+        "text": "Xác thực, đăng nhập và trao quyền",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực, trao quyền và quản trị",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực, đăng nhập và kiểm toán (auditing)",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực, trao quyền và kiểm toán (auditing)",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "chapter": "Chương 5:",
+    "question": "Sau khi một user đã được định danh (identifed), điều gì cần phải làm trước khi họ \nlog vào một mạng máy tính ?",
+    "options": [
+      {
+        "text": "Xác thực với mật khẩu",
+        "is_correct": false
+      },
+      {
+        "text": "Họ phải nhập user ID đã được mã hóa",
+        "is_correct": false
+      },
+      {
+        "text": "Được phép truy cập với mức ưu tiên được thiết lập",
+        "is_correct": true
+      },
+      {
+        "text": "Người quản trị phải enable để gõ vào",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "chapter": "Chương 5:",
+    "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập DAC:",
+    "options": [
+      {
+        "text": "DAC cho phép người tạo ra đối tượng có thể cấp quyền quy cập cho người dùng \nkhác",
+        "is_correct": true
+      },
+      {
+        "text": "DAC cấp quyền truy cập dựa trên tính nhạy cảm của thông tin và chính sách quản trị",
+        "is_correct": false
+      },
+      {
+        "text": "DAC quản lý quyền truy cập chặt chẽ hơn các cơ chế khác",
+        "is_correct": false
+      },
+      {
+        "text": "DAC là cơ chế điều khiển truy cập được sử dụng rộng rãi nhất",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "chapter": "Chương 5:",
+    "question": "Các hệ điều hành Microsoft Windows và Linux sử dụng các mô hình điều khiển \ntruy cập nào dưới đây?",
+    "options": [
+      {
+        "text": "DAC và Role-BAC",
+        "is_correct": true
+      },
+      {
+        "text": "DAC và MAC",
+        "is_correct": false
+      },
+      {
+        "text": "MAC và Role-BAC",
+        "is_correct": false
+      },
+      {
+        "text": "MAC và Rule-BAC",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "chapter": "Chương 5:",
+    "question": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập RBAC:",
+    "options": [
+      {
+        "text": "RBAC cho phép người tạo ra đối tượng có thể cấp quyền truy cập cho người dùng \nkhác",
+        "is_correct": false
+      },
+      {
+        "text": "RBAC cấp quyền truy cập dựa trên tính nhạy cảm của thông tin và chính sách quản \ntrị",
+        "is_correct": false
+      },
+      {
+        "text": "RBAC cấp quyền truy cập dựa trên vai trò của người dùng trong tổ chức",
+        "is_correct": true
+      },
+      {
+        "text": "RBAC là cơ chế điều khiển truy cập được sử dụng rộng rãi nhất",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "chapter": "Chương 5:",
+    "question": "Cho biết câu nào đúng trong các câu sau",
+    "options": [
+      {
+        "text": "Tất cả Firewall đều có chung thuộc tính là cho phép phân biệt hay đối xử khả năng \ntừ chối hay truy nhập dựa vào địa chỉ nguồn",
+        "is_correct": false
+      },
+      {
+        "text": "Chức năng chính của Firewall là kiểm sóat luồng thông tin giữa mạng cần bảo vệ và \nInternet thông qua các chính sách truy nhập đã được thiết lập",
+        "is_correct": false
+      },
+      {
+        "text": "Hệ thống Firewall thường bao gồm cả phần cứng lẫn phần mềm",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả đều đúng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "chapter": "Chương 5:",
+    "question": "Đối với Firewall lọc gói, hình thức tấn công nào sau đây được thực hiện",
+    "options": [
+      {
+        "text": "Nhái địa chỉ IP, tấn công giữa, tấn công biên",
+        "is_correct": false
+      },
+      {
+        "text": "Nhái địa chỉ IP, tấn công đường đi nguồn, tấn công từng mẫu nhỏ",
+        "is_correct": false
+      },
+      {
+        "text": "Nhái địa chỉ IP, tấn công vượt firewall,tấn công từng mẫu nhỏ",
+        "is_correct": false
+      },
+      {
+        "text": "Nhái địa chỉ IP, tấn công vượt firewall, tấn công đường đi nguồn",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "chapter": "Chương 5:",
+    "question": "Những chữ đầu của nhóm từ ACL là tên viết tắt của:",
+    "options": [
+      {
+        "text": "Arbitrary Code Language",
+        "is_correct": false
+      },
+      {
+        "text": "Access Control Library",
+        "is_correct": false
+      },
+      {
+        "text": "Access Control List",
+        "is_correct": true
+      },
+      {
+        "text": "Allowed Computer List",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "chapter": "Chương 5:",
+    "question": "Nên cài mức truy cập mặc định là mức nào sau đây?",
+    "options": [
+      {
+        "text": "Full access",
+        "is_correct": false
+      },
+      {
+        "text": "No access",
+        "is_correct": false
+      },
+      {
+        "text": "Read access",
+        "is_correct": true
+      },
+      {
+        "text": "Write access",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "chapter": "Chương 5:",
+    "question": "Sau khi một user được định danh và xác thực hệ thống, để cho phép user sử dụng \ntài nguyên bạn phải thực hiện điều gì?",
+    "options": [
+      {
+        "text": "Phải được ủy quyền",
+        "is_correct": true
+      },
+      {
+        "text": "Được truyền lại",
+        "is_correct": false
+      },
+      {
+        "text": "Được mã hóa",
+        "is_correct": false
+      },
+      {
+        "text": "Được enable",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "chapter": "Chương 5:",
+    "question": "Bộ lọc địa chỉ MAC được định nghĩa như :",
+    "options": [
+      {
+        "text": "Được phép truy cập đến một địa chỉ MAC nhất định.",
+        "is_correct": true
+      },
+      {
+        "text": "Ngăn chặn truy cập từ một địa chỉ MAC nhất định.",
+        "is_correct": true
+      },
+      {
+        "text": "Mã hóa địa chỉ MAC của thiết bị không dây.",
+        "is_correct": false
+      },
+      {
+        "text": "Tường lửa cá nhân",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "chapter": "Chương 5:",
+    "question": "Các mức độ nhạy cảm của thông tin được chia từ cao xuống thấp đối với an ninh \nquốc gia là:",
+    "options": [
+      {
+        "text": "Tối mật (Top Secret - T), Tuyệt mật (Secret - S), Mật (Confidential - C), \nKhông phân loại (Unclassified - U).",
+        "is_correct": true
+      },
+      {
+        "text": "Tuyệt mật (Secret - S), Tối mật (Top Secret - T), Mật (Confidential - C), \nKhông phân loại (Unclassified - U).",
+        "is_correct": false
+      },
+      {
+        "text": "Không phân loại (Unclassified - U), Mật (Confidential - C), Tối mật (Top \nSecret - T), Tuyệt mật (Secret - S).",
+        "is_correct": false
+      },
+      {
+        "text": "Không phân loại (Unclassified - U), Mật (Confidential - C), Tuyệt mật (Secret \n- S), Tối mật (Top Secret - T).",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "chapter": "Chương 5:",
+    "question": "Đặc tính nào của các thiết bị mạng như router hay switch, cho phép điều khiển \ntruy cập dữ liệu trên mạng ?",
+    "options": [
+      {
+        "text": "Giao thức DNS",
+        "is_correct": false
+      },
+      {
+        "text": "Cập nhật vi chương trình ( Firmware)",
+        "is_correct": false
+      },
+      {
+        "text": "Tường lửa",
+        "is_correct": false
+      },
+      {
+        "text": "Danh sách điều khiển truy cập (ACL).",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "chapter": "Chương 5:",
+    "question": "Yếu tố nào cần được sử dụng kết hợp với một thẻ thông minh để xác thực ?",
+    "options": [
+      {
+        "text": "PIN",
+        "is_correct": true
+      },
+      {
+        "text": "Quét võng mạc",
+        "is_correct": false
+      },
+      {
+        "text": "Mã hóa khóa",
+        "is_correct": false
+      },
+      {
+        "text": "Thẻ nhớ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "chapter": "Chương 5:",
+    "question": "Phương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây?",
+    "options": [
+      {
+        "text": "Kiểm định",
+        "is_correct": false
+      },
+      {
+        "text": "Xác thực",
+        "is_correct": true
+      },
+      {
+        "text": "Kiểm soát truy cập",
+        "is_correct": false
+      },
+      {
+        "text": "Bảo mật dữ liệu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "chapter": "Chương 5:",
+    "question": "Yếu tố nào sau đây được coi là hữu ích nhất trong việc kiểm soát truy cập khi bị \ntấn công từ bên ngoài ?",
+    "options": [
+      {
+        "text": "Đăng nhập hệ thống ( System logs)",
+        "is_correct": true
+      },
+      {
+        "text": "Phần mềm antivirus",
+        "is_correct": false
+      },
+      {
+        "text": "Kerberos",
+        "is_correct": false
+      },
+      {
+        "text": "Sinh trắc học",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "chapter": "Chương 5:",
+    "question": "Điểm khác nhau chính giữa các hệ thống ngăn chặn đột nhập (IPS) và phát hiện \nđột nhập (IDS) là:",
+    "options": [
+      {
+        "text": "IPS có khả năng phát hiện và ngăn chặn tấn công tốt hơn IDS",
+        "is_correct": false
+      },
+      {
+        "text": "IDS có khả năng phát hiện và ngăn chặn tấn công tốt hơn IPS",
+        "is_correct": false
+      },
+      {
+        "text": "IPS có khả năng chủ động ngăn chặn tấn công so với IDS",
+        "is_correct": true
+      },
+      {
+        "text": "IPS có chi phí lớn hơn IDS",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "chapter": "Chương 5:",
+    "question": "Để đánh giá điểm mạnh của hệ thống IDS người ta dựa vào các yếu tố sau :",
+    "options": [
+      {
+        "text": "Khởi sự, Cách thực hiện, biểu hiện mà nó ghi nhận",
+        "is_correct": false
+      },
+      {
+        "text": "Khởi sự, giám sát vị trí, những đặc trưng ghép nối hoặc tích hợp",
+        "is_correct": true
+      },
+      {
+        "text": "Cách thực hiện, biểu hiện mà nó ghi nhận, những đặc trưng ghép nối hoặc tích hợp",
+        "is_correct": false
+      },
+      {
+        "text": "Tất cả đều đúng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "chapter": "Chương 5:",
+    "question": "Khi thực hiện triển khai HIDS khó khăn gặp là",
+    "options": [
+      {
+        "text": "Chi phí lắp đặt cao, khó bảo quản và duy trì",
+        "is_correct": false
+      },
+      {
+        "text": "Giới hạn tầm nhìn mạng, phải xử lí với nhiều hệ điều hành khác trên mạng.",
+        "is_correct": true
+      },
+      {
+        "text": "Thường xuyên phải cập nhật bảng vá lỗi",
+        "is_correct": false
+      },
+      {
+        "text": "Thường xuyên cài đặt lại phải khi hệ thống mạng thay đổi hệ điều hành",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "chapter": "Chương 5:",
+    "question": "Bộ lọc gói thực hiện chức năng nào ?",
+    "options": [
+      {
+        "text": "Ngăn chặn các gói trái phép đi vào từ mạng bên ngoài",
+        "is_correct": true
+      },
+      {
+        "text": "Cho phép tất cả các gói rời mạng",
+        "is_correct": false
+      },
+      {
+        "text": "Cho phép tất cả các gói đi vào mạng",
+        "is_correct": false
+      },
+      {
+        "text": "Loại trừ sự xung đột trong mạng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "chapter": "Chương 5:",
+    "question": "Hệ thống nào được cài đặt trên Host để cung cấp một tính năng IDS ?",
+    "options": [
+      {
+        "text": "Network sniffer",
+        "is_correct": false
+      },
+      {
+        "text": "N-IDS (Network-based IDS)",
+        "is_correct": false
+      },
+      {
+        "text": "H-IDS (Host-based IDS)",
+        "is_correct": true
+      },
+      {
+        "text": "VPN",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "chapter": "Chương 5:",
+    "question": "Tổ chức chính cấp phát chứng chỉ được gọi là :",
+    "options": [
+      {
+        "text": "CA",
+        "is_correct": true
+      },
+      {
+        "text": "RA",
+        "is_correct": false
+      },
+      {
+        "text": "LRA",
+        "is_correct": false
+      },
+      {
+        "text": "CRL",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "chapter": "Chương 5:",
+    "question": "Các phát biểu sau đây phát biểu là là đúng nhất:",
+    "options": [
+      {
+        "text": "Firewall là một vành đai phòng thủ cho máy tính hoặc hệ thống trước những tấn \ncông",
+        "is_correct": false
+      },
+      {
+        "text": "Firewall là một điểm chặn của trong quá trình điều khiển và giám sát.",
+        "is_correct": true
+      },
+      {
+        "text": "Firewall là một phần mềm hoặc phần cứng có khả năng ngăn chặn tấn công từ bên \ntrong và bên ngoài vào hệ thống.",
+        "is_correct": false
+      },
+      {
+        "text": "Firewall là một giải pháp giúp hệ thống phát hiện và ngăn chặn các truy cập trái phép",
+        "is_correct": false
+      }
+    ]
+  }
+]
