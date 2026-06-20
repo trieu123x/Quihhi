@@ -117,6 +117,13 @@ function App() {
   const [audioEnabled, setAudioEnabled] = useState(true);
   const [timerEnabled, setTimerEnabled] = useState(true);
   const [transitionDelay, setTransitionDelay] = useState('3');
+  const [shortcutSet, setShortcutSet] = useState(() => {
+    return localStorage.getItem('atbm_shortcut_set') || '1234';
+  });
+
+  useEffect(() => {
+    localStorage.setItem('atbm_shortcut_set', shortcutSet);
+  }, [shortcutSet]);
 
   // Active quiz states
   const [questions, setQuestions] = useState([]);
@@ -350,10 +357,11 @@ function App() {
           advanceToNextQuestion();
         }
       } else {
-        const optionKeys = ['1', '2', '3', '4'];
-        if (optionKeys.includes(e.key)) {
+        const optionKeys = shortcutSet === 'qwer' ? ['q', 'w', 'e', 'r'] : ['1', '2', '3', '4'];
+        const pressedKey = e.key.toLowerCase();
+        if (optionKeys.includes(pressedKey)) {
           e.preventDefault();
-          const optIdx = parseInt(e.key) - 1;
+          const optIdx = optionKeys.indexOf(pressedKey);
           const currentQ = questions[currentIdx];
           if (currentQ && currentQ.options && currentQ.options[optIdx]) {
             playSynthSound('click', audioEnabled);
@@ -366,7 +374,7 @@ function App() {
     return () => {
       window.removeEventListener('keydown', handleKeyDown);
     };
-  }, [showFeedback, screen, currentIdx, questions, audioEnabled, submitSoloAnswer, advanceToNextQuestion]);
+  }, [showFeedback, screen, currentIdx, questions, audioEnabled, submitSoloAnswer, advanceToNextQuestion, shortcutSet]);
 
   const simulateBots = (userPoints) => {
     setLeaderboard(prev => {
@@ -634,6 +642,37 @@ function App() {
               </div>
             </div>
 
+            <div className="options-flex" style={{marginBottom: '15px'}}>
+              <div className="input-group" style={{display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '10px'}}>
+                <label htmlFor="shortcut-select" style={{fontWeight: 600, fontSize: '0.95rem', whiteSpace: 'nowrap'}}>
+                  Phím Chọn Đáp Án:
+                </label>
+                <select
+                  id="shortcut-select"
+                  className="cyber-input"
+                  style={{
+                    padding: '8px 12px',
+                    border: '1px solid var(--border-glass)',
+                    borderRadius: '8px',
+                    background: 'rgba(0, 0, 0, 0.4)',
+                    color: 'var(--text-white)',
+                    fontFamily: 'var(--font-family)',
+                    fontSize: '0.95rem',
+                    cursor: 'pointer',
+                    outline: 'none'
+                  }}
+                  value={shortcutSet}
+                  onChange={(e) => {
+                    playSynthSound('click', audioEnabled);
+                    setShortcutSet(e.target.value);
+                  }}
+                >
+                  <option value="1234">Phím số (1, 2, 3, 4)</option>
+                  <option value="qwer">Phím chữ (Q, W, E, R)</option>
+                </select>
+              </div>
+            </div>
+
             <div style={{display: 'flex', justifyContent: 'center', marginTop: '10px'}}>
               <button className="btn-cyber" onClick={startQuiz} style={{width: '240px'}}>
                 Bắt Đầu Chơi
@@ -723,6 +762,9 @@ function App() {
                     }}
                     disabled={showFeedback}
                   >
+                    <span className="shortcut-badge">
+                      {shortcutSet === 'qwer' ? ['Q', 'W', 'E', 'R'][oIdx] : ['1', '2', '3', '4'][oIdx]}
+                    </span>
                     <span>{opt.text}</span>
                   </button>
                 );
