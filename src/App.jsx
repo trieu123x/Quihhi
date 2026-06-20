@@ -266,6 +266,21 @@ function App() {
     submitSoloAnswer([]); // Empty array represents timeout
   };
 
+  const advanceToNextQuestion = () => {
+    if (feedbackTimeoutRef.current) clearTimeout(feedbackTimeoutRef.current);
+    setShowFeedback(false);
+    setSelectedOptsInCurrentQ([]);
+
+    if (currentIdx + 1 < questions.length) {
+      setCurrentIdx(prev => prev + 1);
+      initQuestionTimer();
+    } else {
+      // Game complete!
+      playSynthSound('victory', audioEnabled);
+      setScreen('results');
+    }
+  };
+
   // Main Answer Submission Logic (Instant Feedback + 3s Auto-transition)
   const submitSoloAnswer = (selectedOpts) => {
     if (showFeedback) return;
@@ -320,19 +335,38 @@ function App() {
     // 3 seconds delay before automatically switching questions
     if (feedbackTimeoutRef.current) clearTimeout(feedbackTimeoutRef.current);
     feedbackTimeoutRef.current = setTimeout(() => {
-      setShowFeedback(false);
-      setSelectedOptsInCurrentQ([]);
-
-      if (currentIdx + 1 < questions.length) {
-        setCurrentIdx(prev => prev + 1);
-        initQuestionTimer();
-      } else {
-        // Game complete!
-        playSynthSound('victory', audioEnabled);
-        setScreen('results');
-      }
+      advanceToNextQuestion();
     }, (Math.max(0.5, parseFloat(transitionDelay) || 3)) * 1000);
   };
+
+  // Handle Keyboard shortcuts in Solo mode
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (screen !== 'solo') return;
+
+      if (showFeedback) {
+        if (e.key === ' ') {
+          e.preventDefault();
+          advanceToNextQuestion();
+        }
+      } else {
+        const optionKeys = ['1', '2', '3', '4'];
+        if (optionKeys.includes(e.key)) {
+          e.preventDefault();
+          const optIdx = parseInt(e.key) - 1;
+          const currentQ = questions[currentIdx];
+          if (currentQ && currentQ.options && currentQ.options[optIdx]) {
+            playSynthSound('click', audioEnabled);
+            submitSoloAnswer([currentQ.options[optIdx].text]);
+          }
+        }
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [showFeedback, screen, currentIdx, questions, audioEnabled, submitSoloAnswer, advanceToNextQuestion]);
 
   const simulateBots = (userPoints) => {
     setLeaderboard(prev => {
