@@ -626,7 +626,7 @@ function App() {
 
               <div className="input-group" style={{display: 'flex', flexDirection: 'row', alignItems: 'center', gap: '10px'}}>
                 <label htmlFor="delay-input" style={{fontWeight: 600, fontSize: '0.95rem', whiteSpace: 'nowrap'}}>
-                  Chuyển câu sau (giây):
+                  Chuyển câu sau (giây) or nhấn space:
                 </label>
                 <input 
                   id="delay-input"
