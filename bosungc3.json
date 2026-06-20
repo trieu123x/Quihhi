@@ -1,0 +1,2017 @@
+[
+    {
+        "id": 2006,
+        "text": "PGP đảm bảo tính bí mật thông điệp bằng cách sử dụng:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8087,
+                "text": "Mã hóa khóa bất đối xứng sử dụng khóa phiên",
+                "isCorrect": false
+            },
+            {
+                "id": 8088,
+                "text": "Mã hóa khóa đối xứng sử dụng khóa phiên",
+                "isCorrect": true
+            },
+            {
+                "id": 8089,
+                "text": "Mã hóa khóa bất đối xứng sử dụng khóa công khai",
+                "isCorrect": false
+            },
+            {
+                "id": 8090,
+                "text": "Mã hóa khóa đối xứng sử dụng khóa công khai",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2007,
+        "text": "Số lượng thao tác trong mỗi vòng xử lý của hàm băm MD5 là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8091,
+                "text": "14",
+                "isCorrect": false
+            },
+            {
+                "id": 8092,
+                "text": "16",
+                "isCorrect": true
+            },
+            {
+                "id": 8093,
+                "text": "18",
+                "isCorrect": false
+            },
+            {
+                "id": 8094,
+                "text": "12",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2008,
+        "text": "Trong các cặp khoá sau đây của hệ mật RSA với p=5 ; q=7 , cặp khóa nào có khả năng đúng nhất :",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8095,
+                "text": "(e = 12 , d =11)",
+                "isCorrect": false
+            },
+            {
+                "id": 8096,
+                "text": "(e = 4 , d =11)",
+                "isCorrect": false
+            },
+            {
+                "id": 8097,
+                "text": "( e = 7 , d =23)",
+                "isCorrect": true
+            },
+            {
+                "id": 8098,
+                "text": "( e = 3 , d =18)",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2009,
+        "text": "Thuật giải SHA-1 dùng để :",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8099,
+                "text": "Tạo khoá đối xứng",
+                "isCorrect": false
+            },
+            {
+                "id": 8100,
+                "text": "Tạo chữ ký số",
+                "isCorrect": false
+            },
+            {
+                "id": 8101,
+                "text": "Tạo một giá trị băm có độ dài cố định 160 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8102,
+                "text": "Tạo một giá trị băm có độ dài cố định 256 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2010,
+        "text": "Một hệ mã hóa (cryptosystem) được cấu thành từ hai thành phần chính gồm:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8103,
+                "text": "Phương pháp mã hóa và chia khối",
+                "isCorrect": false
+            },
+            {
+                "id": 8104,
+                "text": "Giải thuật mã hóa và ký số",
+                "isCorrect": false
+            },
+            {
+                "id": 8105,
+                "text": "Phương pháp mã hóa và không gian khóa",
+                "isCorrect": true
+            },
+            {
+                "id": 8106,
+                "text": "Giải thuật mã hóa và giải mã",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2011,
+        "text": "Đâu là một phương pháp mã hóa",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8107,
+                "text": "OR",
+                "isCorrect": false
+            },
+            {
+                "id": 8108,
+                "text": "AND",
+                "isCorrect": false
+            },
+            {
+                "id": 8109,
+                "text": "NOT",
+                "isCorrect": false
+            },
+            {
+                "id": 8110,
+                "text": "XOR",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2012,
+        "text": "Kích thước khối dữ liệu xử lý của giải thuật mã hóa AES là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8111,
+                "text": "160 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8112,
+                "text": "64 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8113,
+                "text": "192 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8114,
+                "text": "128 bit",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2013,
+        "text": "Điểm khác nhau chính giữa hai loại hàm băm MDC và MAC là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8115,
+                "text": "MDC là loại hàm băm không khóa, còn MAC là loại hàm băm có khóa",
+                "isCorrect": true
+            },
+            {
+                "id": 8116,
+                "text": "MDC có khả năng chống đụng độ cao hơn MAC",
+                "isCorrect": false
+            },
+            {
+                "id": 8117,
+                "text": "MDC an toàn hơn MAC",
+                "isCorrect": false
+            },
+            {
+                "id": 8118,
+                "text": "MAC an toàn hơn MDC",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2014,
+        "text": "Một trong các điểm yếu của các hệ mã hóa khóa công khai là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8119,
+                "text": "Khó cài đặt trên thực tế",
+                "isCorrect": false
+            },
+            {
+                "id": 8120,
+                "text": "Khó khăn trong quản lý và phân phối khóa",
+                "isCorrect": false
+            },
+            {
+                "id": 8121,
+                "text": "Tốc độ chậm",
+                "isCorrect": true
+            },
+            {
+                "id": 8122,
+                "text": "Độ an toàn thấp",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2015,
+        "text": "Hai thuộc tính cơ bản quan trọng nhất của một hàm băm là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8123,
+                "text": "Một chiều và đầu ra cố định",
+                "isCorrect": false
+            },
+            {
+                "id": 8124,
+                "text": "Nén và dễ tính toán",
+                "isCorrect": true
+            },
+            {
+                "id": 8125,
+                "text": "Nén và một chiều",
+                "isCorrect": false
+            },
+            {
+                "id": 8126,
+                "text": "Dễ tính toán và có đầu ra cố định",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2016,
+        "text": "Độ an toàn của hệ mật mã RSA dựa trên...",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8130,
+                "text": "Khóa có kích thước lớn",
+                "isCorrect": false
+            },
+            {
+                "id": 8127,
+                "text": "Độ phức tạp cao của giải thuật RSA",
+                "isCorrect": false
+            },
+            {
+                "id": 8128,
+                "text": "Chi phí tính toán lớn",
+                "isCorrect": false
+            },
+            {
+                "id": 8129,
+                "text": "Tính khó của việc phân tích số nguyên rất lớn",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2017,
+        "text": "Khi sinh cặp khóa RSA, các số nguyên tố p và q nên được chọn với kích thước…",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8131,
+                "text": "p càng lớn càng tốt",
+                "isCorrect": false
+            },
+            {
+                "id": 8132,
+                "text": "Bằng khoảng một nửa kích thước của modulo n",
+                "isCorrect": true
+            },
+            {
+                "id": 8133,
+                "text": "Không có yêu cầu về kích thước của p và q",
+                "isCorrect": false
+            },
+            {
+                "id": 8134,
+                "text": "q càng lớn càng tốt",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2018,
+        "text": "Tìm phát biểu đúng về mã hóa khóa bất đối xứng (Asymmetric key cryptography):",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8135,
+                "text": "An toàn hơn mã hóa khóa bí mật",
+                "isCorrect": false
+            },
+            {
+                "id": 8136,
+                "text": "Sử dụng một khóa quá trình mã hóa và một khóa khác cho giải mã",
+                "isCorrect": true
+            },
+            {
+                "id": 8137,
+                "text": "Chỉ sử dụng kỹ thuật mã hóa khối",
+                "isCorrect": false
+            },
+            {
+                "id": 8138,
+                "text": "Sử dụng một khóa chung cho cả quá trình mã hóa và giải mã",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2019,
+        "text": "Tìm phát biểu đúng về mã hóa khóa đối xứng (Symmetric key cryptography):",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8139,
+                "text": "Sử dụng một khóa chung cho cả quá trình mã hóa và giải mã",
+                "isCorrect": true
+            },
+            {
+                "id": 8140,
+                "text": "Sử dụng một khóa quá trình mã hóa và một khóa khác cho giải mã",
+                "isCorrect": false
+            },
+            {
+                "id": 8141,
+                "text": "An toàn hơn mã hóa khóa công khai",
+                "isCorrect": false
+            },
+            {
+                "id": 8142,
+                "text": "Chỉ sử dụng kỹ thuật mã hóa khối",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2020,
+        "text": "Số lượng vòng lặp chính thực hiện xáo trộn dữ liệu theo hàm Feistel (F) trong giải thuật DES là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8143,
+                "text": "14",
+                "isCorrect": false
+            },
+            {
+                "id": 8144,
+                "text": "16",
+                "isCorrect": true
+            },
+            {
+                "id": 8145,
+                "text": "18",
+                "isCorrect": false
+            },
+            {
+                "id": 8146,
+                "text": "20",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2021,
+        "text": "Các hộp thay thế s-box trong giải thuật DES có số bit đầu vào và đầu ra tương ứng là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8147,
+                "text": "Vào 4 bit và ra 4 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8148,
+                "text": "Vào 6 bit và ra 6 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8149,
+                "text": "Vào 8 bit và ra 6 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8150,
+                "text": "Vào 6 bit và ra 4 bit",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2022,
+        "text": "Một trong các ứng dụng phổ biến của các hàm băm là để tạo chuỗi...",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8151,
+                "text": "CheckError",
+                "isCorrect": false
+            },
+            {
+                "id": 8152,
+                "text": "CheckTotal",
+                "isCorrect": false
+            },
+            {
+                "id": 8153,
+                "text": "CheckNum",
+                "isCorrect": false
+            },
+            {
+                "id": 8154,
+                "text": "Checksum",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2023,
+        "text": "Trong quá trình xử lý thông điệp đầu vào tạo chuỗi băm, số lượng vòng xử lý của hàm băm SHA1 là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8155,
+                "text": "80",
+                "isCorrect": true
+            },
+            {
+                "id": 8156,
+                "text": "90",
+                "isCorrect": false
+            },
+            {
+                "id": 8157,
+                "text": "60",
+                "isCorrect": false
+            },
+            {
+                "id": 8158,
+                "text": "70",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2024,
+        "text": "Giải thuật mã hóa AES được thiết kế dựa trên…",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8159,
+                "text": "mạng hoán vị-vernam",
+                "isCorrect": false
+            },
+            {
+                "id": 8160,
+                "text": "mạng xor-thay thế",
+                "isCorrect": false
+            },
+            {
+                "id": 8161,
+                "text": "mạng hoán vị-thay thế",
+                "isCorrect": true
+            },
+            {
+                "id": 8162,
+                "text": "mạng hoán vị-xor",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2025,
+        "text": "Một trong các điểm yếu của các hệ mã hóa khóa đối xứng là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8163,
+                "text": "Chi phí tính toán lớn",
+                "isCorrect": false
+            },
+            {
+                "id": 8164,
+                "text": "Khó khăn trong quản lý và phân phối khóa",
+                "isCorrect": true
+            },
+            {
+                "id": 8165,
+                "text": "Độ an toàn thấp",
+                "isCorrect": false
+            },
+            {
+                "id": 8166,
+                "text": "Khó khăn trong cài đặt và triển khai hệ thống",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2026,
+        "text": "Số vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã của giải thuật mã hóa AES với khóa 192 bit là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8167,
+                "text": "10",
+                "isCorrect": false
+            },
+            {
+                "id": 8168,
+                "text": "12",
+                "isCorrect": true
+            },
+            {
+                "id": 8169,
+                "text": "16",
+                "isCorrect": false
+            },
+            {
+                "id": 8170,
+                "text": "14",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2027,
+        "text": "Một trong các ứng dụng phổ biến của các hàm băm một chiều là để...",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8171,
+                "text": "Mã hóa thẻ tín dụng",
+                "isCorrect": false
+            },
+            {
+                "id": 8172,
+                "text": "Mã hóa địa chỉ",
+                "isCorrect": false
+            },
+            {
+                "id": 8173,
+                "text": "Mã hóa mật khẩu",
+                "isCorrect": true
+            },
+            {
+                "id": 8174,
+                "text": "Mã hóa tên tài khoản",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2028,
+        "text": "PGP đảm bảo tính xác thực thông điệp bằng cách:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8175,
+                "text": "Mã hóa/giải mã thông điệp",
+                "isCorrect": false
+            },
+            {
+                "id": 8176,
+                "text": "Sử dụng hàm băm có khóa MAC",
+                "isCorrect": false
+            },
+            {
+                "id": 8177,
+                "text": "Sử dụng hàm băm không khóa MDC",
+                "isCorrect": false
+            },
+            {
+                "id": 8178,
+                "text": "Tạo và kiểm tra chữ ký số",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2029,
+        "text": "Kích thước khóa hiệu dụng của hệ mã hóa DES là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8179,
+                "text": "64 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8180,
+                "text": "128 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8181,
+                "text": "56 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8182,
+                "text": "48 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2030,
+        "text": "Trong mã hóa dòng (stream cipher), dữ liệu được xử lý theo…",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8183,
+                "text": "Từng bit hoặc từng byte/ký tự",
+                "isCorrect": true
+            },
+            {
+                "id": 8184,
+                "text": "Từng bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8185,
+                "text": "Từng byte",
+                "isCorrect": false
+            },
+            {
+                "id": 8186,
+                "text": "Từng chuỗi ký tự",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2031,
+        "text": "Trong hệ mật mã RSA, quan hệ toán học giữa khóa công khai e và số Phi(n) là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8187,
+                "text": "Phi(n) là modulo của e",
+                "isCorrect": false
+            },
+            {
+                "id": 8188,
+                "text": "e và Phi(n) không có quan hệ với nhau",
+                "isCorrect": false
+            },
+            {
+                "id": 8189,
+                "text": "e và Phi(n) là 2 số nguyên tố cùng nhau",
+                "isCorrect": true
+            },
+            {
+                "id": 8190,
+                "text": "Phi(n) là modulo nghịch đảo của e",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2032,
+        "text": "Các giải thuật mã hóa khóa đối xứng thông dụng gồm:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8191,
+                "text": "DES, RSA, RC4",
+                "isCorrect": false
+            },
+            {
+                "id": 8192,
+                "text": "DES, AES, PGP",
+                "isCorrect": false
+            },
+            {
+                "id": 8193,
+                "text": "DES, 3-DES, RSA",
+                "isCorrect": false
+            },
+            {
+                "id": 8194,
+                "text": "DES, 3-DES, AES",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2033,
+        "text": "Trong hệ mật mã RSA, quan hệ toán học giữa khóa riêng d và khóa công khai e là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8195,
+                "text": "d và e là 2 số nguyên tố cùng nhau",
+                "isCorrect": false
+            },
+            {
+                "id": 8196,
+                "text": "d và e không có quan hệ với nhau",
+                "isCorrect": false
+            },
+            {
+                "id": 8197,
+                "text": "d là modulo nghịch đảo của e",
+                "isCorrect": true
+            },
+            {
+                "id": 8198,
+                "text": "d là modulo của e",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2034,
+        "text": "Giải thuật mã hóa AES vận hành dựa trên một ma trận 4x4, được gọi là...",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8199,
+                "text": "State",
+                "isCorrect": true
+            },
+            {
+                "id": 8200,
+                "text": "States",
+                "isCorrect": false
+            },
+            {
+                "id": 8201,
+                "text": "Status",
+                "isCorrect": false
+            },
+            {
+                "id": 8202,
+                "text": "Stock",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2035,
+        "text": "Đâu là một ứng dụng của mã hóa?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8203,
+                "text": "PGG",
+                "isCorrect": false
+            },
+            {
+                "id": 8204,
+                "text": "GPP",
+                "isCorrect": false
+            },
+            {
+                "id": 8205,
+                "text": "PPG",
+                "isCorrect": false
+            },
+            {
+                "id": 8206,
+                "text": "PGP",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2036,
+        "text": "Phần xử lý chính của SHA1 làm việc trên một chuỗi được gọi là state. Kích thước của state là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8207,
+                "text": "160 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8208,
+                "text": "170 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8209,
+                "text": "150 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8210,
+                "text": "180 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2037,
+        "text": "Trật tự các khâu xử lý trong các vòng lặp chính của giải thuật mã hóa AES là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8211,
+                "text": "AddRoundKey, MixColumns, ShiftRows, SubBytes",
+                "isCorrect": false
+            },
+            {
+                "id": 8212,
+                "text": "SubBytes, ShiftRows, MixColumns, AddRoundKey",
+                "isCorrect": true
+            },
+            {
+                "id": 8213,
+                "text": "SubBytes, MixColumns, ShiftRows, AddRoundKey",
+                "isCorrect": false
+            },
+            {
+                "id": 8214,
+                "text": "AddRoundKey, MixColumns, SubBytes, ShiftRows",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2038,
+        "text": "Văn bản sau khi được mã hóa gọi là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8215,
+                "text": "Chứng chỉ.",
+                "isCorrect": false
+            },
+            {
+                "id": 8216,
+                "text": "Mật mã đối xứng.",
+                "isCorrect": false
+            },
+            {
+                "id": 8217,
+                "text": "Khóa công khai.",
+                "isCorrect": false
+            },
+            {
+                "id": 8218,
+                "text": "Văn bản mã.",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2039,
+        "text": "Đặc tính nào sau đây không thuộc chức năng bảo mật thông tin trong các hệ thống mật mã?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8219,
+                "text": "Hiệu quả.",
+                "isCorrect": true
+            },
+            {
+                "id": 8220,
+                "text": "Bảo mật.",
+                "isCorrect": false
+            },
+            {
+                "id": 8221,
+                "text": "Toàn vẹn.",
+                "isCorrect": false
+            },
+            {
+                "id": 8222,
+                "text": "Không chối từ.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2040,
+        "text": "Ở hệ mật mã nào người gửi và người nhận thông diệp sử dụng cùng một khóa mã khi mã hóa công khai và giải mã?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8223,
+                "text": "Không đối xứng.",
+                "isCorrect": false
+            },
+            {
+                "id": 8224,
+                "text": "Đối xứng.",
+                "isCorrect": true
+            },
+            {
+                "id": 8225,
+                "text": "RS",
+                "isCorrect": false
+            },
+            {
+                "id": 8226,
+                "text": "Difie-Hellman.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2041,
+        "text": "Chuẩn nào sau đây được chính phủ Mỹ sử dụng thay thế cho DES như là một chuẩn mã hóa dữ liệu?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8227,
+                "text": "DSA",
+                "isCorrect": false
+            },
+            {
+                "id": 8228,
+                "text": "ECC",
+                "isCorrect": false
+            },
+            {
+                "id": 8229,
+                "text": "3DES",
+                "isCorrect": false
+            },
+            {
+                "id": 8230,
+                "text": "AES",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2042,
+        "text": "Ở hệ mật mã nào người gửi và người nhận thông điệp sử dụng các khóa khác nhau khi mã hóa và giải mã ?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8231,
+                "text": "Skipjack",
+                "isCorrect": false
+            },
+            {
+                "id": 8232,
+                "text": "Blowfish",
+                "isCorrect": false
+            },
+            {
+                "id": 8233,
+                "text": "Không đối xứng",
+                "isCorrect": true
+            },
+            {
+                "id": 8234,
+                "text": "Đối xứng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2043,
+        "text": "Khi giá trị hàm băm của hai thông điệp khác nhau có giá trị tương tự nhau, ta gọi hiện tượng này là gì ?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8235,
+                "text": "Tấn công vào ngày sinh",
+                "isCorrect": false
+            },
+            {
+                "id": 8236,
+                "text": "Xung đột",
+                "isCorrect": true
+            },
+            {
+                "id": 8237,
+                "text": "Chữ ký số",
+                "isCorrect": false
+            },
+            {
+                "id": 8238,
+                "text": "Khóa công khai",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2044,
+        "text": "Nếu muốn xem một tài liệu “bảo mật”được mã hóa trên hệ mật bất đối xứng do người khác gởi đến , bạn phải sử dụng khóa nào để giải mật tài liệu?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8239,
+                "text": "Khoá công khai của bạn",
+                "isCorrect": false
+            },
+            {
+                "id": 8240,
+                "text": "Khoá công khai của bên gửi",
+                "isCorrect": false
+            },
+            {
+                "id": 8241,
+                "text": "Khoá cá nhân của bên gửi",
+                "isCorrect": false
+            },
+            {
+                "id": 8242,
+                "text": "Khoá cá nhân của bạn",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2045,
+        "text": "Đâu là một phương pháp mã hóa:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8243,
+                "text": "Thay thế",
+                "isCorrect": false
+            },
+            {
+                "id": 8244,
+                "text": "Đổi chỗ/ hoán vị",
+                "isCorrect": false
+            },
+            {
+                "id": 8245,
+                "text": "Vernam",
+                "isCorrect": false
+            },
+            {
+                "id": 8246,
+                "text": "Tất cả các phương án trên",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2046,
+        "text": "Thuật giải MD5 cho ta một giá trị băm có độ dài :",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8247,
+                "text": "156 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8248,
+                "text": "256 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8249,
+                "text": "128 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8250,
+                "text": "512 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2047,
+        "text": "Các hệ mã hóa khóa công khai sử dụng một cặp khóa: public key và private key. Các yêu cầu đối với public key và private key là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8251,
+                "text": "Cả public key và private key đều cần giữ bí mật",
+                "isCorrect": false
+            },
+            {
+                "id": 8252,
+                "text": "Có thể công khai public key và cần giữ bí mật private key",
+                "isCorrect": false
+            },
+            {
+                "id": 8253,
+                "text": "Có thể công khai private key và cần giữ bí mật public key",
+                "isCorrect": false
+            },
+            {
+                "id": 8254,
+                "text": "Có thể công khai public key nhưng phải đảm bảo tính xác thực và cần giữ bí mật private key",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2048,
+        "text": "Kích thức khóa có thể của hệ mã hóa AES là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8255,
+                "text": "128, 192 và 256 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8256,
+                "text": "64, 128 và 192 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8257,
+                "text": "128, 256 và 512 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8258,
+                "text": "128, 256 và 384 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2049,
+        "text": "Kích thước khóa hiệu dụng của hệ mã hóa DES là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8259,
+                "text": "64 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8260,
+                "text": "48 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8261,
+                "text": "56 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8262,
+                "text": "128 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2050,
+        "text": "Số lượng vòng lặp chuyển đổi cần thực hiện để chuyển bản rõ thành bản mã trong hệ mã hóa AES khóa 128 bit là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8263,
+                "text": "14",
+                "isCorrect": false
+            },
+            {
+                "id": 8264,
+                "text": "10",
+                "isCorrect": true
+            },
+            {
+                "id": 8265,
+                "text": "16",
+                "isCorrect": false
+            },
+            {
+                "id": 8266,
+                "text": "12",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2051,
+        "text": "Bước MixColumns (trộn cột) trong vòng lặp chuyển đổi trong hệ mã hóa AES thực hiện việc:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8267,
+                "text": "Trộn hai cột kề nhau của ma trận state",
+                "isCorrect": false
+            },
+            {
+                "id": 8268,
+                "text": "Mỗi cột của ma trận state được nhân với một đa thức",
+                "isCorrect": true
+            },
+            {
+                "id": 8269,
+                "text": "Trộn các cột tương ứng của ma trận state với khóa",
+                "isCorrect": false
+            },
+            {
+                "id": 8270,
+                "text": "Trộn các dòng tương ứng của ma trận state với khóa",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2052,
+        "text": "Phát biểu nào sau đây đúng với kỹ thuật mã hóa khóa bí mật",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8271,
+                "text": "Mã hóa khóa bí mật an toàn hơn mã hóa khóa công khai",
+                "isCorrect": false
+            },
+            {
+                "id": 8272,
+                "text": "Mã hóa khóa bí mật chỉ hoạt động theo chế độ mã hóa khối",
+                "isCorrect": false
+            },
+            {
+                "id": 8273,
+                "text": "Mã hóa khóa bí mật sử dụng một mã (key) cho cả quá trình mã hóa và giải mã",
+                "isCorrect": true
+            },
+            {
+                "id": 8274,
+                "text": "Mã hóa khóa bí mật có thuật toán đơn giản hơn mã hóa khóa công khai",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2053,
+        "text": "Ưu điểm của kỹ thuật mã hóa khóa công khai so với mã hóa khóa bí mật là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8275,
+                "text": "Có độ an toàn cao hơn",
+                "isCorrect": false
+            },
+            {
+                "id": 8276,
+                "text": "Trao đổi khóa dễ dàng hơn",
+                "isCorrect": true
+            },
+            {
+                "id": 8277,
+                "text": "Chi phí tính toán thấp hơn",
+                "isCorrect": false
+            },
+            {
+                "id": 8278,
+                "text": "Quản lý dễ dàng hơn",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2054,
+        "text": "Yêu cầu để đảm bảo sử dụng mã hóa đối xứng là",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8279,
+                "text": "Có thuật toán encryption tốt,có một khóa bí mật được biết bởi người nhận/gửi và kênh truyền bí mật để phân phát key",
+                "isCorrect": true
+            },
+            {
+                "id": 8280,
+                "text": "Có một kênh truyền phù hợp và một khóa bí mật được biết bởi người nhận/gửi",
+                "isCorrect": false
+            },
+            {
+                "id": 8281,
+                "text": "Có thuật toán encryption tốt và có một khóa bí mật được biết bởi người nhận/gửi",
+                "isCorrect": false
+            },
+            {
+                "id": 8282,
+                "text": "Tất cả đều đúng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2055,
+        "text": "Các thuật toán nào sau đây không phải là thuật toán mã hóa đối xứng",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8283,
+                "text": "Triple–DES, RC4, RC5, Blowfish",
+                "isCorrect": false
+            },
+            {
+                "id": 8284,
+                "text": "Triple–DES, RC4, RC5, IDEA",
+                "isCorrect": false
+            },
+            {
+                "id": 8285,
+                "text": "RC4, RC5, IDEA, Blowfish",
+                "isCorrect": false
+            },
+            {
+                "id": 8286,
+                "text": "IDEA, Blowfish, AES, Elliptic Curve",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2056,
+        "text": "Các phát biểu sau đây phát biểu nào đúng",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8287,
+                "text": "Hầu hết các thuật tóan mã hóa đối xứng đều dựa trên cấu trúc thuật toán Feistel",
+                "isCorrect": false
+            },
+            {
+                "id": 8288,
+                "text": "Tấn công thông điệp thì thời gian giải mã tỷ lệ với kích thước khóa",
+                "isCorrect": false
+            },
+            {
+                "id": 8289,
+                "text": "Hầu hết các thuật tóan mã hóa khối đều đối xứng",
+                "isCorrect": true
+            },
+            {
+                "id": 8290,
+                "text": "Tất cả đều đúng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2057,
+        "text": "Mã hóa nào sau đây là một tiêu chuẩn dùng để phát triển cho việc tạo ra thông điệp an toàn?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8291,
+                "text": "Data Encryption Standard",
+                "isCorrect": true
+            },
+            {
+                "id": 8292,
+                "text": "Digital Signature Standard",
+                "isCorrect": false
+            },
+            {
+                "id": 8293,
+                "text": "Secure Hash Algorithm",
+                "isCorrect": false
+            },
+            {
+                "id": 8294,
+                "text": "Chữ kí dữ liệu tiêu chuẩn",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2058,
+        "text": "Các yếu tố ảnh hưởng đến quá trình mã hóa",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8295,
+                "text": "Thuật toán mã hóa, giải mã, và tính an toàn của kênh truyền",
+                "isCorrect": true
+            },
+            {
+                "id": 8296,
+                "text": "Thời gian thực hiện mã hóa và giải mã",
+                "isCorrect": false
+            },
+            {
+                "id": 8297,
+                "text": "Thực hiện mã hóa khối, mở rộng số bit xử lý",
+                "isCorrect": false
+            },
+            {
+                "id": 8298,
+                "text": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2059,
+        "text": "MAC là một từ cấu tạo bằng những chữ đầu của một nhóm nào liên quan đến mật mã ?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8299,
+                "text": "Kiểm soát truy cập phương tiện (Media access control)",
+                "isCorrect": false
+            },
+            {
+                "id": 8300,
+                "text": "Kiểm soát truy cập bắt buộc (Mandatory access control)",
+                "isCorrect": false
+            },
+            {
+                "id": 8301,
+                "text": "Mã xác thực thông điệp (Message authentication code)",
+                "isCorrect": true
+            },
+            {
+                "id": 8302,
+                "text": "Các ủy ban đa tư vấn (Multiple advisory committees)",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2060,
+        "text": "Nội dung nào sau đây không cần sử dụng mật mã ?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8303,
+                "text": "Bảo mật",
+                "isCorrect": false
+            },
+            {
+                "id": 8304,
+                "text": "Xác thực",
+                "isCorrect": false
+            },
+            {
+                "id": 8305,
+                "text": "Toàn vẹn",
+                "isCorrect": false
+            },
+            {
+                "id": 8306,
+                "text": "Truy cập",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2061,
+        "text": "Thuật giải MD5 dùng để :",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8307,
+                "text": "Bảo mật một thông điệp",
+                "isCorrect": false
+            },
+            {
+                "id": 8308,
+                "text": "Xác thực một thông điệp",
+                "isCorrect": false
+            },
+            {
+                "id": 8309,
+                "text": "Phân phối khoá mật mã",
+                "isCorrect": false
+            },
+            {
+                "id": 8310,
+                "text": "Kiểm tra tính toàn vẹn dữ liệu",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2062,
+        "text": "Trong DES mỗi hàm chọn Si được dùng để :",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8311,
+                "text": "Biến đổi khối dữ liệu mã 48 bit thành 32 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8312,
+                "text": "Biến đổi khối dữ liệu mã 6 bit thành 4 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8313,
+                "text": "Biến đổi khối dữ liệu mã 16 bit thành 4 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8314,
+                "text": "Biến đổi khối dữ liệu mã 32 bit thành 4 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2063,
+        "text": "Hệ mật DES sử dụng khối khoá được tạo bởi :",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8315,
+                "text": "56 bit ngẫu nhiên",
+                "isCorrect": false
+            },
+            {
+                "id": 8316,
+                "text": "64 bit ngẫu nhiên",
+                "isCorrect": false
+            },
+            {
+                "id": 8317,
+                "text": "128 bit ngẫu nhiên",
+                "isCorrect": false
+            },
+            {
+                "id": 8318,
+                "text": "56 bit ngẫu nhiên và 8 bit kiểm tra “Parity”",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2064,
+        "text": "Hệ mật DES xử lý từng khối “ plain text ” có độ dài :",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8319,
+                "text": "56 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8320,
+                "text": "32 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8321,
+                "text": "64 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8322,
+                "text": "48 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2065,
+        "text": "Số lượng các khóa phụ (subkey) cần được tạo ra từ khóa chính trong giải thuật DES là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8323,
+                "text": "18",
+                "isCorrect": false
+            },
+            {
+                "id": 8324,
+                "text": "16",
+                "isCorrect": true
+            },
+            {
+                "id": 8325,
+                "text": "14",
+                "isCorrect": false
+            },
+            {
+                "id": 8326,
+                "text": "12",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2066,
+        "text": "Sử dụng nhiêu bit với DES để có hiệu quả?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8327,
+                "text": "56",
+                "isCorrect": true
+            },
+            {
+                "id": 8328,
+                "text": "64",
+                "isCorrect": false
+            },
+            {
+                "id": 8329,
+                "text": "32",
+                "isCorrect": false
+            },
+            {
+                "id": 8330,
+                "text": "16",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2067,
+        "text": "Thuật giải SHA là :",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8331,
+                "text": "Hàm băm một chiều",
+                "isCorrect": false
+            },
+            {
+                "id": 8332,
+                "text": "Dùng trong thuật giải tạo chữ ký số",
+                "isCorrect": false
+            },
+            {
+                "id": 8333,
+                "text": "Cho giá trị băm 160 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8334,
+                "text": "Tất cả đều đúng",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2068,
+        "text": "Quản trị văn phòng của bạn đang được huấn luyện để thực hiện sao lưu máy chủ. Phương pháp xác thực nào là lý tưởng đối với tình huống này ?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8335,
+                "text": "MAC",
+                "isCorrect": false
+            },
+            {
+                "id": 8336,
+                "text": "DAC",
+                "isCorrect": false
+            },
+            {
+                "id": 8337,
+                "text": "RBAC",
+                "isCorrect": true
+            },
+            {
+                "id": 8338,
+                "text": "Các mã thông báo bảo mật.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2069,
+        "text": "Phát biểu nào sau đây đúng với cơ chế điều khiển truy cập MAC:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8339,
+                "text": "MAC cấp quyền truy cập dựa trên tính nhạy cảm của những thông tin và chính sách quản trị",
+                "isCorrect": true
+            },
+            {
+                "id": 8340,
+                "text": "MAC là cơ chế điều khiển truy cập được sử dụng rộng rãi nhất",
+                "isCorrect": false
+            },
+            {
+                "id": 8341,
+                "text": "MAC cho phép người tạo ra đối tượng có thể cấp quyền truy cập cho người dùng khác",
+                "isCorrect": false
+            },
+            {
+                "id": 8342,
+                "text": "MAC quản lý truyền quy cập chặt chẽ hơn các cơ chế khác",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2070,
+        "text": "Các loại khoá mật mã nào sau đây dễ bị crack nhất ?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8343,
+                "text": "128 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8344,
+                "text": "40 bit",
+                "isCorrect": true
+            },
+            {
+                "id": 8345,
+                "text": "256 bit",
+                "isCorrect": false
+            },
+            {
+                "id": 8346,
+                "text": "56 bit",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    }
+]

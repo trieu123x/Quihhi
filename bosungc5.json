@@ -1,0 +1,3600 @@
+[
+    {
+        "id": 2136,
+        "text": "Tài sản (Asset) trong lĩnh vực an toàn thông tin có thể bao gồm:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8607,
+                "text": "Chỉ gồm phần cứng máy chủ và thiết bị mạng.",
+                "isCorrect": false
+            },
+            {
+                "id": 8608,
+                "text": "Chỉ gồm phần mềm hệ điều hành và ứng dụng.",
+                "isCorrect": false
+            },
+            {
+                "id": 8609,
+                "text": "Phần cứng, phần mềm, thông tin và các thành phần hỗ trợ liên quan.",
+                "isCorrect": true
+            },
+            {
+                "id": 8610,
+                "text": "Chỉ bao gồm thông tin khách hàng và bí mật kinh doanh.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2137,
+        "text": "Quản lý an toàn thông tin (Information security management) là quá trình nhằm đảm bảo tài sản được bảo vệ đầy đủ với chi phí phù hợp và phải trả lời được bao nhiêu câu hỏi cốt lõi?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8611,
+                "text": "2 câu hỏi",
+                "isCorrect": false
+            },
+            {
+                "id": 8612,
+                "text": "3 câu hỏi",
+                "isCorrect": true
+            },
+            {
+                "id": 8613,
+                "text": "4 câu hỏi",
+                "isCorrect": false
+            },
+            {
+                "id": 8614,
+                "text": "5 câu hỏi",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2138,
+        "text": "Câu hỏi nào KHÔNG nằm trong 3 câu hỏi cốt lõi của quản lý an toàn thông tin?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8615,
+                "text": "Những tài sản nào cần được bảo vệ?",
+                "isCorrect": false
+            },
+            {
+                "id": 8616,
+                "text": "Ai là người sẽ thực hiện cuộc tấn công vào hệ thống?",
+                "isCorrect": true
+            },
+            {
+                "id": 8617,
+                "text": "Những đe dọa nào có thể có đối với các tài sản này?",
+                "isCorrect": false
+            },
+            {
+                "id": 8618,
+                "text": "Những biện pháp nào có thể thực hiện để ứng phó với đe dọa?",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2139,
+        "text": "Tại sao quá trình quản lý an toàn thông tin cần được thực hiện liên tục theo chu trình?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8619,
+                "text": "Do sự thay đổi nhanh chóng của công nghệ và môi trường xuất hiện rủi ro",
+                "isCorrect": true
+            },
+            {
+                "id": 8620,
+                "text": "Do yêu cầu bắt buộc của bộ luật hình sự",
+                "isCorrect": false
+            },
+            {
+                "id": 8621,
+                "text": "Do nhân sự quản trị mạng thường xuyên thay đổi",
+                "isCorrect": false
+            },
+            {
+                "id": 8622,
+                "text": "Do hệ thống phần cứng nhanh chóng bị hao mòn",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2140,
+        "text": "Có bao nhiêu phương pháp tiếp cận đánh giá rủi ro an toàn thông tin được giới thiệu trong giáo trình?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8623,
+                "text": "2 phương pháp",
+                "isCorrect": false
+            },
+            {
+                "id": 8624,
+                "text": "3 phương pháp",
+                "isCorrect": false
+            },
+            {
+                "id": 8625,
+                "text": "4 phương pháp",
+                "isCorrect": true
+            },
+            {
+                "id": 8626,
+                "text": "5 phương pháp",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2141,
+        "text": "Mục đích của Phương pháp đánh giá rủi ro đường cơ sở (Baseline approach) là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8627,
+                "text": "Thực thi các kiểm soát an ninh ở mức cơ bản dựa trên các tài liệu, quy tắc thực hành tốt nhất của ngành",
+                "isCorrect": true
+            },
+            {
+                "id": 8628,
+                "text": "Đánh giá chi tiết toàn bộ các lỗ hổng trên từng máy chủ",
+                "isCorrect": false
+            },
+            {
+                "id": 8629,
+                "text": "Thuê đội ngũ chuyên gia bên ngoài thực hiện tấn công thử nghiệm",
+                "isCorrect": false
+            },
+            {
+                "id": 8630,
+                "text": "Sử dụng công cụ phần mềm tự động rà quét tất cả thiết bị mạng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2142,
+        "text": "Nhược điểm của Phương pháp đánh giá rủi ro đường cơ sở là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8631,
+                "text": "Đòi hỏi chi phí rất cao để thuê chuyên gia",
+                "isCorrect": false
+            },
+            {
+                "id": 8632,
+                "text": "Mức đường cơ sở được xác định chung nên có thể không phù hợp với từng tổ chức cụ thể",
+                "isCorrect": true
+            },
+            {
+                "id": 8633,
+                "text": "Chỉ áp dụng được cho hệ điều hành Windows",
+                "isCorrect": false
+            },
+            {
+                "id": 8634,
+                "text": "Mất quá nhiều thời gian để hoàn thành",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2143,
+        "text": "Phương pháp đánh giá rủi ro đường cơ sở phù hợp nhất với đối tượng nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8635,
+                "text": "Các tập đoàn đa quốc gia quy mô lớn",
+                "isCorrect": false
+            },
+            {
+                "id": 8636,
+                "text": "Các tổ chức chính phủ",
+                "isCorrect": false
+            },
+            {
+                "id": 8637,
+                "text": "Các cơ sở quân sự và an ninh",
+                "isCorrect": false
+            },
+            {
+                "id": 8638,
+                "text": "Các tổ chức với hệ thống CNTT quy mô nhỏ, nguồn lực hạn chế",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2144,
+        "text": "Trong đánh giá rủi ro, Phương pháp không chính thức (Informal approach) thường sử dụng:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8639,
+                "text": "Mô hình toán học phức tạp để đo lường",
+                "isCorrect": false
+            },
+            {
+                "id": 8640,
+                "text": "Chuẩn ISO/IEC 27005 để áp đặt cứng nhắc",
+                "isCorrect": false
+            },
+            {
+                "id": 8641,
+                "text": "Kiến thức chuyên gia của nhân viên bên trong hoặc nhà tư vấn bên ngoài",
+                "isCorrect": true
+            },
+            {
+                "id": 8642,
+                "text": "Phần mềm rà quét tự động do chính phủ cấp phát",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2145,
+        "text": "Nhược điểm của Phương pháp đánh giá rủi ro không chính thức là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8643,
+                "text": "Đánh giá không toàn diện, dễ bỏ sót rủi ro và phụ thuộc vào quan điểm cá nhân",
+                "isCorrect": true
+            },
+            {
+                "id": 8644,
+                "text": "Tốn quá nhiều chi phí và nhân lực",
+                "isCorrect": false
+            },
+            {
+                "id": 8645,
+                "text": "Không thể thực hiện được nếu không có sự hỗ trợ của chuyên gia nước ngoài",
+                "isCorrect": false
+            },
+            {
+                "id": 8646,
+                "text": "Yêu cầu bắt buộc phải mua phần mềm bản quyền đắt tiền",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2146,
+        "text": "Phương pháp phân tích chi tiết rủi ro (Detailed risk analysis) phù hợp với loại hình tổ chức nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8647,
+                "text": "Doanh nghiệp siêu nhỏ có dưới 10 nhân viên",
+                "isCorrect": false
+            },
+            {
+                "id": 8648,
+                "text": "Các cửa hàng bán lẻ cá nhân",
+                "isCorrect": false
+            },
+            {
+                "id": 8649,
+                "text": "Các tổ chức chính phủ hoặc các hệ thống CNTT quy mô lớn, cung cấp hạ tầng quốc gia",
+                "isCorrect": true
+            },
+            {
+                "id": 8650,
+                "text": "Bất kỳ cá nhân nào có sử dụng máy tính kết nối mạng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2147,
+        "text": "Phương pháp kết hợp (Combined approach) trong đánh giá rủi ro được thực hiện theo bao nhiêu bước?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8651,
+                "text": "2 bước",
+                "isCorrect": false
+            },
+            {
+                "id": 8652,
+                "text": "3 bước",
+                "isCorrect": true
+            },
+            {
+                "id": 8653,
+                "text": "4 bước",
+                "isCorrect": false
+            },
+            {
+                "id": 8654,
+                "text": "5 bước",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2148,
+        "text": "Bước đầu tiên của Phương pháp kết hợp trong đánh giá rủi ro là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8655,
+                "text": "Thực hiện phương pháp đường cơ sở với tất cả thành phần của hệ thống CNTT",
+                "isCorrect": true
+            },
+            {
+                "id": 8656,
+                "text": "Thuê chuyên gia tư vấn đánh giá chi tiết ngay lập tức",
+                "isCorrect": false
+            },
+            {
+                "id": 8657,
+                "text": "Cài đặt hệ thống IDS/IPS cho máy chủ trung tâm",
+                "isCorrect": false
+            },
+            {
+                "id": 8658,
+                "text": "Lập danh sách các máy tính cần loại bỏ",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2149,
+        "text": "Phương pháp phân tích chi tiết rủi ro an toàn thông tin bao gồm bao nhiêu bước thực hiện?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8659,
+                "text": "5 bước",
+                "isCorrect": false
+            },
+            {
+                "id": 8660,
+                "text": "7 bước",
+                "isCorrect": false
+            },
+            {
+                "id": 8661,
+                "text": "9 bước",
+                "isCorrect": true
+            },
+            {
+                "id": 8662,
+                "text": "11 bước",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2150,
+        "text": "Bước 1 trong Phân tích chi tiết rủi ro an toàn thông tin là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8663,
+                "text": "Xác định xác suất rủi ro",
+                "isCorrect": false
+            },
+            {
+                "id": 8664,
+                "text": "Phân tích các ảnh hưởng",
+                "isCorrect": false
+            },
+            {
+                "id": 8665,
+                "text": "Mô tả đặc điểm hệ thống",
+                "isCorrect": true
+            },
+            {
+                "id": 8666,
+                "text": "Viết tài liệu kết quả phân tích",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2151,
+        "text": "Đầu ra của Bước 2 (Nhận dạng các mối đe dọa) trong Phân tích chi tiết rủi ro là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8667,
+                "text": "Báo cáo về các mối đe dọa đối với hệ thống",
+                "isCorrect": true
+            },
+            {
+                "id": 8668,
+                "text": "Danh sách các lỗ hổng bảo mật tiềm tàng",
+                "isCorrect": false
+            },
+            {
+                "id": 8669,
+                "text": "Cấu hình tường lửa mới",
+                "isCorrect": false
+            },
+            {
+                "id": 8670,
+                "text": "Bản ghi log truy cập hệ thống",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2152,
+        "text": "Trong Phân tích chi tiết rủi ro, bước Xác định các rủi ro sử dụng đầu vào nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8671,
+                "text": "Đặc tả phần cứng và phần mềm của hệ thống",
+                "isCorrect": false
+            },
+            {
+                "id": 8672,
+                "text": "Khả năng bị mối đe dọa khai thác, tầm quan trọng của ảnh hưởng và sự phù hợp của các kiểm soát",
+                "isCorrect": true
+            },
+            {
+                "id": 8673,
+                "text": "Báo cáo tài chính của công ty trong năm trước",
+                "isCorrect": false
+            },
+            {
+                "id": 8674,
+                "text": "Thông tin về các nhân viên đã nghỉ việc",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2153,
+        "text": "Kiểm soát quản lý (Management controls) trong an toàn thông tin tập trung vào nội dung nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8675,
+                "text": "Lắp đặt các hệ thống báo cháy và camera giám sát",
+                "isCorrect": false
+            },
+            {
+                "id": 8676,
+                "text": "Sử dụng đúng đắn các biện pháp phần cứng và phần mềm",
+                "isCorrect": false
+            },
+            {
+                "id": 8677,
+                "text": "Các chính sách, lập kế hoạch, hướng dẫn và chuẩn an toàn thông tin",
+                "isCorrect": true
+            },
+            {
+                "id": 8678,
+                "text": "Phục hồi dữ liệu từ băng từ sau khi bị thiên tai",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2154,
+        "text": "Các cơ chế và thủ tục được thực thi chủ yếu bởi con người (chứ không phải hệ thống máy tính) thuộc loại kiểm soát nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8679,
+                "text": "Kiểm soát kỹ thuật",
+                "isCorrect": false
+            },
+            {
+                "id": 8680,
+                "text": "Kiểm soát vận hành",
+                "isCorrect": true
+            },
+            {
+                "id": 8681,
+                "text": "Kiểm soát phát hiện",
+                "isCorrect": false
+            },
+            {
+                "id": 8682,
+                "text": "Kiểm soát logic",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2155,
+        "text": "Xác thực, trao quyền và thực thi kiểm soát truy nhập bằng phần cứng/phần mềm là ví dụ của loại kiểm soát nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8683,
+                "text": "Kiểm soát vật lý",
+                "isCorrect": false
+            },
+            {
+                "id": 8684,
+                "text": "Kiểm soát quản lý",
+                "isCorrect": false
+            },
+            {
+                "id": 8685,
+                "text": "Kiểm soát kỹ thuật",
+                "isCorrect": true
+            },
+            {
+                "id": 8686,
+                "text": "Kiểm soát hỗ trợ",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2156,
+        "text": "Giai đoạn thực thi tiếp tục (Implementation follow-up) trong quản lý ATTT KHÔNG bao gồm công việc nào dưới đây?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8687,
+                "text": "Bảo trì các kiểm soát an ninh",
+                "isCorrect": false
+            },
+            {
+                "id": 8688,
+                "text": "Kiểm tra hợp chuẩn an ninh",
+                "isCorrect": false
+            },
+            {
+                "id": 8689,
+                "text": "Quản lý thay đổi và cấu hình",
+                "isCorrect": false
+            },
+            {
+                "id": 8690,
+                "text": "Chấm dứt hợp đồng với đối tác phần mềm",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2157,
+        "text": "Bộ chuẩn được tham chiếu và sử dụng rộng rãi nhất về quản lý hệ thống an toàn thông tin là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8691,
+                "text": "ISO/IEC 9001",
+                "isCorrect": false
+            },
+            {
+                "id": 8692,
+                "text": "ISO/IEC 27000",
+                "isCorrect": true
+            },
+            {
+                "id": 8693,
+                "text": "IEEE 802.11",
+                "isCorrect": false
+            },
+            {
+                "id": 8694,
+                "text": "TCP/IP v4",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2158,
+        "text": "Chuẩn ISO/IEC 27001:2005 chuyên về lĩnh vực gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8695,
+                "text": "Hướng dẫn cấu hình thiết bị định tuyến",
+                "isCorrect": false
+            },
+            {
+                "id": 8696,
+                "text": "Hệ thống quản lý an toàn thông tin (ISMS)",
+                "isCorrect": true
+            },
+            {
+                "id": 8697,
+                "text": "Tiêu chuẩn cáp mạng cáp quang",
+                "isCorrect": false
+            },
+            {
+                "id": 8698,
+                "text": "Phương pháp lập trình web an toàn",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2159,
+        "text": "Chuẩn ISO/IEC 27000 (được ban hành năm 2009) cung cấp nội dung gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8699,
+                "text": "Mã hóa dữ liệu bằng chuẩn AES-256",
+                "isCorrect": false
+            },
+            {
+                "id": 8700,
+                "text": "Giới thiệu khái quát, định nghĩa thuật ngữ và từ vựng cho toàn bộ bộ chuẩn",
+                "isCorrect": true
+            },
+            {
+                "id": 8701,
+                "text": "Danh sách các tin tặc đang bị truy nã",
+                "isCorrect": false
+            },
+            {
+                "id": 8702,
+                "text": "Thông số kỹ thuật cho hệ thống thẻ thông minh",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2160,
+        "text": "Tiền thân của chuẩn ISO/IEC 27002 là chuẩn nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8703,
+                "text": "ISO/IEC 17799",
+                "isCorrect": true
+            },
+            {
+                "id": 8704,
+                "text": "BS 15000",
+                "isCorrect": false
+            },
+            {
+                "id": 8705,
+                "text": "ISO/IEC 20000",
+                "isCorrect": false
+            },
+            {
+                "id": 8706,
+                "text": "ISO 9002",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2161,
+        "text": "Chuẩn nào chuyên về quản lý rủi ro cho hệ thống quản lý an toàn thông tin (hỗ trợ cho ISO/IEC 27001)?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8707,
+                "text": "ISO/IEC 27002",
+                "isCorrect": false
+            },
+            {
+                "id": 8708,
+                "text": "ISO/IEC 27003",
+                "isCorrect": false
+            },
+            {
+                "id": 8709,
+                "text": "ISO/IEC 27004",
+                "isCorrect": false
+            },
+            {
+                "id": 8710,
+                "text": "ISO/IEC 27005",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2162,
+        "text": "Chu trình PDCA áp dụng trong ISO/IEC 27001 là viết tắt của:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8711,
+                "text": "Plan - Design - Create - Act",
+                "isCorrect": false
+            },
+            {
+                "id": 8712,
+                "text": "Plan - Do - Check - Act",
+                "isCorrect": true
+            },
+            {
+                "id": 8713,
+                "text": "Prepare - Do - Control - Analyze",
+                "isCorrect": false
+            },
+            {
+                "id": 8714,
+                "text": "Protect - Detect - Correct - Adapt",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2163,
+        "text": "Trong chu trình PDCA, bước Nhận dạng các rủi ro và Đánh giá rủi ro nằm ở pha nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8715,
+                "text": "Pha Plan",
+                "isCorrect": true
+            },
+            {
+                "id": 8716,
+                "text": "Pha Do",
+                "isCorrect": false
+            },
+            {
+                "id": 8717,
+                "text": "Pha Check",
+                "isCorrect": false
+            },
+            {
+                "id": 8718,
+                "text": "Pha Act",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2164,
+        "text": "Trong chu trình PDCA, bước Thực thi các chương trình đào tạo chuyên môn và giáo dục ý thức nằm ở pha nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8719,
+                "text": "Pha Plan",
+                "isCorrect": false
+            },
+            {
+                "id": 8720,
+                "text": "Pha Do",
+                "isCorrect": true
+            },
+            {
+                "id": 8721,
+                "text": "Pha Check",
+                "isCorrect": false
+            },
+            {
+                "id": 8722,
+                "text": "Pha Act",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2165,
+        "text": "Thực hiện việc kiểm toán (audits) nội bộ hệ thống ISMS thuộc pha nào của chu trình PDCA?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8723,
+                "text": "Pha Plan",
+                "isCorrect": false
+            },
+            {
+                "id": 8724,
+                "text": "Pha Do",
+                "isCorrect": false
+            },
+            {
+                "id": 8725,
+                "text": "Pha Check",
+                "isCorrect": true
+            },
+            {
+                "id": 8726,
+                "text": "Pha Act",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2166,
+        "text": "Áp dụng các bài học đã được học và Thực hiện các hành động sửa chữa, ngăn chặn thuộc pha nào của chu trình PDCA?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8727,
+                "text": "Pha Plan",
+                "isCorrect": false
+            },
+            {
+                "id": 8728,
+                "text": "Pha Do",
+                "isCorrect": false
+            },
+            {
+                "id": 8729,
+                "text": "Pha Check",
+                "isCorrect": false
+            },
+            {
+                "id": 8730,
+                "text": "Pha Act",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2167,
+        "text": "Khác biệt cơ bản giữa Chính sách (Policy) và Luật pháp (Law) trong tổ chức là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8731,
+                "text": "Luật chỉ áp dụng cho người nước ngoài, chính sách áp dụng cho công dân",
+                "isCorrect": false
+            },
+            {
+                "id": 8732,
+                "text": "Luật được thực thi bởi chính quyền, với chính sách thì thiếu hiểu biết có thể là một cách bào chữa chấp nhận được",
+                "isCorrect": true
+            },
+            {
+                "id": 8733,
+                "text": "Chính sách có giá trị cao hơn Hiến pháp",
+                "isCorrect": false
+            },
+            {
+                "id": 8734,
+                "text": "Luật có thể bị thay đổi bởi Giám đốc doanh nghiệp",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2168,
+        "text": "Để một chính sách an toàn thông tin áp dụng hiệu quả, nó KHÔNG cần phải thỏa mãn yêu cầu nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8735,
+                "text": "Được phổ biến rộng rãi",
+                "isCorrect": false
+            },
+            {
+                "id": 8736,
+                "text": "Nhân viên có thể xem và hiểu được đa ngôn ngữ",
+                "isCorrect": false
+            },
+            {
+                "id": 8737,
+                "text": "Phải ưu tiên quyền lợi cho cấp quản lý hơn nhân viên",
+                "isCorrect": true
+            },
+            {
+                "id": 8738,
+                "text": "Có biện pháp để nhân viên cam kết thực hiện",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2169,
+        "text": "Loại luật nào điều chỉnh các quan hệ dân sự giữa các tổ chức và cá nhân trong một quốc gia?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8739,
+                "text": "Luật công cộng",
+                "isCorrect": false
+            },
+            {
+                "id": 8740,
+                "text": "Luật dân sự",
+                "isCorrect": true
+            },
+            {
+                "id": 8741,
+                "text": "Luật hình sự",
+                "isCorrect": false
+            },
+            {
+                "id": 8742,
+                "text": "Luật riêng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2170,
+        "text": "Loại luật nào điều chỉnh các hành vi gây hại cho xã hội và nhà nước chủ động thực thi?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8743,
+                "text": "Luật riêng",
+                "isCorrect": false
+            },
+            {
+                "id": 8744,
+                "text": "Luật dân sự",
+                "isCorrect": false
+            },
+            {
+                "id": 8745,
+                "text": "Luật hình sự",
+                "isCorrect": true
+            },
+            {
+                "id": 8746,
+                "text": "Luật lao động",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2171,
+        "text": "Đạo luật CFA Act (Computer Fraud and Abuse Act) của Mỹ năm 1986 quy định về vấn đề gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8747,
+                "text": "Quyền sở hữu trí tuệ phần mềm",
+                "isCorrect": false
+            },
+            {
+                "id": 8748,
+                "text": "Chống gián điệp kinh tế",
+                "isCorrect": false
+            },
+            {
+                "id": 8749,
+                "text": "Các tội phạm lừa đảo và lạm dụng máy tính",
+                "isCorrect": true
+            },
+            {
+                "id": 8750,
+                "text": "Bản quyền âm nhạc kỹ thuật số",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2172,
+        "text": "Đạo luật HIPAA (1996) của Mỹ nhằm mục đích bảo vệ dữ liệu trong lĩnh vực nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8751,
+                "text": "Dữ liệu ngân hàng",
+                "isCorrect": false
+            },
+            {
+                "id": 8752,
+                "text": "Dữ liệu quân sự",
+                "isCorrect": false
+            },
+            {
+                "id": 8753,
+                "text": "Dữ liệu chứng khoán",
+                "isCorrect": false
+            },
+            {
+                "id": 8754,
+                "text": "Dữ liệu y tế của người bệnh",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2173,
+        "text": "Đạo luật USA PATRIOT Act năm 2001 của Mỹ cho phép cơ quan nhà nước mở rộng quyền theo dõi, giám sát nhằm mục đích chính là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8755,
+                "text": "Thu thập thông tin quảng cáo",
+                "isCorrect": false
+            },
+            {
+                "id": 8756,
+                "text": "Phòng chống khủng bố",
+                "isCorrect": true
+            },
+            {
+                "id": 8757,
+                "text": "Bắt giữ tội phạm vi phạm bản quyền",
+                "isCorrect": false
+            },
+            {
+                "id": 8758,
+                "text": "Theo dõi trốn thuế của công dân",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2174,
+        "text": "Luật xuất khẩu và chống gián điệp của Mỹ (như Economic Espionage Act 1996) nhằm mục đích gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8759,
+                "text": "Độc quyền thương mại phần mềm đồ họa",
+                "isCorrect": false
+            },
+            {
+                "id": 8760,
+                "text": "Phòng chống gián điệp kinh tế và lộ bí mật công nghệ",
+                "isCorrect": true
+            },
+            {
+                "id": 8761,
+                "text": "Ngăn chặn phát hành phim lậu",
+                "isCorrect": false
+            },
+            {
+                "id": 8762,
+                "text": "Tăng thuế nhập khẩu thiết bị phần cứng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2175,
+        "text": "Hiệp ước bảo vệ quyền sở hữu trí tuệ TRIPS do tổ chức nào chủ trì đàm phán?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8763,
+                "text": "Liên hợp quốc (UN)",
+                "isCorrect": false
+            },
+            {
+                "id": 8764,
+                "text": "Tổ chức Thương mại Thế giới (WTO)",
+                "isCorrect": true
+            },
+            {
+                "id": 8765,
+                "text": "Hội đồng Châu Âu",
+                "isCorrect": false
+            },
+            {
+                "id": 8766,
+                "text": "Tổ chức Y tế Thế giới (WHO)",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2176,
+        "text": "Luật An toàn thông tin mạng của Việt Nam được Quốc hội thông qua và có hiệu lực từ năm nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8767,
+                "text": "Thông qua 2006, hiệu lực 2007",
+                "isCorrect": false
+            },
+            {
+                "id": 8768,
+                "text": "Thông qua 2015, hiệu lực 2016",
+                "isCorrect": true
+            },
+            {
+                "id": 8769,
+                "text": "Thông qua 2018, hiệu lực 2019",
+                "isCorrect": false
+            },
+            {
+                "id": 8770,
+                "text": "Thông qua 2010, hiệu lực 2011",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2177,
+        "text": "Luật An toàn thông tin mạng (86/2015/QH13) của Việt Nam bao gồm bao nhiêu chương?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8771,
+                "text": "6 chương",
+                "isCorrect": false
+            },
+            {
+                "id": 8772,
+                "text": "7 chương",
+                "isCorrect": false
+            },
+            {
+                "id": 8773,
+                "text": "8 chương",
+                "isCorrect": true
+            },
+            {
+                "id": 8774,
+                "text": "9 chương",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2178,
+        "text": "Luật An ninh mạng của Việt Nam được thông qua và chính thức có hiệu lực vào thời gian nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8775,
+                "text": "Thông qua 2015, hiệu lực 1/1/2016",
+                "isCorrect": false
+            },
+            {
+                "id": 8776,
+                "text": "Thông qua 2018, hiệu lực 1/1/2019",
+                "isCorrect": true
+            },
+            {
+                "id": 8777,
+                "text": "Thông qua 2020, hiệu lực 1/1/2021",
+                "isCorrect": false
+            },
+            {
+                "id": 8778,
+                "text": "Thông qua 2022, hiệu lực 1/1/2023",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2179,
+        "text": "Nghị định số 90/2008/NĐ-CP của Chính Phủ Việt Nam được ban hành để điều chỉnh vấn đề gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8779,
+                "text": "Chống thư rác",
+                "isCorrect": true
+            },
+            {
+                "id": 8780,
+                "text": "Quy hoạch mạng 3G",
+                "isCorrect": false
+            },
+            {
+                "id": 8781,
+                "text": "Quy định về mã hóa thông tin",
+                "isCorrect": false
+            },
+            {
+                "id": 8782,
+                "text": "Quy định về chữ ký số",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2180,
+        "text": "Ở Việt Nam, tổ chức nào đã công bố Bộ Qui tắc ứng xử an toàn thông tin vào năm 2015?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8783,
+                "text": "Bộ Thông tin và Truyền thông",
+                "isCorrect": false
+            },
+            {
+                "id": 8784,
+                "text": "Bộ Công an",
+                "isCorrect": false
+            },
+            {
+                "id": 8785,
+                "text": "Hiệp hội An toàn thông tin Việt Nam (VNISA)",
+                "isCorrect": true
+            },
+            {
+                "id": 8786,
+                "text": "Tập đoàn VNPT",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2181,
+        "text": "Không được sử dụng máy tính để gây hại cho người khác là điều thứ mấy trong Bộ Quy tắc ứng xử 10 điểm của Viện đạo đức máy tính (Mỹ)?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8787,
+                "text": "Điều 1",
+                "isCorrect": true
+            },
+            {
+                "id": 8788,
+                "text": "Điều 3",
+                "isCorrect": false
+            },
+            {
+                "id": 8789,
+                "text": "Điều 5",
+                "isCorrect": false
+            },
+            {
+                "id": 8790,
+                "text": "Điều 7",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2182,
+        "text": "Điều nào sau đây KHÔNG thuộc Bộ Quy tắc ứng xử 10 điểm của Viện đạo đức máy tính (Mỹ)?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8791,
+                "text": "Không được sử dụng máy tính để trộm cắp",
+                "isCorrect": false
+            },
+            {
+                "id": 8792,
+                "text": "Không chiếm đoạt tài sản trí tuệ của người khác",
+                "isCorrect": false
+            },
+            {
+                "id": 8793,
+                "text": "Được phép sử dụng phần mềm bẻ khóa nếu không vì mục đích thương mại",
+                "isCorrect": true
+            },
+            {
+                "id": 8794,
+                "text": "Không sao chép hoặc sử dụng phần mềm không có bản quyền",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2183,
+        "text": "Sự khác biệt giữa Đạo đức và Luật pháp là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8795,
+                "text": "Đạo đức có hình phạt tù, Luật pháp thì không",
+                "isCorrect": false
+            },
+            {
+                "id": 8796,
+                "text": "Đạo đức được thực thi bởi tòa án, Luật pháp do cá nhân tự thực thi",
+                "isCorrect": false
+            },
+            {
+                "id": 8797,
+                "text": "Đạo đức định nghĩa hành vi được xã hội chấp nhận, Luật được thực thi bởi cơ quan chính quyền",
+                "isCorrect": true
+            },
+            {
+                "id": 8798,
+                "text": "Không có sự khác biệt giữa hai khái niệm này",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2184,
+        "text": "Hành vi sử dụng máy tính, máy in công ty làm việc riêng hoặc tải các tài liệu cá nhân trong giờ làm việc được gọi là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8799,
+                "text": "Xâm phạm an ninh quốc gia",
+                "isCorrect": false
+            },
+            {
+                "id": 8800,
+                "text": "Tấn công từ chối dịch vụ",
+                "isCorrect": false
+            },
+            {
+                "id": 8801,
+                "text": "Lạm dụng tài nguyên của cơ quan, tổ chức",
+                "isCorrect": true
+            },
+            {
+                "id": 8802,
+                "text": "Tội phạm công nghệ cao",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2185,
+        "text": "Theo giáo trình, tỷ lệ vi phạm bản quyền phần mềm ở Việt Nam vào thời điểm được thống kê khoảng bao nhiêu?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8803,
+                "text": "10%",
+                "isCorrect": false
+            },
+            {
+                "id": 8804,
+                "text": "30%",
+                "isCorrect": false
+            },
+            {
+                "id": 8805,
+                "text": "50%",
+                "isCorrect": false
+            },
+            {
+                "id": 8806,
+                "text": "Khoảng 90%",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2186,
+        "text": "Khái niệm Trách nhiệm của tổ chức (Organization Liability) trong quản lý ATTT có nghĩa là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8807,
+                "text": "Tổ chức không bao giờ bị kiện",
+                "isCorrect": false
+            },
+            {
+                "id": 8808,
+                "text": "Tổ chức chịu trách nhiệm trước pháp luật nếu nhân viên gây thiệt hại do tổ chức không có hướng dẫn, quy định đúng đắn",
+                "isCorrect": true
+            },
+            {
+                "id": 8809,
+                "text": "Chỉ Giám đốc công ty phải chịu án tù",
+                "isCorrect": false
+            },
+            {
+                "id": 8810,
+                "text": "Mọi lỗi lầm đều do nhân viên tự gánh chịu",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2187,
+        "text": "Việc lập Kế hoạch đảm bảo an toàn (Security plan) nhằm mục đích gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8811,
+                "text": "Cung cấp chi tiết các hành động cần thiết để cải thiện rủi ro đã được nhận dạng một cách nhanh chóng",
+                "isCorrect": true
+            },
+            {
+                "id": 8812,
+                "text": "Lên danh sách các nhân viên sẽ bị sa thải",
+                "isCorrect": false
+            },
+            {
+                "id": 8813,
+                "text": "Thiết kế lại toàn bộ mạng LAN",
+                "isCorrect": false
+            },
+            {
+                "id": 8814,
+                "text": "Nâng cấp băng thông Internet của công ty",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2188,
+        "text": "Trong kế hoạch đảm bảo an toàn (Security plan), thông tin nào BẮT BUỘC phải có?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8815,
+                "text": "Số lượng máy tính cá nhân của giám đốc",
+                "isCorrect": false
+            },
+            {
+                "id": 8816,
+                "text": "Ngân sách tiếp thị của công ty",
+                "isCorrect": false
+            },
+            {
+                "id": 8817,
+                "text": "Ngày bắt đầu và kết thúc việc thực thi các kiểm soát an ninh",
+                "isCorrect": true
+            },
+            {
+                "id": 8818,
+                "text": "Lịch sử duyệt web của nhân viên",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2189,
+        "text": "Hệ thống kiểm soát nào có bản chất là các cơ chế và thủ tục được thực thi chủ yếu bởi con người thay vì hệ thống máy tính?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8819,
+                "text": "Kiểm soát vận hành",
+                "isCorrect": true
+            },
+            {
+                "id": 8820,
+                "text": "Kiểm soát kỹ thuật",
+                "isCorrect": false
+            },
+            {
+                "id": 8821,
+                "text": "Kiểm soát phần cứng",
+                "isCorrect": false
+            },
+            {
+                "id": 8822,
+                "text": "Kiểm soát mật mã",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2190,
+        "text": "Việc xem xét các thay đổi đối với hệ thống trong quá trình sử dụng thuộc công đoạn nào của quá trình quản lý ATTT?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8823,
+                "text": "Lập kế hoạch dự án",
+                "isCorrect": false
+            },
+            {
+                "id": 8824,
+                "text": "Quản lý thay đổi và cấu hình",
+                "isCorrect": true
+            },
+            {
+                "id": 8825,
+                "text": "Quản lý nhân sự",
+                "isCorrect": false
+            },
+            {
+                "id": 8826,
+                "text": "Kiểm toán tài chính",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2191,
+        "text": "Hiệp ước về chống tội phạm mạng (Convention on Cybercrime) được phê chuẩn năm 2001 do tổ chức nào khởi xướng?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8827,
+                "text": "Liên hợp quốc",
+                "isCorrect": false
+            },
+            {
+                "id": 8828,
+                "text": "Hội đồng Châu Âu",
+                "isCorrect": true
+            },
+            {
+                "id": 8829,
+                "text": "Tổ chức Interpol",
+                "isCorrect": false
+            },
+            {
+                "id": 8830,
+                "text": "Tổ chức Cảnh sát ASEAN",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2192,
+        "text": "Khi đánh giá rủi ro an toàn thông tin, rủi ro (Risk) thường được xác định bởi sự kết hợp của các yếu tố nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8831,
+                "text": "Giá trị cổ phiếu, danh tiếng và doanh thu",
+                "isCorrect": false
+            },
+            {
+                "id": 8832,
+                "text": "Tài sản (Asset), Mối đe dọa (Threat) và Lỗ hổng (Vulnerability)",
+                "isCorrect": true
+            },
+            {
+                "id": 8833,
+                "text": "Số lượng máy tính, tốc độ mạng và băng thông",
+                "isCorrect": false
+            },
+            {
+                "id": 8834,
+                "text": "Mật khẩu, chữ ký số và xác thực sinh trắc học",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2193,
+        "text": "Việc áp dụng các Thực tế tốt nhất của ngành (Industry best practices) thường nằm trong phương pháp đánh giá rủi ro nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8835,
+                "text": "Phương pháp đường cơ sở",
+                "isCorrect": true
+            },
+            {
+                "id": 8836,
+                "text": "Phương pháp phi cấu trúc",
+                "isCorrect": false
+            },
+            {
+                "id": 8837,
+                "text": "Phương pháp tấn công trực diện",
+                "isCorrect": false
+            },
+            {
+                "id": 8838,
+                "text": "Phương pháp phân tích mã nguồn",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2194,
+        "text": "Khi chọn phương pháp phân tích chi tiết rủi ro, yếu tố nào là cản trở lớn nhất đối với các tổ chức thông thường?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8839,
+                "text": "Không có đủ phần mềm diệt virus",
+                "isCorrect": false
+            },
+            {
+                "id": 8840,
+                "text": "Chi phí lớn về thời gian, nguồn lực và yêu cầu kiến thức chuyên gia trình độ cao",
+                "isCorrect": true
+            },
+            {
+                "id": 8841,
+                "text": "Không có sự hỗ trợ của cảnh sát mạng",
+                "isCorrect": false
+            },
+            {
+                "id": 8842,
+                "text": "Phương pháp này chỉ dành cho hệ điều hành Linux",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2195,
+        "text": "Giai đoạn Phân tích các ảnh hưởng trong quá trình Phân tích rủi ro chi tiết tập trung vào điều gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8843,
+                "text": "Lượng điện năng tiêu thụ của máy chủ",
+                "isCorrect": false
+            },
+            {
+                "id": 8844,
+                "text": "Số lượng email nhân viên gửi đi",
+                "isCorrect": false
+            },
+            {
+                "id": 8845,
+                "text": "Ảnh hưởng liên quan sự vi phạm tính bí mật, toàn vẹn và sẵn dùng của các tài sản hệ thống",
+                "isCorrect": true
+            },
+            {
+                "id": 8846,
+                "text": "Khả năng truy cập mạng xã hội của nhân viên",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2196,
+        "text": "DMCA là viết tắt của đạo luật quốc tế nào có liên quan đến an toàn thông tin?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8847,
+                "text": "Data Management and Computer Access",
+                "isCorrect": false
+            },
+            {
+                "id": 8848,
+                "text": "Digital Millennium Copyright Act",
+                "isCorrect": true
+            },
+            {
+                "id": 8849,
+                "text": "Direct Memory Control Architecture",
+                "isCorrect": false
+            },
+            {
+                "id": 8850,
+                "text": "Defense of Machine and Cyber Attacks",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2197,
+        "text": "Nội dung Cấm tự ý cài đặt và chạy các phần mềm tải từ các nguồn không tin cậy thuộc về lớp bảo vệ nào trong mô hình phòng vệ theo chiều sâu?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8851,
+                "text": "Lớp bảo vệ vật lý",
+                "isCorrect": false
+            },
+            {
+                "id": 8852,
+                "text": "Lớp chính sách và thủ tục đảm bảo an toàn",
+                "isCorrect": true
+            },
+            {
+                "id": 8853,
+                "text": "Lớp mã hóa đường truyền",
+                "isCorrect": false
+            },
+            {
+                "id": 8854,
+                "text": "Lớp xác thực sinh trắc học",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2198,
+        "text": "Một chính sách ATTT đòi hỏi phải có khả năng Xem xét (Review) nghĩa là:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8855,
+                "text": "Nhân viên có thể đọc, hiểu được và có hỗ trợ đa ngôn ngữ nếu cần thiết",
+                "isCorrect": true
+            },
+            {
+                "id": 8856,
+                "text": "Chỉ có ban giám đốc mới được xem xét",
+                "isCorrect": false
+            },
+            {
+                "id": 8857,
+                "text": "Đăng trên báo điện tử mỗi ngày",
+                "isCorrect": false
+            },
+            {
+                "id": 8858,
+                "text": "Cấm nhân viên bình luận về chính sách",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2199,
+        "text": "Chuẩn ISO/IEC 27000 series có được công nhận và chuyển đổi thành bộ Tiêu chuẩn Quốc gia (TCVN) của Việt Nam không?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8859,
+                "text": "Không, chỉ áp dụng tại Châu Âu",
+                "isCorrect": false
+            },
+            {
+                "id": 8860,
+                "text": "Có, một số chuẩn đã được dịch và chấp thuận thành chuẩn quản lý ATTT quốc gia",
+                "isCorrect": true
+            },
+            {
+                "id": 8861,
+                "text": "Có, nhưng chỉ áp dụng cho quân đội",
+                "isCorrect": false
+            },
+            {
+                "id": 8862,
+                "text": "Không, do khác biệt về ngôn ngữ lập trình",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2200,
+        "text": "Bước Chuẩn bị tuyên bố/báo cáo áp dụng (Statement of Applicability) nằm ở pha nào trong chu trình PDCA của ISO 27001?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8863,
+                "text": "Pha Plan",
+                "isCorrect": true
+            },
+            {
+                "id": 8864,
+                "text": "Pha Do",
+                "isCorrect": false
+            },
+            {
+                "id": 8865,
+                "text": "Pha Check",
+                "isCorrect": false
+            },
+            {
+                "id": 8866,
+                "text": "Pha Act",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2201,
+        "text": "Một nhân viên bị đuổi việc do sử dụng máy tính công ty để kinh doanh cá nhân. Nhân viên này đã vi phạm:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8867,
+                "text": "Thuật toán mã hóa RSA",
+                "isCorrect": false
+            },
+            {
+                "id": 8868,
+                "text": "Đạo luật chống gián điệp kinh tế",
+                "isCorrect": false
+            },
+            {
+                "id": 8869,
+                "text": "Chính sách an toàn thông tin/Quy tắc ứng xử của tổ chức",
+                "isCorrect": true
+            },
+            {
+                "id": 8870,
+                "text": "Lỗi tràn bộ đệm hệ thống",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2202,
+        "text": "Nên sử dụng máy tính một cách có trách nhiệm, đảm bảo sự quan tâm và tôn trọng đến đồng bào của mình là điều thứ mấy trong 10 điều răn của Viện đạo đức máy tính?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8871,
+                "text": "Điều 2",
+                "isCorrect": false
+            },
+            {
+                "id": 8872,
+                "text": "Điều 4",
+                "isCorrect": false
+            },
+            {
+                "id": 8873,
+                "text": "Điều 8",
+                "isCorrect": false
+            },
+            {
+                "id": 8874,
+                "text": "Điều 10",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2203,
+        "text": "Phương pháp nào để nhân viên cam kết thực hiện chính sách ATTT là hiệu quả nhất theo tiêu chuẩn quản lý?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8875,
+                "text": "Ký văn bản cam kết hoặc tick vào ô xác nhận tuân thủ",
+                "isCorrect": true
+            },
+            {
+                "id": 8876,
+                "text": "Dọa đuổi việc hàng ngày",
+                "isCorrect": false
+            },
+            {
+                "id": 8877,
+                "text": "Treo thưởng lớn cho người thuộc lòng chính sách",
+                "isCorrect": false
+            },
+            {
+                "id": 8878,
+                "text": "Chỉ cần thông báo bằng loa phát thanh công ty",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2204,
+        "text": "Đâu là ví dụ điển hình của Kiểm soát ngăn ngừa (Preventive controls)?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8879,
+                "text": "Khôi phục dữ liệu từ băng từ sau khi ổ cứng hỏng",
+                "isCorrect": false
+            },
+            {
+                "id": 8880,
+                "text": "Hệ thống báo động khói và camera",
+                "isCorrect": false
+            },
+            {
+                "id": 8881,
+                "text": "Tường lửa (Firewall) và quyền truy cập để khắc chế các nỗ lực vi phạm ngay từ đầu",
+                "isCorrect": true
+            },
+            {
+                "id": 8882,
+                "text": "Nhật ký (Log) ghi lại hành động của nhân viên trong tuần trước",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2205,
+        "text": "Đâu KHÔNG phải là một bước trong phương pháp kết hợp đánh giá rủi ro an toàn thông tin?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 8883,
+                "text": "Thực hiện phương pháp đường cơ sở với tất cả thành phần hệ thống",
+                "isCorrect": false
+            },
+            {
+                "id": 8884,
+                "text": "Đánh giá không chính thức cho các thành phần có rủi ro cao",
+                "isCorrect": false
+            },
+            {
+                "id": 8885,
+                "text": "Tắt toàn bộ máy chủ để quét virus mức vật lý",
+                "isCorrect": true
+            },
+            {
+                "id": 8886,
+                "text": "Xem xét đánh giá rủi ro toàn diện ở mức chi tiết cho các thành phần trọng yếu",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    }
+],
+[
+    {
+        "id": 2402,
+        "text": "Tài sản an toàn thông tin trong một tổ chức theo định nghĩa của quản lý ATTT bao gồm những thành phần cốt lõi nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9671,
+                "text": "Phần cứng, phần mềm, người dùng",
+                "isCorrect": false
+            },
+            {
+                "id": 9672,
+                "text": "Phần cứng, phần mềm, thông tin",
+                "isCorrect": true
+            },
+            {
+                "id": 9673,
+                "text": "Máy chủ, hệ điều hành, đường truyền",
+                "isCorrect": false
+            },
+            {
+                "id": 9674,
+                "text": "Cơ sở dữ liệu, thiết bị mạng, quy trình",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2403,
+        "text": "Trong quản lý an toàn thông tin, một quy trình chuẩn bắt buộc phải trả lời được 3 câu hỏi chính. Đâu KHÔNG phải là một trong 3 câu hỏi đó?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9675,
+                "text": "Những mối đe dọa nào có thể có đối với các tài sản?",
+                "isCorrect": false
+            },
+            {
+                "id": 9676,
+                "text": "Những biện pháp có thể thực hiện để ứng phó với các mối đe dọa?",
+                "isCorrect": false
+            },
+            {
+                "id": 9677,
+                "text": "Những tài sản nào cần được bảo vệ?",
+                "isCorrect": false
+            },
+            {
+                "id": 9678,
+                "text": "Ai là người chịu trách nhiệm trực tiếp bảo vệ tài sản?",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2404,
+        "text": "Phương pháp đánh giá rủi ro an toàn thông tin nào được thực hiện dựa trên các quy tắc thực hành và các thực tế tốt nhất của ngành đã được áp dụng?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9679,
+                "text": "Phương pháp phân tích chi tiết",
+                "isCorrect": false
+            },
+            {
+                "id": 9680,
+                "text": "Phương pháp không chính thức",
+                "isCorrect": false
+            },
+            {
+                "id": 9681,
+                "text": "Phương pháp đường cơ sở",
+                "isCorrect": true
+            },
+            {
+                "id": 9682,
+                "text": "Phương pháp kết hợp",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2405,
+        "text": "Điểm hạn chế lớn nhất của phương pháp đánh giá rủi ro theo đường cơ sở (Baseline approach) là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9683,
+                "text": "Phụ thuộc nhiều vào quan điểm cá nhân của các chuyên gia",
+                "isCorrect": false
+            },
+            {
+                "id": 9684,
+                "text": "Đòi hỏi chi phí cao cho các tài nguyên bổ sung",
+                "isCorrect": false
+            },
+            {
+                "id": 9685,
+                "text": "Thời gian thực hiện kéo dài và quy trình vô cùng phức tạp",
+                "isCorrect": false
+            },
+            {
+                "id": 9686,
+                "text": "Không xem xét kỹ đến điều kiện nảy sinh rủi ro riêng của tổ chức",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2406,
+        "text": "Phương pháp đánh giá rủi ro không chính thức (Informal approach) thường được khuyến nghị áp dụng hiệu quả nhất đối với đối tượng nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9687,
+                "text": "Các tổ chức quy mô nhỏ, có nguồn lực rất hạn chế",
+                "isCorrect": false
+            },
+            {
+                "id": 9688,
+                "text": "Các tổ chức quy mô lớn với hệ thống phân tán",
+                "isCorrect": false
+            },
+            {
+                "id": 9689,
+                "text": "Tất cả các tổ chức bất kể quy mô và ngành nghề",
+                "isCorrect": false
+            },
+            {
+                "id": 9690,
+                "text": "Các tổ chức quy mô nhỏ và vừa, có nguồn lực tương đối hạn chế",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2407,
+        "text": "Nhược điểm chính của phương pháp phân tích chi tiết rủi ro (Detailed risk analysis) là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9691,
+                "text": "Mức độ bảo vệ được xác định chung chung và không phù hợp",
+                "isCorrect": false
+            },
+            {
+                "id": 9692,
+                "text": "Kết quả dễ phụ thuộc vào quan điểm cá nhân của người đánh giá",
+                "isCorrect": false
+            },
+            {
+                "id": 9693,
+                "text": "Yêu cầu chi phí lớn và thời gian thực hiện kéo dài",
+                "isCorrect": true
+            },
+            {
+                "id": 9694,
+                "text": "Không lý giải rõ ràng các chi phí cho biện pháp kiểm soát đề xuất",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2408,
+        "text": "Phương pháp đánh giá rủi ro kết hợp (Combined approach) bao gồm các bước thực hiện theo trình tự nào dưới đây?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9695,
+                "text": "Đường cơ sở cho toàn hệ thống, không chính thức cho thành phần rủi ro cao, phân tích chi tiết toàn diện",
+                "isCorrect": true
+            },
+            {
+                "id": 9696,
+                "text": "Đánh giá chi tiết, sau đó đánh giá không chính thức, cuối cùng áp dụng đường cơ sở",
+                "isCorrect": false
+            },
+            {
+                "id": 9697,
+                "text": "Không chính thức trước, sau đó áp dụng đường cơ sở cho các thành phần trọng yếu",
+                "isCorrect": false
+            },
+            {
+                "id": 9698,
+                "text": "Đường cơ sở cho toàn hệ thống, sau đó phân tích chi tiết các thành phần rủi ro thấp",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2409,
+        "text": "Tại sao phương pháp đánh giá rủi ro kết hợp lại dễ nhận được sự ủng hộ của cấp quản lý tổ chức?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9699,
+                "text": "Vì nó cung cấp các bằng chứng toán học chính xác tuyệt đối",
+                "isCorrect": false
+            },
+            {
+                "id": 9700,
+                "text": "Vì nó miễn trừ trách nhiệm cho bộ phận quản lý rủi ro",
+                "isCorrect": false
+            },
+            {
+                "id": 9701,
+                "text": "Vì nó bắt đầu bằng việc đánh giá rủi ro ở mức cao và nhanh chóng",
+                "isCorrect": true
+            },
+            {
+                "id": 9702,
+                "text": "Vì nó hoàn toàn loại bỏ chi phí kiểm toán độc lập",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2410,
+        "text": "Quá trình phân tích chi tiết rủi ro an toàn thông tin chính thức được chia thành bao nhiêu bước?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9703,
+                "text": "7 bước",
+                "isCorrect": false
+            },
+            {
+                "id": 9704,
+                "text": "8 bước",
+                "isCorrect": false
+            },
+            {
+                "id": 9705,
+                "text": "9 bước",
+                "isCorrect": true
+            },
+            {
+                "id": 9706,
+                "text": "10 bước",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2411,
+        "text": "Trong tiến trình phân tích chi tiết rủi ro, 'Lịch sử tấn công vào hệ thống' được sử dụng làm đầu vào cho bước nào sau đây?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9707,
+                "text": "Bước 1: Mô tả đặc điểm hệ thống",
+                "isCorrect": false
+            },
+            {
+                "id": 9708,
+                "text": "Bước 3: Nhận dạng các lỗ hổng bảo mật",
+                "isCorrect": false
+            },
+            {
+                "id": 9709,
+                "text": "Bước 5: Xác định xác suất rủi ro",
+                "isCorrect": false
+            },
+            {
+                "id": 9710,
+                "text": "Bước 2: Nhận dạng các mối đe dọa",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2412,
+        "text": "Nội dung nào dưới đây là ĐẦU RA của bước 'Mô tả đặc điểm hệ thống' (Bước 1) trong phân tích chi tiết rủi ro?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9711,
+                "text": "Danh sách các lỗ hổng bảo mật tiềm tàng",
+                "isCorrect": false
+            },
+            {
+                "id": 9712,
+                "text": "Báo cáo về các mối đe dọa đối với hệ thống",
+                "isCorrect": false
+            },
+            {
+                "id": 9713,
+                "text": "Đánh giá mức độ ảnh hưởng của các sự cố mạng",
+                "isCorrect": false
+            },
+            {
+                "id": 9714,
+                "text": "Ranh giới, chức năng, tính trọng yếu và tính nhạy cảm",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2413,
+        "text": "Trong phân tích chi tiết rủi ro, hai yếu tố 'Động cơ của các nguồn đe dọa' và 'Bản chất của lỗ hổng bảo mật' là đầu vào bắt buộc của bước nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9715,
+                "text": "Bước 7: Xác định các rủi ro",
+                "isCorrect": false
+            },
+            {
+                "id": 9716,
+                "text": "Bước 5: Xác định xác suất rủi ro",
+                "isCorrect": true
+            },
+            {
+                "id": 9717,
+                "text": "Bước 6: Phân tích các ảnh hưởng",
+                "isCorrect": false
+            },
+            {
+                "id": 9718,
+                "text": "Bước 4: Phân tích các kiểm soát",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2414,
+        "text": "Việc đảm bảo các kiểm soát phải được xem xét, cập nhật và nâng cấp khi có yêu cầu mới xuất hiện thuộc phần việc nào của quá trình thực thi tiếp tục (Implementation follow-up)?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9719,
+                "text": "Xử lý các sự cố an ninh",
+                "isCorrect": false
+            },
+            {
+                "id": 9720,
+                "text": "Quản lý thay đổi và cấu hình hệ thống",
+                "isCorrect": false
+            },
+            {
+                "id": 9721,
+                "text": "Kiểm tra hợp chuẩn an ninh mạng",
+                "isCorrect": false
+            },
+            {
+                "id": 9722,
+                "text": "Bảo trì các kiểm soát an ninh",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2415,
+        "text": "Trong các loại kiểm soát của quản lý an toàn thông tin, 'Kiểm soát ngăn ngừa' (Preventive controls) tập trung vào mục tiêu gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9723,
+                "text": "Cung cấp các biện pháp phục hồi tài nguyên máy tính bị ảnh hưởng",
+                "isCorrect": false
+            },
+            {
+                "id": 9724,
+                "text": "Đưa ra cảnh báo vi phạm, hoặc các nỗ lực tấn công mạng",
+                "isCorrect": false
+            },
+            {
+                "id": 9725,
+                "text": "Khắc chế các nỗ lực vi phạm chính sách an ninh hoặc khai thác lỗ hổng",
+                "isCorrect": true
+            },
+            {
+                "id": 9726,
+                "text": "Đảm bảo tính nhất quán trong vận hành an toàn thông tin",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2416,
+        "text": "Việc tiến hành lưu vết các phiên bản phần cứng, phần mềm mỗi khi nâng cấp hệ thống thuộc về khái niệm nào trong thực thi quản lý ATTT?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9727,
+                "text": "Bảo trì các kiểm soát an ninh",
+                "isCorrect": false
+            },
+            {
+                "id": 9728,
+                "text": "Quản lý thay đổi và cấu hình",
+                "isCorrect": true
+            },
+            {
+                "id": 9729,
+                "text": "Kiểm tra hợp chuẩn an ninh",
+                "isCorrect": false
+            },
+            {
+                "id": 9730,
+                "text": "Xử lý các sự cố",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2417,
+        "text": "Theo chuẩn hướng dẫn quản lý rủi ro của NIST, bản Kế hoạch đảm bảo an toàn (Security plan) KHÔNG nhất thiết phải chứa thông tin nào sau đây?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9731,
+                "text": "Các rủi ro gồm sự kết hợp của tài sản, đe dọa, lỗ hổng",
+                "isCorrect": false
+            },
+            {
+                "id": 9732,
+                "text": "Ngày bắt đầu và kết thúc việc thực thi các kiểm soát",
+                "isCorrect": false
+            },
+            {
+                "id": 9733,
+                "text": "Lịch sử chi tiết các cuộc tấn công đã từng xảy ra với tổ chức",
+                "isCorrect": true
+            },
+            {
+                "id": 9734,
+                "text": "Nhân sự chịu trách nhiệm thực thi các hoạt động bảo vệ",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2418,
+        "text": "Bộ chuẩn nào được xem là tiền thân trực tiếp của chuẩn ISO/IEC 27000 series hiện nay?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9735,
+                "text": "NIST SP 800",
+                "isCorrect": false
+            },
+            {
+                "id": 9736,
+                "text": "ISO 9001",
+                "isCorrect": false
+            },
+            {
+                "id": 9737,
+                "text": "ISO/IEC 17799",
+                "isCorrect": true
+            },
+            {
+                "id": 9738,
+                "text": "BS 7799:2",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2419,
+        "text": "Vào năm 2007, bộ chuẩn ISO/IEC 17799:2005 đã được đổi tên thành chuẩn nào để song hành cùng hệ thống quản lý mới?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9739,
+                "text": "ISO/IEC 27005",
+                "isCorrect": false
+            },
+            {
+                "id": 9740,
+                "text": "ISO/IEC 27001",
+                "isCorrect": false
+            },
+            {
+                "id": 9741,
+                "text": "ISO/IEC 27006",
+                "isCorrect": false
+            },
+            {
+                "id": 9742,
+                "text": "ISO/IEC 27002",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2420,
+        "text": "Chuẩn ISO/IEC 27001:2005 chuyên về hệ thống quản lý an toàn thông tin (ISMS) có đặc điểm nội dung nào nổi bật nhất?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9743,
+                "text": "Cung cấp 127 điều về các thực tế quản lý hiệu quả",
+                "isCorrect": false
+            },
+            {
+                "id": 9744,
+                "text": "Khuyến nghị các phương pháp kiểm soát rủi ro chi tiết",
+                "isCorrect": false
+            },
+            {
+                "id": 9745,
+                "text": "Định nghĩa thuật ngữ và từ vựng cho toàn bộ bộ chuẩn",
+                "isCorrect": false
+            },
+            {
+                "id": 9746,
+                "text": "Chỉ tập trung vào các phần việc phải thực hiện mà không chỉ dẫn cách làm",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2421,
+        "text": "Chuẩn ISO/IEC 27002 khác biệt cơ bản với chuẩn ISO/IEC 27001 ở điểm nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9747,
+                "text": "Cung cấp chu trình quản lý Plan-Do-Check-Act",
+                "isCorrect": false
+            },
+            {
+                "id": 9748,
+                "text": "Cung cấp chi tiết 127 điều khuyến nghị về quản lý an toàn thông tin",
+                "isCorrect": true
+            },
+            {
+                "id": 9749,
+                "text": "Tập trung riêng vào vấn đề định lượng rủi ro ISMS",
+                "isCorrect": false
+            },
+            {
+                "id": 9750,
+                "text": "Chỉ ra chính xác các phương pháp kiểm soát kỹ thuật phần cứng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2422,
+        "text": "Trong chu trình PDCA của ISO 27001:2005, khâu 'Chuẩn bị tuyên bố/báo cáo áp dụng' nằm ở pha nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9751,
+                "text": "Pha Plan",
+                "isCorrect": true
+            },
+            {
+                "id": 9752,
+                "text": "Pha Do",
+                "isCorrect": false
+            },
+            {
+                "id": 9753,
+                "text": "Pha Check",
+                "isCorrect": false
+            },
+            {
+                "id": 9754,
+                "text": "Pha Act",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2423,
+        "text": "Trong chu trình PDCA của ISO 27001:2005, việc 'Thực thi các thủ tục phát hiện và phản ứng lại sự cố an ninh' được phân bổ vào pha nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9755,
+                "text": "Pha Check",
+                "isCorrect": false
+            },
+            {
+                "id": 9756,
+                "text": "Pha Do",
+                "isCorrect": true
+            },
+            {
+                "id": 9757,
+                "text": "Pha Act",
+                "isCorrect": false
+            },
+            {
+                "id": 9758,
+                "text": "Pha Plan",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2424,
+        "text": "Trong chu trình PDCA của ISO 27001:2005, nhiệm vụ 'Ghi lại các hành động và sự kiện ảnh hưởng đến ISMS' thuộc pha:",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9759,
+                "text": "Pha Act",
+                "isCorrect": false
+            },
+            {
+                "id": 9760,
+                "text": "Pha Do",
+                "isCorrect": false
+            },
+            {
+                "id": 9761,
+                "text": "Pha Check",
+                "isCorrect": true
+            },
+            {
+                "id": 9762,
+                "text": "Pha Plan",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2425,
+        "text": "Điểm khác biệt bản chất nhất giữa Chính sách nội bộ (Policy) và Luật pháp (Law) là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9763,
+                "text": "Luật do chính quyền ban hành, Chính sách do tổ chức ban hành nhưng cả hai đều không cho phép bào chữa do thiếu hiểu biết.",
+                "isCorrect": false
+            },
+            {
+                "id": 9764,
+                "text": "Vi phạm chính sách có thể bị ngồi tù, vi phạm luật thì bị phạt tiền.",
+                "isCorrect": false
+            },
+            {
+                "id": 9765,
+                "text": "Chính sách định nghĩa hành vi xã hội, Luật cấm các hành vi mạng cụ thể.",
+                "isCorrect": false
+            },
+            {
+                "id": 9766,
+                "text": "Luật luôn bắt buộc, còn với Chính sách, thiếu hiểu biết có thể là cách bào chữa chấp nhận được.",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2426,
+        "text": "Khi xây dựng một chính sách an toàn thông tin, yêu cầu 'Tuân thủ (Obligation)' hướng tới mục đích gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9767,
+                "text": "Đảm bảo chính sách được áp dụng công bằng với mọi nhân viên, kể cả người quản lý.",
+                "isCorrect": false
+            },
+            {
+                "id": 9768,
+                "text": "Đảm bảo nhân viên có biện pháp để cam kết thực hiện như ký văn bản xác nhận.",
+                "isCorrect": true
+            },
+            {
+                "id": 9769,
+                "text": "Đảm bảo chính sách có thể phổ biến rộng rãi bằng tài liệu giấy hoặc trên intranet.",
+                "isCorrect": false
+            },
+            {
+                "id": 9770,
+                "text": "Đảm bảo nhân viên có thể xem và hiểu được chính sách trên nhiều loại ngôn ngữ khác nhau.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2427,
+        "text": "Loại luật nào chịu trách nhiệm quy định cấu trúc của các đơn vị hành chính và quan hệ giữa các tổ chức với chính phủ?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9771,
+                "text": "Luật dân sự (Civil Law)",
+                "isCorrect": false
+            },
+            {
+                "id": 9772,
+                "text": "Luật hình sự (Criminal Law)",
+                "isCorrect": false
+            },
+            {
+                "id": 9773,
+                "text": "Luật tư nhân (Private Law)",
+                "isCorrect": false
+            },
+            {
+                "id": 9774,
+                "text": "Luật công cộng (Public Law)",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2428,
+        "text": "Đạo luật nào của nước Mỹ ban hành năm 1996 tập trung vào việc bảo vệ tính bí mật và an toàn của các dữ liệu y tế người bệnh?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9775,
+                "text": "FOIA",
+                "isCorrect": false
+            },
+            {
+                "id": 9776,
+                "text": "ECPA",
+                "isCorrect": false
+            },
+            {
+                "id": 9777,
+                "text": "HIPAA",
+                "isCorrect": true
+            },
+            {
+                "id": 9778,
+                "text": "USA PATRIOT Act",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2429,
+        "text": "Tại Việt Nam, Nghị định số 90/2008/NĐ-CP của Chính phủ điều chỉnh trực tiếp về vấn đề gì trong lĩnh vực CNTT?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9779,
+                "text": "Dịch vụ chứng thực chữ ký số",
+                "isCorrect": false
+            },
+            {
+                "id": 9780,
+                "text": "Tăng cường an toàn thông tin số",
+                "isCorrect": false
+            },
+            {
+                "id": 9781,
+                "text": "Cung cấp, sử dụng dịch vụ internet",
+                "isCorrect": false
+            },
+            {
+                "id": 9782,
+                "text": "Chống thư rác",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2430,
+        "text": "Trách nhiệm pháp lý của một tổ chức (Organization Liability) sẽ bị xem xét phạt nặng nếu tổ chức đó KHÔNG thực hiện tốt điều gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9783,
+                "text": "Lựa chọn sử dụng phương pháp đánh giá rủi ro đường cơ sở cho mọi dự án.",
+                "isCorrect": false
+            },
+            {
+                "id": 9784,
+                "text": "Đảm bảo mức quan tâm cần thiết (Due Care) để bảo vệ môi trường làm việc hợp lệ.",
+                "isCorrect": true
+            },
+            {
+                "id": 9785,
+                "text": "Soạn thảo chính sách một cách phức tạp bằng ngôn ngữ kỹ thuật chuyên ngành.",
+                "isCorrect": false
+            },
+            {
+                "id": 9786,
+                "text": "Sở hữu các chứng chỉ bảo mật quốc tế ISO 27001 cho toàn bộ phòng ban.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2431,
+        "text": "Bộ quy tắc ứng xử nổi tiếng về sử dụng máy tính do Viện đạo đức máy tính (Mỹ) ban hành bao gồm bao nhiêu điều khoản?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9787,
+                "text": "8 điều",
+                "isCorrect": false
+            },
+            {
+                "id": 9788,
+                "text": "10 điều",
+                "isCorrect": true
+            },
+            {
+                "id": 9789,
+                "text": "12 điều",
+                "isCorrect": false
+            },
+            {
+                "id": 9790,
+                "text": "15 điều",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2432,
+        "text": "Sự khác biệt rõ nét nhất trong cách thức duy trì giữa Đạo đức và Luật pháp là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9791,
+                "text": "Đạo đức bắt buộc mọi người tuân theo, luật chỉ áp dụng cho cá nhân.",
+                "isCorrect": false
+            },
+            {
+                "id": 9792,
+                "text": "Đạo đức được xây dựng từ các luật lệ hiện hành trong hiến pháp.",
+                "isCorrect": false
+            },
+            {
+                "id": 9793,
+                "text": "Luật luôn thay đổi theo từng quốc gia, còn đạo đức thì giống nhau trên toàn thế giới.",
+                "isCorrect": false
+            },
+            {
+                "id": 9794,
+                "text": "Luật được thực thi bởi cơ quan chính quyền, còn đạo đức thì không do chính quyền thực thi.",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2433,
+        "text": "Trong phân loại kiểm soát an toàn thông tin, 'Kiểm soát kỹ thuật' (Technical controls) bao gồm những cơ chế nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9795,
+                "text": "Các cơ chế và thủ tục được thực thi chủ yếu bởi con người, hơn là sự can thiệp của hệ thống.",
+                "isCorrect": false
+            },
+            {
+                "id": 9796,
+                "text": "Lập kế hoạch, đề ra các chính sách, chuẩn an toàn thông tin ở cấp độ quản trị tổ chức.",
+                "isCorrect": false
+            },
+            {
+                "id": 9797,
+                "text": "Khắc chế các nỗ lực vi phạm chính sách an ninh bằng cách thay đổi triệt để cấu trúc nhân sự.",
+                "isCorrect": false
+            },
+            {
+                "id": 9798,
+                "text": "Sử dụng biện pháp an ninh bằng phần cứng và phần mềm như xác thực, thực thi kiểm soát truy nhập.",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2434,
+        "text": "Trong quy trình 9 bước phân tích chi tiết rủi ro, 'Danh sách các lỗ hổng bảo mật tiềm tàng' là ĐẦU RA của bước nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9799,
+                "text": "Bước 1: Mô tả đặc điểm hệ thống",
+                "isCorrect": false
+            },
+            {
+                "id": 9800,
+                "text": "Bước 2: Nhận dạng các mối đe dọa",
+                "isCorrect": false
+            },
+            {
+                "id": 9801,
+                "text": "Bước 3: Nhận dạng các lỗ hổng bảo mật",
+                "isCorrect": true
+            },
+            {
+                "id": 9802,
+                "text": "Bước 4: Phân tích các kiểm soát",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2435,
+        "text": "Trong chu trình PDCA của chuẩn ISO/IEC 27001:2005, công việc 'Thực hiện việc kiểm toán (audits) nội bộ với ISMS' được triển khai ở pha nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9803,
+                "text": "Pha Plan",
+                "isCorrect": false
+            },
+            {
+                "id": 9804,
+                "text": "Pha Do",
+                "isCorrect": false
+            },
+            {
+                "id": 9805,
+                "text": "Pha Check",
+                "isCorrect": true
+            },
+            {
+                "id": 9806,
+                "text": "Pha Act",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2436,
+        "text": "Để một chính sách an toàn thông tin trong doanh nghiệp thực sự hiệu quả, yêu cầu 'Đồng đều, bình đẳng (Uniform enforcement)' có ý nghĩa cốt lõi là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9807,
+                "text": "Nhân viên phải có quyền tự do lựa chọn ngôn ngữ mẹ đẻ để đọc tài liệu.",
+                "isCorrect": false
+            },
+            {
+                "id": 9808,
+                "text": "Chính sách được xuất bản linh hoạt trên các nền tảng thiết bị di động khác nhau.",
+                "isCorrect": false
+            },
+            {
+                "id": 9809,
+                "text": "Áp dụng một cách nhất quán, không ưu tiên miễn trừ với bất kỳ nhân viên nào, kể cả người quản lý.",
+                "isCorrect": true
+            },
+            {
+                "id": 9810,
+                "text": "Yêu cầu tuyệt đối mọi người phải ký cam kết trên giấy viết tay tại phòng nhân sự.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2437,
+        "text": "Vào năm 2013, Chính phủ Việt Nam đã ban hành nghị định nào quy định về việc quản lý, cung cấp, sử dụng dịch vụ internet và chia sẻ thông tin trên mạng xã hội?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9811,
+                "text": "Nghị định số 90/2008/NĐ-CP",
+                "isCorrect": false
+            },
+            {
+                "id": 9812,
+                "text": "Nghị định số 77/2012/NĐ-CP",
+                "isCorrect": false
+            },
+            {
+                "id": 9813,
+                "text": "Thông tư số 23/2011/TT-BTTTT",
+                "isCorrect": false
+            },
+            {
+                "id": 9814,
+                "text": "Nghị định 72/2013/NĐ-CP",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2438,
+        "text": "Theo định nghĩa về đánh giá an toàn, khái niệm nào là sự kết hợp giữa 'tài sản', 'mối đe dọa' và 'lỗ hổng' có thể gây hại cho hệ thống?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9815,
+                "text": "Sự cố mạng (Incident)",
+                "isCorrect": false
+            },
+            {
+                "id": 9816,
+                "text": "Nguy cơ (Threat)",
+                "isCorrect": false
+            },
+            {
+                "id": 9817,
+                "text": "Thỏa hiệp (Compromise)",
+                "isCorrect": false
+            },
+            {
+                "id": 9818,
+                "text": "Rủi ro (Risk)",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2439,
+        "text": "Trong phân loại các biện pháp kiểm soát quản lý an toàn thông tin, 'Kiểm soát quản lý' (Management controls) KHÔNG tập trung vào vấn đề nào sau đây?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9819,
+                "text": "Các chính sách, lập kế hoạch, và chuẩn mực an toàn thông tin của tổ chức.",
+                "isCorrect": false
+            },
+            {
+                "id": 9820,
+                "text": "Việc lựa chọn chiến lược cho kiểm soát vận hành và kiểm soát kỹ thuật.",
+                "isCorrect": false
+            },
+            {
+                "id": 9821,
+                "text": "Bảo đảm việc sử dụng phần cứng, phần mềm mã hóa đúng cách thức kỹ thuật.",
+                "isCorrect": true
+            },
+            {
+                "id": 9822,
+                "text": "Các vấn đề an ninh được giải quyết thông qua thẩm quyền của lĩnh vực quản lý.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2440,
+        "text": "Trong hệ thống chuẩn ISO 27000 series, chuẩn nào chuyên tập trung cung cấp khung hướng dẫn về quản lý rủi ro cho hệ thống quản lý an toàn thông tin ISMS?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9823,
+                "text": "ISO/IEC 27001",
+                "isCorrect": false
+            },
+            {
+                "id": 9824,
+                "text": "ISO/IEC 27005",
+                "isCorrect": true
+            },
+            {
+                "id": 9825,
+                "text": "ISO/IEC 27002",
+                "isCorrect": false
+            },
+            {
+                "id": 9826,
+                "text": "ISO/IEC 27006",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2441,
+        "text": "Trong khía cạnh pháp lý của an toàn thông tin, 'Đảm bảo mức quan tâm cần thiết (Due Care)' yêu cầu một tổ chức phải thực hiện hành động gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9827,
+                "text": "Chứng minh đã cài đặt đầy đủ các tiêu chuẩn mã hóa quân sự quốc tế.",
+                "isCorrect": false
+            },
+            {
+                "id": 9828,
+                "text": "Đảm bảo mọi nhân viên đều biết cách thức mã hóa và thâm nhập mạng.",
+                "isCorrect": false
+            },
+            {
+                "id": 9829,
+                "text": "Phạt và sa thải tất cả các nhân viên có hành vi vi phạm đạo đức máy tính.",
+                "isCorrect": false
+            },
+            {
+                "id": 9830,
+                "text": "Xây dựng và duy trì môi trường làm việc hợp lệ, đảm bảo an toàn tới người dùng.",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2442,
+        "text": "Khâu 'Thực thi tiếp tục' (Implementation follow-up) trong vòng đời quản lý an toàn thông tin KHÔNG bao gồm nhiệm vụ nào dưới đây?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9831,
+                "text": "Bảo trì liên tục các kiểm soát an ninh đã thiết lập.",
+                "isCorrect": false
+            },
+            {
+                "id": 9832,
+                "text": "Xây dựng hồ sơ tổng hợp phân tích rủi ro ban đầu của hệ thống.",
+                "isCorrect": true
+            },
+            {
+                "id": 9833,
+                "text": "Quản lý các thay đổi và lưu vết cấu hình hệ thống.",
+                "isCorrect": false
+            },
+            {
+                "id": 9834,
+                "text": "Tiến hành kiểm tra hợp chuẩn an ninh mạng định kỳ.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2443,
+        "text": "'Hội đồng Châu Âu về chống tội phạm mạng' đã chính thức thông qua hiệp ước quốc tế đầu tiên về chống tội phạm mạng vào năm nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9835,
+                "text": "1996",
+                "isCorrect": false
+            },
+            {
+                "id": 9836,
+                "text": "1999",
+                "isCorrect": false
+            },
+            {
+                "id": 9837,
+                "text": "2001",
+                "isCorrect": true
+            },
+            {
+                "id": 9838,
+                "text": "2006",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2444,
+        "text": "Nhóm giải pháp 'Kiểm soát vận hành' (Operational controls) chủ yếu giải quyết vấn đề gì trong hệ thống an ninh mạng?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9839,
+                "text": "Xây dựng kế hoạch tổng thể và chuẩn an toàn thông tin cấp cao.",
+                "isCorrect": false
+            },
+            {
+                "id": 9840,
+                "text": "Đảm bảo tính nhất quán trong vận hành, thực thi các thủ tục chủ yếu bởi con người.",
+                "isCorrect": true
+            },
+            {
+                "id": 9841,
+                "text": "Khắc chế ngay lập tức các nỗ lực vi phạm khai thác lỗ hổng bằng phần mềm.",
+                "isCorrect": false
+            },
+            {
+                "id": 9842,
+                "text": "Sử dụng hệ thống phần cứng và phần mềm chuyên dụng để phòng chống tấn công.",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2445,
+        "text": "Trong quy trình phân tích chi tiết rủi ro (9 bước), bước 'Đề xuất các kiểm soát' (Bước 8) đòi hỏi ĐẦU VÀO là gì?",
+        "type": "SINGLE_CHOICE",
+        "level": "HARD",
+        "answers": [
+            {
+                "id": 9843,
+                "text": "Danh sách các kiểm soát hiện có và được lập kế hoạch",
+                "isCorrect": false
+            },
+            {
+                "id": 9844,
+                "text": "Khả năng bị các mối đe dọa kỹ thuật khai thác",
+                "isCorrect": false
+            },
+            {
+                "id": 9845,
+                "text": "Không yêu cầu bất kỳ thông tin đầu vào cụ thể nào từ các bước trước đó",
+                "isCorrect": true
+            },
+            {
+                "id": 9846,
+                "text": "Đánh giá chi tiết xác suất rủi ro bằng định lượng",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2446,
+        "text": "Ở pha Act của chu trình PDCA theo chuẩn ISO 27001, hành động cốt lõi nào sau đây bắt buộc phải được thực hiện?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9847,
+                "text": "Đề ra phạm vi và giới hạn của hệ thống ISMS",
+                "isCorrect": false
+            },
+            {
+                "id": 9848,
+                "text": "Đánh giá rủi ro hệ thống mạng diện rộng",
+                "isCorrect": false
+            },
+            {
+                "id": 9849,
+                "text": "Thực thi các thủ tục giám sát hành vi người dùng thường xuyên",
+                "isCorrect": false
+            },
+            {
+                "id": 9850,
+                "text": "Áp dụng các bài học đã được học và thực hiện các hành động cải tiến, sửa chữa",
+                "isCorrect": true
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    },
+    {
+        "id": 2447,
+        "text": "Trong bảng mô tả 9 bước phân tích chi tiết rủi ro, 'Tính trọng yếu của dữ liệu và hệ thống' được tạo ra làm ĐẦU RA của bước nào?",
+        "type": "SINGLE_CHOICE",
+        "level": "MEDIUM",
+        "answers": [
+            {
+                "id": 9851,
+                "text": "Bước 1: Mô tả đặc điểm hệ thống",
+                "isCorrect": true
+            },
+            {
+                "id": 9852,
+                "text": "Bước 3: Nhận dạng các lỗ hổng",
+                "isCorrect": false
+            },
+            {
+                "id": 9853,
+                "text": "Bước 6: Phân tích các ảnh hưởng",
+                "isCorrect": false
+            },
+            {
+                "id": 9854,
+                "text": "Bước 7: Xác định các rủi ro",
+                "isCorrect": false
+            }
+        ],
+        "selectedAnswerIds": null,
+        "selectedText": null,
+        "isCorrect": null
+    }
+]
