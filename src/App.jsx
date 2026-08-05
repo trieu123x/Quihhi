@@ -113,7 +113,7 @@ function App() {
   
   // Lobby settings
   const [playerName, setPlayerName] = useState(() => {
-    return localStorage.getItem('atbm_player_name') || 'Triều Hỏi';
+    return localStorage.getItem('atbm_player_name') || 'Ẩn danh yêu mọi người';
   });
   const [selectedChapters, setSelectedChapters] = useState([]);
   const [questionCount, setQuestionCount] = useState(20); // 10, 20, 50, all (0 = all)
