@@ -137,7 +137,7 @@ while idx < len(global_blocks):
                 opt_letter = opt_match.group(1).upper()
                 opt_text = opt_match.group(2).strip()
 
-                # Append continuation
+                # Append continuation lines inside this option block
                 opt_lines = next_text.split('\n')[1:]
                 for oln in opt_lines:
                     oln_stripped = oln.strip()
@@ -150,7 +150,14 @@ while idx < len(global_blocks):
                     "is_correct": correct
                 })
                 idx += 1
+            elif len(options) == 0:
+                # No options found yet → this block is continuation of question text
+                continuation = next_text.replace('\n', ' ').strip()
+                if continuation:
+                    q_text = (q_text + ' ' + continuation).strip()
+                idx += 1
             else:
+                # Already collecting options, orphan block → skip
                 idx += 1
 
         if options:
