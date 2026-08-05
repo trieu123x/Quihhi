@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
-import questionsData from './questions.json'
+import questionsDataATBM from './questions.json'
+import questionsDataHDH from './questions_hdh.json'
 import './App.css'
 
 // Audio Synthesis System using Web Audio API
@@ -104,8 +105,11 @@ const BOT_NAMES = [
 ];
 
 function App() {
-  // Screen: 'lobby', 'solo', 'flashcard', 'exam', 'results'
-  const [screen, setScreen] = useState('lobby');
+  // Screen: 'subject', 'lobby', 'solo', 'flashcard', 'exam', 'results'
+  const [screen, setScreen] = useState('subject');
+
+  // Selected subject: 'atbm' | 'hdh'
+  const [subject, setSubject] = useState(null);
   
   // Lobby settings
   const [playerName, setPlayerName] = useState(() => {
@@ -150,6 +154,9 @@ function App() {
 
   // Flashcard states
   const [isFlipped, setIsFlipped] = useState(false);
+
+  // Active dataset based on chosen subject
+  const questionsData = subject === 'hdh' ? questionsDataHDH : questionsDataATBM;
 
   // Extract all unique chapters
   const allChapters = [...new Set(questionsData.map(q => q.chapter))].sort();
@@ -486,6 +493,16 @@ function App() {
     setScreen('lobby');
   };
 
+  const exitToSubject = () => {
+    playSynthSound('click', audioEnabled);
+    document.body.classList.remove('correct-flash', 'incorrect-flash');
+    if (timerIntervalRef.current) clearInterval(timerIntervalRef.current);
+    if (feedbackTimeoutRef.current) clearTimeout(feedbackTimeoutRef.current);
+    setSubject(null);
+    setSelectedChapters([]);
+    setScreen('subject');
+  };
+
   // Helper values
   const currentQuestion = questions[currentIdx];
   const totalQuestionsCount = questions.length;
@@ -502,13 +519,79 @@ function App() {
         {audioEnabled ? "🔊" : "🔇"}
       </button>
 
+      {/* SUBJECT SELECTION SCREEN */}
+      {screen === 'subject' && (
+        <div className="subject-select-container">
+          <div className="subject-hero">
+            <h1 className="subject-hero-title">🎓 QUIHHI QUIZ</h1>
+            <p className="subject-hero-sub">Chọn môn học để bắt đầu ôn tập</p>
+          </div>
+
+          <div className="subject-cards-row">
+            {/* ATBM Card */}
+            <div
+              className="subject-card subject-card-atbm"
+              onClick={() => {
+                playSynthSound('click', audioEnabled);
+                setSubject('atbm');
+                setSelectedChapters([]);
+                setScreen('lobby');
+              }}
+            >
+              <div className="subject-card-icon">🛡️</div>
+              <div className="subject-card-name">An Toàn Bảo Mật</div>
+              <div className="subject-card-desc">Cơ sở An toàn thông tin</div>
+              <div className="subject-card-meta">5 Chương · {questionsDataATBM.length} câu hỏi</div>
+              <div className="subject-card-btn">Học Ngay →</div>
+            </div>
+
+            {/* HDH Card */}
+            <div
+              className="subject-card subject-card-hdh"
+              onClick={() => {
+                playSynthSound('click', audioEnabled);
+                setSubject('hdh');
+                setSelectedChapters([]);
+                setScreen('lobby');
+              }}
+            >
+              <div className="subject-card-icon">⚙️</div>
+              <div className="subject-card-name">Hệ Điều Hành</div>
+              <div className="subject-card-desc">ĐH Nguyễn Tất Thành</div>
+              <div className="subject-card-meta">8 Chương · {questionsDataHDH.length} câu hỏi</div>
+              <div className="subject-card-btn">Học Ngay →</div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* LOBBY SCREEN */}
       {screen === 'lobby' && (
         <div className="lobby-container">
           <div className="logo-section">
-            <h1 className="logo-title">ATBM QUIZIZZ GAME</h1>
+            <button
+              onClick={exitToSubject}
+              style={{
+                background: 'transparent',
+                border: '1px solid var(--border-glass)',
+                color: 'var(--text-gray)',
+                borderRadius: '8px',
+                padding: '6px 14px',
+                cursor: 'pointer',
+                fontSize: '0.85rem',
+                marginBottom: '12px',
+                display: 'inline-block'
+              }}
+            >
+              ← Đổi môn học
+            </button>
+            <h1 className="logo-title">
+              {subject === 'hdh' ? '⚙️ HỆ ĐIỀU HÀNH' : '🛡️ AN TOÀN BẢO MẬT'}
+            </h1>
             <p style={{color: 'var(--text-gray)', fontSize: '1.1rem', marginTop: '10px'}}>
-              Ôn thi trắc nghiệm Cơ sở An toàn thông tin (5 Chương học)
+              {subject === 'hdh'
+                ? 'Ngân hàng câu hỏi Hệ điều hành · ĐH Nguyễn Tất Thành'
+                : 'Ôn thi trắc nghiệm Cơ sở An toàn thông tin (5 Chương học)'}
             </p>
           </div>
 
@@ -527,7 +610,7 @@ function App() {
 
             <div className="input-group">
               <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px'}}>
-                <label className="input-label">Chọn Chương Học (Có 5 chương):</label>
+                <label className="input-label">Chọn Chương Học (Có {allChapters.length} chương):</label>
                 <button 
                   onClick={selectAllChapters}
                   style={{
@@ -840,7 +923,9 @@ function App() {
         <div className="exam-container">
           <div className="exam-header glass-panel">
             <div>
-              <h2 className="exam-title">Bài Thi Thử An Toàn Thông Tin</h2>
+              <h2 className="exam-title">
+                {subject === 'hdh' ? 'Bài Thi Thử Hệ Điều Hành' : 'Bài Thi Thử An Toàn Thông Tin'}
+              </h2>
               <p style={{color: 'var(--text-gray)', fontSize: '0.9rem', marginTop: '4px'}}>
                 Chế độ thi thử • Tổng số: {totalQuestionsCount} câu hỏi
               </p>
