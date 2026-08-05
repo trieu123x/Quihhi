@@ -8,6 +8,33 @@ sys.stdout.reconfigure(encoding='utf-8')
 PDF_PATH = "NganHangCauHoiHDH_DhNguyenTatThanh.pdf"
 OUTPUT_PATH = "questions_hdh.json"
 
+# ---- Watermark / noise patterns to strip ----
+WATERMARK_PATTERNS = [
+    re.compile(r'downloaded\s+by', re.IGNORECASE),
+    re.compile(r'lomoarcpsd', re.IGNORECASE),
+    re.compile(r'lOMoARcPSD', re.IGNORECASE),
+    re.compile(r'studocu', re.IGNORECASE),
+]
+
+def is_watermark_line(line: str) -> bool:
+    """Return True if this line is a watermark / noise line that should be discarded."""
+    t = line.strip()
+    if not t:
+        return True
+    # Standalone page numbers (just digits, maybe surrounded by spaces)
+    if re.fullmatch(r'\d{1,3}', t):
+        return True
+    for pat in WATERMARK_PATTERNS:
+        if pat.search(t):
+            return True
+    return False
+
+def clean_block_text(text: str) -> str:
+    """Remove watermark lines from a block, return cleaned text."""
+    lines = text.split('\n')
+    cleaned = [ln for ln in lines if not is_watermark_line(ln)]
+    return ' '.join(l.strip() for l in cleaned if l.strip())
+
 doc = fitz.open(PDF_PATH)
 print(f"Total pages: {len(doc)}")
 
@@ -54,6 +81,9 @@ for page_idx in range(len(doc)):
         x0, y0, x1, y1, text, block_no, block_type = b
         text_clean = text.strip()
         if not text_clean:
+            continue
+        # Skip blocks that are entirely watermark/noise
+        if is_watermark_line(text_clean):
             continue
         global_rect = fitz.Rect(x0, y0 + current_y_offset, x1, y1 + current_y_offset)
         global_blocks.append({
@@ -152,7 +182,7 @@ while idx < len(global_blocks):
                 idx += 1
             elif len(options) == 0:
                 # No options found yet → this block is continuation of question text
-                continuation = next_text.replace('\n', ' ').strip()
+                continuation = clean_block_text(next_text)
                 if continuation:
                     q_text = (q_text + ' ' + continuation).strip()
                 idx += 1

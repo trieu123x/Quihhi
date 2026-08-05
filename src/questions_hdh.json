@@ -477,7 +477,7 @@
   {
     "number": 22,
     "chapter": "CHƯƠNG 1: TỔNG QUAN HỆ ĐIỀU HÀNH",
-    "question": "Phát biểu nào sau đây KHÔNG ĐÚNG với hệ thống chia sẻ thời gian (time-sharing)? 5 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Phát biểu nào sau đây KHÔNG ĐÚNG với hệ thống chia sẻ thời gian (time-sharing)?",
     "options": [
       {
         "text": "time-sharing là một hệ thống đa nhiệm (multi-tasking).",
@@ -500,7 +500,7 @@
   {
     "number": 23,
     "chapter": "CHƯƠNG 1: TỔNG QUAN HỆ ĐIỀU HÀNH",
-    "question": "Hệ điều hành nào sau đây đòi hỏi phải thực hiện đầy đủ các tác vụ: Quản lý tiến trình, Định thời CPU, Quản lý bộ nhớ, Quản lý cấp phát tài nguyên, Quản lý file? 6 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Hệ điều hành nào sau đây đòi hỏi phải thực hiện đầy đủ các tác vụ: Quản lý tiến trình, Định thời CPU, Quản lý bộ nhớ, Quản lý cấp phát tài nguyên, Quản lý file?",
     "options": [
       {
         "text": "Hệ điều hành xử lý đơn chương.",
@@ -845,7 +845,7 @@
   {
     "number": 38,
     "chapter": "CHƯƠNG 1: TỔNG QUAN HỆ ĐIỀU HÀNH",
-    "question": "Cho biết tên gọi của kiến trúc Hệ điều hành mà các modules chức năng của nó được phân 10 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 chia thành từng lớp giao tiếp vối Kernel.",
+    "question": "Cho biết tên gọi của kiến trúc Hệ điều hành mà các modules chức năng của nó được phân chia thành từng lớp giao tiếp vối Kernel.",
     "options": [
       {
         "text": "Simple OS.",
@@ -1098,7 +1098,7 @@
   {
     "number": 8,
     "chapter": "CHƯƠNG 2: TIẾN TRÌNH VÀ LUỒNG (THREAD)",
-    "question": "Hệ điều hành sẽ KHÔNG cấp phát loại tài nguyên nào cho tiến trình? 13 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Hệ điều hành sẽ KHÔNG cấp phát loại tài nguyên nào cho tiến trình?",
     "options": [
       {
         "text": "Mỗi tiến trình sẽ được cấp một không gian bộ nhớ riêng.",
@@ -1443,7 +1443,7 @@
   {
     "number": 23,
     "chapter": "CHƯƠNG 2: TIẾN TRÌNH VÀ LUỒNG (THREAD)",
-    "question": "Người dùng Windows có thể vừa duyệt web, nghe nhạc, chat, chơi game… đồng thời. Hệ điều hành Windows thực hiện được là do: 17 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Người dùng Windows có thể vừa duyệt web, nghe nhạc, chat, chơi game… đồng thời. Hệ điều hành Windows thực hiện được là do:",
     "options": [
       {
         "text": "Máy tính có nhiều CPU. Mỗi CPU chạy 1 chương trình.",
@@ -1558,7 +1558,7 @@
   {
     "number": 28,
     "chapter": "CHƯƠNG 2: TIẾN TRÌNH VÀ LUỒNG (THREAD)",
-    "question": "Có 3 tiến trình P1, P2, P3 cùng hoạt động song song trong hệ thống máy tính. Biểu đồ hoạt 18 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 động của chúng mô tả theo hình dưới. Cho biết hệ thống máy tính này thuộc loại nào?",
+    "question": "Có 3 tiến trình P1, P2, P3 cùng hoạt động song song trong hệ thống máy tính. Biểu đồ hoạt động của chúng mô tả theo hình dưới. Cho biết hệ thống máy tính này thuộc loại nào?",
     "options": [
       {
         "text": "Hệ thống Uni-Processor (đơn CPU).",
@@ -1880,7 +1880,7 @@
   {
     "number": 42,
     "chapter": "CHƯƠNG 2: TIẾN TRÌNH VÀ LUỒNG (THREAD)",
-    "question": "Để được CPU thực thi, các luồng người dùng (user thread) cần phải: 23 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Để được CPU thực thi, các luồng người dùng (user thread) cần phải:",
     "options": [
       {
         "text": "được ánh xạ vào một luồng nhân (kernel thread) tương ứng.",
@@ -2064,7 +2064,7 @@
   {
     "number": 8,
     "chapter": "CHƯƠNG 3: ĐIỀU PHỐI TIẾN TRÌNH (PROCESS SCHEDULING)",
-    "question": "Bộ định thời nào quyết định thời điểm chuyển một tiến trình từ bộ nhớ sang bộ nhớ phụ (kỹ 26 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 thuật Swapping).",
+    "question": "Bộ định thời nào quyết định thời điểm chuyển một tiến trình từ bộ nhớ sang bộ nhớ phụ (kỹ thuật Swapping).",
     "options": [
       {
         "text": "Bộ định thời CPU (CPU scheduler).",
@@ -2225,7 +2225,7 @@
   {
     "number": 15,
     "chapter": "CHƯƠNG 3: ĐIỀU PHỐI TIẾN TRÌNH (PROCESS SCHEDULING)",
-    "question": "Nguyên tắc chọn tiến trình từ hàng đợi Ready vào cho CPU thực thi của giải thuật điều 28 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 phối FCFS (First-Come, First-Served) là gì?",
+    "question": "Nguyên tắc chọn tiến trình từ hàng đợi Ready vào cho CPU thực thi của giải thuật điều phối FCFS (First-Come, First-Served) là gì?",
     "options": [
       {
         "text": "Tiến trình Pi vào Ready queue trước sẽ được cấp CPU trước.",
@@ -2363,7 +2363,7 @@
   {
     "number": 21,
     "chapter": "CHƯƠNG 3: ĐIỀU PHỐI TIẾN TRÌNH (PROCESS SCHEDULING)",
-    "question": "Cho ba tiến trình P1, P2, P3 với Burst time tương ứng là: 24,3,3. Cho biết “thời gian chờ” 30 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 của tiến trình P3 theo giải thuật điều phối tiến trình FCFS:",
+    "question": "Cho ba tiến trình P1, P2, P3 với Burst time tương ứng là: 24,3,3. Cho biết “thời gian chờ” của tiến trình P3 theo giải thuật điều phối tiến trình FCFS:",
     "options": [
       {
         "text": "0",
@@ -2593,7 +2593,7 @@
   {
     "number": 31,
     "chapter": "CHƯƠNG 3: ĐIỀU PHỐI TIẾN TRÌNH (PROCESS SCHEDULING)",
-    "question": "Bảng dưới thể hiện danh sách các tiến trình trong hàng đợi. Hãy cho biết “thời gian đáp ứng” của tiến trình P2 theo giải thuật điều phối SRTF (Shortest Remaining Time First): 34 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Bảng dưới thể hiện danh sách các tiến trình trong hàng đợi. Hãy cho biết “thời gian đáp ứng” của tiến trình P2 theo giải thuật điều phối SRTF (Shortest Remaining Time First):",
     "options": [
       {
         "text": "0",
@@ -2846,7 +2846,7 @@
   {
     "number": 42,
     "chapter": "CHƯƠNG 3: ĐIỀU PHỐI TIẾN TRÌNH (PROCESS SCHEDULING)",
-    "question": "Với hệ điều hành dùng mô hình ánh xạ Many-to-One và Many-to-Many, thư viện luồng 38 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 (thread library) có vai trò gì?",
+    "question": "Với hệ điều hành dùng mô hình ánh xạ Many-to-One và Many-to-Many, thư viện luồng (thread library) có vai trò gì?",
     "options": [
       {
         "text": "Tra cứu danh mục các luồng (thread).",
@@ -2984,7 +2984,7 @@
   {
     "number": 48,
     "chapter": "CHƯƠNG 3: ĐIỀU PHỐI TIẾN TRÌNH (PROCESS SCHEDULING)",
-    "question": "Trong phương pháp định thời “đa bộ xử lý đối xứng”, có thể có các loại hàng đợi Ready 40 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 nào?",
+    "question": "Trong phương pháp định thời “đa bộ xử lý đối xứng”, có thể có các loại hàng đợi Ready nào?",
     "options": [
       {
         "text": "Hàng đợi chung cho tất cả bộ xử lý.",
@@ -3191,7 +3191,7 @@
   {
     "number": 7,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Cho biết ý nghĩa nào đúng cho đồ thị cấp tài nguyên RAG biểu thị như hình vẽ: 43 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Cho biết ý nghĩa nào đúng cho đồ thị cấp tài nguyên RAG biểu thị như hình vẽ:",
     "options": [
       {
         "text": "Tiến trình P1 yêu cầu tài nguyên R1.",
@@ -3306,7 +3306,7 @@
   {
     "number": 12,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Các trường hợp sau có thể diễn ra trong quá thực thi tiến trình: (1) Loại trừ tương hỗ, (2) Giữ và chờ cấp thêm tài nguyên, (3) Không cho trưng dụng tài nguyên, 45 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 (4) Đợi xoay vòng. Khả năng xảy ra Deadlock (tắc nghẽn) hệ thống do những trường hợp nào gây ra?",
+    "question": "Các trường hợp sau có thể diễn ra trong quá thực thi tiến trình: (1) Loại trừ tương hỗ, (2) Giữ và chờ cấp thêm tài nguyên, (3) Không cho trưng dụng tài nguyên, (4) Đợi xoay vòng. Khả năng xảy ra Deadlock (tắc nghẽn) hệ thống do những trường hợp nào gây ra?",
     "options": [
       {
         "text": "Trường hợp (1) và (2).",
@@ -3375,7 +3375,7 @@
   {
     "number": 15,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Tại thời điểm t, hệ thống có đồ thị cấp phát tài nguyên RAG như hình dưới. Hãy chọn đánh giá đúng: 46 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 47 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Tại thời điểm t, hệ thống có đồ thị cấp phát tài nguyên RAG như hình dưới. Hãy chọn đánh giá đúng:",
     "options": [
       {
         "text": "không xảy ra Deadlock (tắc nghẽn).",
@@ -3467,7 +3467,7 @@
   {
     "number": 19,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Các trường hợp sau có thể diễn ra trong quá thực thi tiến trình: (1) Loại trừ tương hỗ, (2) Giữ và chờ cấp thêm tài nguyên, 48 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 (3) Không cho trưng dụng tài nguyên, (4) Đợi xoay vòng. Để NGĂN CHẶN Deadlock, Hệ điều hành cần phải ngăn chặn không cho xảy ra trường hợp nào?",
+    "question": "Các trường hợp sau có thể diễn ra trong quá thực thi tiến trình: (1) Loại trừ tương hỗ, (2) Giữ và chờ cấp thêm tài nguyên, (3) Không cho trưng dụng tài nguyên, (4) Đợi xoay vòng. Để NGĂN CHẶN Deadlock, Hệ điều hành cần phải ngăn chặn không cho xảy ra trường hợp nào?",
     "options": [
       {
         "text": "Ngăn chặn trường hợp (1) và (3).",
@@ -3605,7 +3605,7 @@
   {
     "number": 25,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Chuỗi thứ tự tiến trình được cấp phát tài nguyên <P1, P2, …, Pn> được cho là an toàn (safe) nếu: với mỗi tiến trình Pi, các tài nguyên mà Pi yêu cầu được thoả mãn bởi số tài nguyên sẵn có (+) số tài nguyên được giữ bởi tất cả tiến trình Pj. Hãy cho biết phát biểu nào đúng? 51 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Chuỗi thứ tự tiến trình được cấp phát tài nguyên <P1, P2, …, Pn> được cho là an toàn (safe) nếu: với mỗi tiến trình Pi, các tài nguyên mà Pi yêu cầu được thoả mãn bởi số tài nguyên sẵn có (+) số tài nguyên được giữ bởi tất cả tiến trình Pj. Hãy cho biết phát biểu nào đúng?",
     "options": [
       {
         "text": "Pj cũng là tiên trình Pi trong chuỗi.",
@@ -3720,7 +3720,7 @@
   {
     "number": 30,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Giả sử, hệ thống có 12 tài nguyên. Có 3 tiến trình A, B, C đang chạy. Tại thời điểm, trạng 52 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 thái sử dung tài nguyên các tiến trình như sau: Hãy chọn phát biểu ĐÚNG khi đánh giá an toàn cho chuỗi tiến trình nếu cho tiến trình C thực thi trước?",
+    "question": "Giả sử, hệ thống có 12 tài nguyên. Có 3 tiến trình A, B, C đang chạy. Tại thời điểm, trạng thái sử dung tài nguyên các tiến trình như sau: Hãy chọn phát biểu ĐÚNG khi đánh giá an toàn cho chuỗi tiến trình nếu cho tiến trình C thực thi trước?",
     "options": [
       {
         "text": "Sẽ là an toàn (safe) vì C đang cần thêm tài nguyên nhiều nhất",
@@ -3743,7 +3743,7 @@
   {
     "number": 31,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Giả sử, hệ thống có 12 tài nguyên. Có 3 tiến trình A, B, C đang chạy. Tại thời điểm, trạng 53 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 thái sử dung tài nguyên các tiến trình như sau: Hãy chọn phát biểu ĐÚNG khi đánh giá an toàn cho chuỗi tiến trình nếu cho tiến trình B thực thi trước?",
+    "question": "Giả sử, hệ thống có 12 tài nguyên. Có 3 tiến trình A, B, C đang chạy. Tại thời điểm, trạng thái sử dung tài nguyên các tiến trình như sau: Hãy chọn phát biểu ĐÚNG khi đánh giá an toàn cho chuỗi tiến trình nếu cho tiến trình B thực thi trước?",
     "options": [
       {
         "text": "Sẽ là an toàn (safe) vì số tài nguyên B cần thêm ít hơn số tài nguyên sẵn có.",
@@ -3812,7 +3812,7 @@
   {
     "number": 34,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Xem ảnh 2 loại đồ thị dưới đây và chọn phát biểu đúng. 55 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Xem ảnh 2 loại đồ thị dưới đây và chọn phát biểu đúng.",
     "options": [
       {
         "text": "(a) là đồ thị cấp phát tài nguyên; (b) là đồ thị chờ tài nguyên.",
@@ -3904,7 +3904,7 @@
   {
     "number": 38,
     "chapter": "CHƯƠNG 4: TẮC NGHẼN (DEADLOCK)",
-    "question": "Hệ điều hành sử dụng thuật toán phá hủy “chu trình chò” (Circular wait) của đồ thị cấp phát tài nguyên RAG. Giải thuật này nhằm giải quyết Deadlock theo phương pháp nào? 56 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Hệ điều hành sử dụng thuật toán phá hủy “chu trình chò” (Circular wait) của đồ thị cấp phát tài nguyên RAG. Giải thuật này nhằm giải quyết Deadlock theo phương pháp nào?",
     "options": [
       {
         "text": "Phương pháp Ngăn chặn (preventing)",
@@ -4088,7 +4088,7 @@
   {
     "number": 6,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Người dùng sử dụng một ngôn ngữ lập trình để viết (code) một phần mềm. Để có thể thực thi, anh ta tiến hành biên dịch (Compile) phần mềm đó. Không gian địa chỉ của phần mềm sau khi được chuyển đổi bởi trình biên dịch thuộc loại nào? 59 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Người dùng sử dụng một ngôn ngữ lập trình để viết (code) một phần mềm. Để có thể thực thi, anh ta tiến hành biên dịch (Compile) phần mềm đó. Không gian địa chỉ của phần mềm sau khi được chuyển đổi bởi trình biên dịch thuộc loại nào?",
     "options": [
       {
         "text": "Symbolic address.",
@@ -4111,7 +4111,7 @@
   {
     "number": 7,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Một chương trình sau khi được biên dịch (Compile), bộ nạp (Loader) tiến hành nạp chương trình đó vào bộ nhớ. Không gian địa chỉ do Loader chuyển đổi từ chương trình dịch thuộc loại nào? 60 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Một chương trình sau khi được biên dịch (Compile), bộ nạp (Loader) tiến hành nạp chương trình đó vào bộ nhớ. Không gian địa chỉ do Loader chuyển đổi từ chương trình dịch thuộc loại nào?",
     "options": [
       {
         "text": "Symbolic address.",
@@ -4226,7 +4226,7 @@
   {
     "number": 12,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Tại thời điểm thực thi tiến trình, một process có thể được di chuyển từ vùng nhớ này sang vùng nhớ khác. Việc chuyển đổi không gian địa chỉ này được thực hiện bằng cách nào? 61 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Tại thời điểm thực thi tiến trình, một process có thể được di chuyển từ vùng nhớ này sang vùng nhớ khác. Việc chuyển đổi không gian địa chỉ này được thực hiện bằng cách nào?",
     "options": [
       {
         "text": "dùng bộ quản lý bộ nhớ MMU",
@@ -4410,7 +4410,7 @@
   {
     "number": 20,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Kỹ thuật Swapping tiến trình giải quyết được vần đề nào? vấn đề tổng không gian tiến 64 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 trình:",
+    "question": "Kỹ thuật Swapping tiến trình giải quyết được vần đề nào? vấn đề tổng không gian tiến trình:",
     "options": [
       {
         "text": "tổng không gian tiến trình lớn hơn tổng bộ nhớ vật lý.",
@@ -4663,7 +4663,7 @@
   {
     "number": 31,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Hệ điều hành dùng kỹ thuật phân trang bộ nhớ sẽ giải quyết được vấn đề nào? 67 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Hệ điều hành dùng kỹ thuật phân trang bộ nhớ sẽ giải quyết được vấn đề nào?",
     "options": [
       {
         "text": "Tránh được phân mảnh ngoại.",
@@ -4778,7 +4778,7 @@
   {
     "number": 36,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Ảnh bên dưới mô tả 1 bảng trang (Page table) của tiến trình P chạy trong Hệ điều hành dùng kỹ thuật phân trang. Nếu mỗi Frame = 8 Bytes, hãy cho biết tiến trình P được cấp bao 69 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 nhiêu dung lượng bộ nhớ?",
+    "question": "Ảnh bên dưới mô tả 1 bảng trang (Page table) của tiến trình P chạy trong Hệ điều hành dùng kỹ thuật phân trang. Nếu mỗi Frame = 8 Bytes, hãy cho biết tiến trình P được cấp bao nhiêu dung lượng bộ nhớ?",
     "options": [
       {
         "text": "160 bytes.",
@@ -4801,7 +4801,7 @@
   {
     "number": 37,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Ảnh bên dưới mô tả 1 bảng trang (Page table) của tiến trình P chạy trong Hệ điều hành dùng 70 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 kỹ thuật phân trang. Cho biết các số thuộc cột “Index (pages)” là gì?",
+    "question": "Ảnh bên dưới mô tả 1 bảng trang (Page table) của tiến trình P chạy trong Hệ điều hành dùng kỹ thuật phân trang. Cho biết các số thuộc cột “Index (pages)” là gì?",
     "options": [
       {
         "text": "độ dời của page.",
@@ -4870,7 +4870,7 @@
   {
     "number": 40,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Trong kỹ thuật phân trang bộ nhớ, tiến trình được cấp không gian bộ nhớ là 2m bytes, kích thước mỗi page là 2n byte. Địa chỉ luận lý của tiến trình có dạng (p,d). Hãy cho biết p gồm bao nhiêu bits? 71 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Trong kỹ thuật phân trang bộ nhớ, tiến trình được cấp không gian bộ nhớ là 2m bytes, kích thước mỗi page là 2n byte. Địa chỉ luận lý của tiến trình có dạng (p,d). Hãy cho biết p gồm bao nhiêu bits?",
     "options": [
       {
         "text": "số bit của p = m-n bits",
@@ -5169,7 +5169,7 @@
   {
     "number": 53,
     "chapter": "CHƯƠNG 5: QUẢN LÝ BỘ NHỚ (MEMORY MANAGEMENT)",
-    "question": "Ảnh dưới cho thấy chuỗi page cần xử lý của 1 tiến trình (tiến trình chỉ được cấp 3 pages), kèm theo đó là minh họa cho 1 giải thuật thay thế trang (page replacement). Những vị trí có ký hiệu F là thời điểm cần thay thế trang. Hãy cho biết tên của giải thuật thay trang. 76 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Ảnh dưới cho thấy chuỗi page cần xử lý của 1 tiến trình (tiến trình chỉ được cấp 3 pages), kèm theo đó là minh họa cho 1 giải thuật thay thế trang (page replacement). Những vị trí có ký hiệu F là thời điểm cần thay thế trang. Hãy cho biết tên của giải thuật thay trang.",
     "options": [
       {
         "text": "Giải thuật FIFO (First In – First Out)",
@@ -5813,7 +5813,7 @@
   {
     "number": 25,
     "chapter": "CHƯƠNG 6: QUẢN LÝ THIẾT BỊ LƯU TRỮ (STORAGE MANAGEMENT)",
-    "question": "Đĩa cứng có 200 cylinder (từ 0 đến 199). Đầu từ đang ở cylinder số 53. Hàng đợi đang có các yêu cầu truy xuất đĩa cứng tại các cylinder 98, 183, 37, 122, 14, 124, 65, 67. Hỏi tổng số bước di chuyển đầu đọc của thuật toán SCAN 85 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Đĩa cứng có 200 cylinder (từ 0 đến 199). Đầu từ đang ở cylinder số 53. Hàng đợi đang có các yêu cầu truy xuất đĩa cứng tại các cylinder 98, 183, 37, 122, 14, 124, 65, 67. Hỏi tổng số bước di chuyển đầu đọc của thuật toán SCAN",
     "options": [
       {
         "text": "236 cylinder",
@@ -5836,7 +5836,7 @@
   {
     "number": 26,
     "chapter": "CHƯƠNG 6: QUẢN LÝ THIẾT BỊ LƯU TRỮ (STORAGE MANAGEMENT)",
-    "question": "Hiện tượng nào có thể xảy ra khi áp dụng giải thuật định thời đĩa “Thời  gian tìm kiếm ngắn nhất” (SSTF): 86 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Hiện tượng nào có thể xảy ra khi áp dụng giải thuật định thời đĩa “Thời  gian tìm kiếm ngắn nhất” (SSTF):",
     "options": [
       {
         "text": "Đầu đọc bị xoay vòng vô tận.",
@@ -6158,7 +6158,7 @@
   {
     "number": 40,
     "chapter": "CHƯƠNG 6: QUẢN LÝ THIẾT BỊ LƯU TRỮ (STORAGE MANAGEMENT)",
-    "question": "Ưu điểm của kỹ thuật phối hợp dãy các đĩa cứng RAID-10 là: 89 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Ưu điểm của kỹ thuật phối hợp dãy các đĩa cứng RAID-10 là:",
     "options": [
       {
         "text": "tốc độ cao.",
@@ -6181,7 +6181,7 @@
   {
     "number": 41,
     "chapter": "CHƯƠNG 6: QUẢN LÝ THIẾT BỊ LƯU TRỮ (STORAGE MANAGEMENT)",
-    "question": "Nếu dùng kỹ thuật phối hợp dãy các đĩa cứng RAID-0 cho 2 ổ đĩa, mỗi ổ có dung lượng 100GB thì tổng dung lượng có thể lưu trữ trên ổ đĩa luận lý tạo bởi RAID là bao nhiêu? 90 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Nếu dùng kỹ thuật phối hợp dãy các đĩa cứng RAID-0 cho 2 ổ đĩa, mỗi ổ có dung lượng 100GB thì tổng dung lượng có thể lưu trữ trên ổ đĩa luận lý tạo bởi RAID là bao nhiêu?",
     "options": [
       {
         "text": "50 GB",
@@ -6963,7 +6963,7 @@
   {
     "number": 32,
     "chapter": "CHƯƠNG 7: HỆ THỐNG TẬP TIN (FILE SYSTEM)",
-    "question": "Quan sát bảng thư mục dưới đây và cho biết thuộc loại “cấp phất không gian lưu trữ trên đĩa” nào? 100 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104 101 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Quan sát bảng thư mục dưới đây và cho biết thuộc loại “cấp phất không gian lưu trữ trên đĩa” nào?",
     "options": [
       {
         "text": "Cấp phát liên tục (continuous allocation)",
@@ -7009,7 +7009,7 @@
   {
     "number": 34,
     "chapter": "CHƯƠNG 7: HỆ THỐNG TẬP TIN (FILE SYSTEM)",
-    "question": "Quan sát cấu trúc cấp phát block ở hình dưới. Cho biết đây là loại “cấp phất không gian lưu trữ trên đĩa” nào? 102 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Quan sát cấu trúc cấp phát block ở hình dưới. Cho biết đây là loại “cấp phất không gian lưu trữ trên đĩa” nào?",
     "options": [
       {
         "text": "Cấp phát liên tục (continuous allocation)",
@@ -7147,7 +7147,7 @@
   {
     "number": 40,
     "chapter": "CHƯƠNG 7: HỆ THỐNG TẬP TIN (FILE SYSTEM)",
-    "question": "Trong bảng thư mục (directory table) của phương pháp cấp phát đĩa kiểu danh sách liên kết (linked allocation), mỗi dòng thông tin file phải có hạng mục nào?: 104 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Trong bảng thư mục (directory table) của phương pháp cấp phát đĩa kiểu danh sách liên kết (linked allocation), mỗi dòng thông tin file phải có hạng mục nào?:",
     "options": [
       {
         "text": "số hiệu khối bắt đầu và số khối đã cấp cho file.",
@@ -7676,7 +7676,7 @@
   {
     "number": 20,
     "chapter": "CHƯƠNG 8: QUẢN LÝ NHẬP XUẤT (I/O MANAGEMENT)",
-    "question": "Giao diện điều khiển nhập xuất (I/O interface) của Hệ điều hành dùng làm gì? 111 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Giao diện điều khiển nhập xuất (I/O interface) của Hệ điều hành dùng làm gì?",
     "options": [
       {
         "text": "Vận hành một cổng, bus hoặc một thiết bị.",
@@ -7860,7 +7860,7 @@
   {
     "number": 28,
     "chapter": "CHƯƠNG 8: QUẢN LÝ NHẬP XUẤT (I/O MANAGEMENT)",
-    "question": "Bảng dưới là phân lớp giao tiếp I/O của Hệ điều hành. Hãy cho biết: một ứng dụng chạy trên Hệ điều hành đó cần làm gì để giao tiếp I/O? 114 Downloaded by Nguyen Tat Thang (nguyen.t.t.mech@gmail.com) lOMoARcPSD|58558104",
+    "question": "Bảng dưới là phân lớp giao tiếp I/O của Hệ điều hành. Hãy cho biết: một ứng dụng chạy trên Hệ điều hành đó cần làm gì để giao tiếp I/O?",
     "options": [
       {
         "text": "Sử dụng System call để chuyển yêu cầu vào I/O subsystem.",
